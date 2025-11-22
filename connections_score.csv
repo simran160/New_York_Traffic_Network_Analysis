@@ -1,0 +1,5001 @@
+Intersection,Borough,score
+BROADWAY,Manhattan,56.0
+LINDEN BLVD,Queens,18.0
+WEST END AV,Manhattan,16.0
+ATLANTIC AVENUE,Queens,15.0
+BOROUGH BOUNDARY,Brooklyn,15.0
+3 AVENUE,Manhattan,15.0
+FLATBUSH AVENUE,Brooklyn,15.0
+LIBERTY AV,Queens,14.0
+5 AV,Brooklyn,14.0
+7 AV,Brooklyn,13.0
+3 AV,Manhattan,13.0
+ROCKAWAY BLVD,Queens,12.0
+LINDEN BOULEVARD,Brooklyn,12.0
+VICTORY BOULEVARD,Staten Island,11.0
+CENSUS BOUNDARY,Queens,11.0
+Broadway,Queens,11.0
+2 AV,Manhattan,10.0
+MERRICK BOULEVARD,Queens,10.0
+5 AVENUE,Manhattan,10.0
+QUEENS BOULEVARD,Queens,10.0
+E 14 ST,Manhattan,10.0
+CONEY ISLAND AV,Brooklyn,10.0
+14 Street/canarsie Line,Manhattan,10.0
+ROOSEVELT AVENUE,Queens,10.0
+111 STREET,Queens,10.0
+OCEAN PARKWAY,Brooklyn,9.0
+PARK AV,Manhattan,9.0
+NORTHERN BOULEVARD,Queens,9.0
+AMSTERDAM AVENUE,Manhattan,9.0
+1 AVENUE,Manhattan,9.0
+61 ST,Brooklyn,8.0
+KISSENA BLVD,Queens,8.0
+ATLANTIC AV,Brooklyn,8.0
+2 AVENUE,Manhattan,8.0
+NORTHERN BLVD,Queens,8.0
+LIBERTY AVENUE,Queens,8.0
+4 AV,Manhattan,8.0
+BRUCKNER BOULEVARD,Bronx,8.0
+8 AV,Brooklyn,8.0
+Broadway/ 7 Avenue Line,Manhattan,8.0
+WEBSTER AVENUE,Staten Island,7.0
+UNION ST,Queens,7.0
+WASHINGTON AVENUE,Brooklyn,7.0
+FLUSHING AVENUE,Brooklyn,7.0
+MADISON AV,Manhattan,7.0
+EAST 163 STREET,Bronx,7.0
+MAIN ST,Queens,7.0
+FLATLANDS AV,Brooklyn,7.0
+BROOKLYN QUEENS EXPRESSWAY,Queens,7.0
+7 AVENUE,Brooklyn,7.0
+WHITE PLAINS ROAD,Bronx,7.0
+8 Avenue Line,Brooklyn,7.0
+EAST FORDHAM ROAD,Bronx,7.0
+AMSTERDAM AV,Manhattan,7.0
+NEPTUNE AVENUE,Brooklyn,7.0
+BOSTON ROAD,Bronx,7.0
+E 60 ST,Manhattan,7.0
+HILLSIDE AV,Staten Island,7.0
+CROSS BAY BOULEVARD,Queens,7.0
+RICHMOND ROAD,Staten Island,6.0
+DEKALB AVENUE,Brooklyn,6.0
+76 ST,Queens,6.0
+FRANCIS LEWIS BLVD,Queens,6.0
+N CONDUIT AV,Queens,6.0
+HYLAN BOULEVARD,Staten Island,6.0
+MYRTLE AVENUE,Queens,6.0
+AV Z,Brooklyn,6.0
+RIVERSIDE DR,Manhattan,6.0
+SARATOGA AV,Brooklyn,6.0
+5 Avenue,Manhattan,6.0
+Queens Boulevard,Queens,6.0
+OLD FULTON ST,Brooklyn,6.0
+HUTCHINSON RIVER PKWY,Bronx,6.0
+QUEENS BLVD,Queens,6.0
+Belt Parkway,Queens,6.0
+37 AV,Queens,6.0
+Astoria Line,Manhattan,6.0
+2 Avenue,Manhattan,6.0
+92 ST,Queens,6.0
+BAY PKWY,Brooklyn,6.0
+86 ST,Brooklyn,6.0
+S CONDUIT AV,Brooklyn,6.0
+HAMILTON AVENUE,Brooklyn,6.0
+9 AVENUE,Manhattan,5.0
+14 AVENUE,Queens,5.0
+MEEKER AVENUE,Brooklyn,5.0
+BARTOW AVENUE,Bronx,5.0
+SUTTER AV,Queens,5.0
+BEVERLY ROAD,Queens,5.0
+EAST TREMONT AVENUE,Bronx,5.0
+COLUMBUS AV,Manhattan,5.0
+E GUN HILL RD,Bronx,5.0
+COLUMBUS AVENUE,Manhattan,5.0
+CLARENDON RD,Brooklyn,5.0
+EAST 161 STREET,Bronx,5.0
+LAFAYETTE AVENUE,Bronx,5.0
+BOSTON RD,Bronx,5.0
+Amtrak-hellgate Line,Bronx,5.0
+W 135 ST,Manhattan,5.0
+LEXINGTON AVENUE,Manhattan,5.0
+STILLWELL AV,Brooklyn,5.0
+JACKSON AV,Queens,5.0
+21 STREET,Queens,5.0
+BORDEN AVENUE,Queens,5.0
+CLASSON AV,Brooklyn,5.0
+JACKSON AVENUE,Bronx,5.0
+CANAL ST,Manhattan,5.0
+JAMAICA AVENUE,Brooklyn,5.0
+101 AV,Brooklyn,5.0
+VICTORY BLVD,Staten Island,5.0
+HYLAN BLVD,Staten Island,5.0
+ASTORIA BOULEVARD,Queens,5.0
+HUNTS POINT AVENUE,Bronx,5.0
+AV N,Brooklyn,5.0
+Lafayette Avenue,Bronx,5.0
+23 AVENUE,Queens,5.0
+244 ST,Queens,5.0
+3 ST,Brooklyn,5.0
+Knickerbocker Avenue,Brooklyn,5.0
+11 Avenue,Manhattan,5.0
+E 13 ST,Brooklyn,5.0
+Flushing Line,Queens,5.0
+PENNSYLVANIA AVENUE,Brooklyn,5.0
+CROPSEY AVENUE,Brooklyn,5.0
+JENNINGS ST,Bronx,5.0
+AV P,Brooklyn,5.0
+60 ST,Brooklyn,5.0
+FLATLANDS AVENUE,Brooklyn,5.0
+OCEAN PKWY,Brooklyn,5.0
+56 AV,Queens,5.0
+WYTHE AV,Brooklyn,5.0
+HAMILTON AV,Brooklyn,5.0
+SEDGWICK AVENUE,Bronx,5.0
+WALLABOUT ST,Brooklyn,5.0
+BAY RIDGE PKWY,Brooklyn,5.0
+4 Avenue,Brooklyn,5.0
+Adam Clayton Powell Blvd NB,Manhattan,5.0
+Culver/ 6 Avenue Line,Brooklyn,5.0
+VYSE AV,Bronx,5.0
+11 AVENUE,Manhattan,5.0
+108 STREET,Queens,5.0
+Washington Avenue,Brooklyn,5.0
+CLOVE ROAD,Staten Island,4.0
+KINGS HWY,Brooklyn,4.0
+Brooklyn Queens Expressway,Brooklyn,4.0
+E 61 ST,Manhattan,4.0
+Bronx River Shoreline,Bronx,4.0
+Staten Island Railway Line,Staten Island,4.0
+OCEAN AVENUE,Brooklyn,4.0
+ADAMS STREET,Brooklyn,4.0
+CORTELYOU RD,Brooklyn,4.0
+SUTPHIN BLVD,Queens,4.0
+MADISON AVENUE,Manhattan,4.0
+77 RD,Queens,4.0
+PARSONS BLVD,Queens,4.0
+COLUMBIA ST,Brooklyn,4.0
+FT WASHINGTON AV,Manhattan,4.0
+RICHMOND AV,Staten Island,4.0
+QUEENSBORO BR,Manhattan,4.0
+GRAND CENTRAL PARKWAY,Queens,4.0
+CROPSEY AV,Brooklyn,4.0
+CASTLETON AV,Staten Island,4.0
+CHURCH AV,Brooklyn,4.0
+SARATOGA AVENUE,Brooklyn,4.0
+E 172 ST,Bronx,4.0
+CYPRESS AV,Queens,4.0
+9 AV,Manhattan,4.0
+Cross Island Parkway,Queens,4.0
+BRUCKNER EXWY,Bronx,4.0
+Harlem River Shoreline,Manhattan,4.0
+East 5 Street,Brooklyn,4.0
+Driggs Avenue,Brooklyn,4.0
+JACKIE ROBINSON PARKWAY,Queens,4.0
+TILLARY STREET,Brooklyn,4.0
+RICHMOND AVENUE,Staten Island,4.0
+MOUNT MORRIS PARK W,Manhattan,4.0
+AV U,Brooklyn,4.0
+SUTTER AVENUE,Queens,4.0
+47 AVENUE,Queens,4.0
+UTICA AV,Brooklyn,4.0
+AVENUE M,Brooklyn,4.0
+WHITE PLAINS RD,Bronx,4.0
+HOWARD AV,Brooklyn,4.0
+METROPOLITAN AVENUE,Brooklyn,4.0
+AV O,Brooklyn,4.0
+PARK AVENUE,Brooklyn,4.0
+E 15 ST,Brooklyn,4.0
+GRAND ST,Manhattan,4.0
+10 ST,Brooklyn,4.0
+WHITESTONE EXWY,Queens,4.0
+90 ST,Queens,4.0
+130 ST,Queens,4.0
+WESTCHESTER AV,Bronx,4.0
+COURT STREET,Brooklyn,4.0
+UNION TP,Queens,4.0
+1 AV,Manhattan,4.0
+SURF AVENUE,Brooklyn,4.0
+E 233 ST,Bronx,4.0
+BROOKLYN AV,Brooklyn,4.0
+PACIFIC ST,Brooklyn,4.0
+BENSON AV,Brooklyn,4.0
+31 RD,Queens,4.0
+AVE OF THE AMERICAS,Manhattan,4.0
+103 AVENUE,Queens,4.0
+KISSENA BOULEVARD,Queens,4.0
+FLUSHING AV,Brooklyn,4.0
+67 ST,Brooklyn,4.0
+W 95 ST,Manhattan,4.0
+W 97 ST,Manhattan,4.0
+21 ST,Queens,4.0
+E 23 ST,Manhattan,4.0
+6 Avenue Line,Manhattan,4.0
+Borden Avenue,Queens,4.0
+JUNCTION BLVD,Queens,4.0
+Shore Parkway,Brooklyn,4.0
+BOONE AV,Bronx,4.0
+ST NICHOLAS AV,Brooklyn,4.0
+MANHATTAN BRIDGE,Manhattan,4.0
+WOODHAVEN BOULEVARD,Queens,4.0
+ROCKAWAY BOULEVARD,Queens,4.0
+Avenue S,Brooklyn,4.0
+Bike Path,Queens,4.0
+38 ST,Queens,4.0
+E 8 ST,Brooklyn,4.0
+W 61 ST,Manhattan,4.0
+6 AV,Manhattan,4.0
+ROCKAWAY PKWY,Brooklyn,4.0
+WESTMINSTER RD,Brooklyn,4.0
+75 AVENUE,Queens,4.0
+RICHMOND RD,Staten Island,4.0
+KINGS HIGHWAY,Brooklyn,4.0
+73 AV,Queens,4.0
+COLUMBIA STREET,Brooklyn,4.0
+CENTRAL PARK W,Manhattan,4.0
+CENTRAL PK W,Manhattan,4.0
+W 72 ST,Manhattan,4.0
+75 Street,Queens,4.0
+37 AVENUE,Queens,4.0
+WESTCHESTER AVENUE,Bronx,4.0
+EAST HOUSTON STREET,Manhattan,4.0
+AVENUE OF THE AMERICAS,Manhattan,3.0
+58 STREET,Queens,3.0
+HICKS ST,Brooklyn,3.0
+75 AV,Queens,3.0
+WASHINGTON AV,Brooklyn,3.0
+E HOUSTON ST,Manhattan,3.0
+138 ST,Queens,3.0
+E TREMONT AV,Bronx,3.0
+UNION TURNPIKE,Queens,3.0
+ASTORIA BOULEVARD NORTH,Queens,3.0
+MORRIS AV,Bronx,3.0
+WEBSTER AV,Bronx,3.0
+CHURCH AVENUE,Brooklyn,3.0
+ALBANY AV,Brooklyn,3.0
+DELANCEY STREET,Manhattan,3.0
+WOODHAVEN BLVD,Queens,3.0
+31 AVENUE,Queens,3.0
+ROCHESTER AVENUE,Brooklyn,3.0
+MAC DOUGAL ST,Brooklyn,3.0
+COOPER AVENUE,Queens,3.0
+BAY STREET,Staten Island,3.0
+MAIN STREET,Queens,3.0
+PARKSIDE AVENUE,Brooklyn,3.0
+New York Avenue,Brooklyn,3.0
+78 RD,Queens,3.0
+143 Street,Queens,3.0
+GATES AV,Brooklyn,3.0
+STRONG ST/RESERVOIR AV,Bronx,3.0
+W 85 ST,Manhattan,3.0
+3 Street,Staten Island,3.0
+150 ST,Queens,3.0
+Brighton Line,Brooklyn,3.0
+East Drive,Manhattan,3.0
+JANSEN ST,Staten Island,3.0
+IRVING PL,Manhattan,3.0
+E 196 ST,Bronx,3.0
+W 71 ST,Manhattan,3.0
+KENT AV,Brooklyn,3.0
+HOR HARDING EXWY SR N,Queens,3.0
+94 STREET,Queens,3.0
+COURT ST,Brooklyn,3.0
+147 AV,Queens,3.0
+118 ST,Queens,3.0
+JEROME AV,Brooklyn,3.0
+128 ST,Queens,3.0
+CENTRAL AV,Queens,3.0
+RALPH AVENUE,Brooklyn,3.0
+E 54 ST,Brooklyn,3.0
+FULTON ST,Brooklyn,3.0
+169 STREET,Queens,3.0
+HUMBOLDT ST,Brooklyn,3.0
+ROCKAWAY FREEWAY,Queens,3.0
+41 AV,Queens,3.0
+PELHAM PARKWAY SOUTH,Bronx,3.0
+AVENUE X,Brooklyn,3.0
+MARCY AVENUE,Brooklyn,3.0
+MORRIS PARK AVENUE,Bronx,3.0
+SOUTH STREET,Manhattan,3.0
+CROSS ISLE PKWY SR S,Queens,3.0
+FT HAMILTON PKWY,Brooklyn,3.0
+EAST 25 STREET,Manhattan,3.0
+Ocean Pkwy NB Service Rd Between,Brooklyn,3.0
+COOPER AV,Queens,3.0
+8 Avenue,Brooklyn,3.0
+Crosstown Line,Brooklyn,3.0
+GRANT AV,Brooklyn,3.0
+97 STREET,Queens,3.0
+90 Street,Queens,3.0
+56 ST,Queens,3.0
+SHORE PKWY,Brooklyn,3.0
+Pelham Line,Bronx,3.0
+85 Street,Brooklyn,3.0
+97 ST,Queens,3.0
+Carroll Street,Brooklyn,3.0
+NORMAN AV,Brooklyn,3.0
+CROSS BRONX EXWY,Bronx,3.0
+F D R DRIVE,Manhattan,3.0
+PROSPECT AVENUE,Bronx,3.0
+W 79 ST,Manhattan,3.0
+ROCKLAND AVENUE,Staten Island,3.0
+SEAGIRT BOULEVARD,Queens,3.0
+VAN WYCK EXPRESSWAY,Queens,3.0
+WEST 72 STREET,Manhattan,3.0
+MORGAN AVENUE,Brooklyn,3.0
+DREW ST,Brooklyn,3.0
+Flatbush Ave SB Between,Brooklyn,3.0
+ARTHUR KILL RD,Staten Island,3.0
+LIVONIA AVENUE,Brooklyn,3.0
+19 STREET,Queens,3.0
+COLLEGE POINT BOULEVARD,Queens,3.0
+AVENUE J,Brooklyn,3.0
+FARRAGUT ROAD,Brooklyn,3.0
+ELIZABETH ST,Staten Island,3.0
+CORNELIA STREET,Brooklyn,3.0
+23 AV,Queens,3.0
+CENTRAL PARK S,Manhattan,3.0
+11 AV,Brooklyn,3.0
+65 ST,Brooklyn,3.0
+HAMILTON AVENUE BRIDGE,Brooklyn,3.0
+EAST 59 STREET,Brooklyn,3.0
+AVENUE U,Brooklyn,3.0
+GRAND AV,Queens,3.0
+SHERIDAN AV,Brooklyn,3.0
+VERNON BOULEVARD,Queens,3.0
+19 AV,Brooklyn,3.0
+RUTLAND RD,Brooklyn,3.0
+JOHNSON AV,Bronx,3.0
+Irving Avenue,Brooklyn,3.0
+Fulton Street Line,Queens,3.0
+DUANE ST,Manhattan,3.0
+METROPOLITAN AV,Queens,3.0
+VAN CORTLANDT PARK E,Bronx,3.0
+BROOKLYN BRIDGE,Manhattan,3.0
+WATERS PLACE,Bronx,3.0
+BELT PARKWAY,Brooklyn,3.0
+3 AVENUE BRIDGE,Manhattan,3.0
+BRADDOCK AVENUE,Queens,3.0
+EAST 149 STREET,Bronx,3.0
+65 STREET,Brooklyn,3.0
+ROCKAWAY PARKWAY,Brooklyn,3.0
+Union Turnpike,Queens,3.0
+Northern Boulevard,Queens,3.0
+BAYCHESTER AVENUE,Bronx,3.0
+East 58 Street,Brooklyn,3.0
+LANGDALE ST,Queens,3.0
+ROCKAWAY BEACH BLVD,Queens,3.0
+32 Avenue,Queens,3.0
+51 Avenue,Queens,3.0
+West 60 Street,Manhattan,3.0
+BARTOW AV,Bronx,3.0
+LEE AV,Brooklyn,3.0
+SPRING STREET,Manhattan,3.0
+W 9 ST,Brooklyn,3.0
+TER DR,Manhattan,3.0
+86 STREET,Brooklyn,3.0
+BOOTH MEMORIAL AV,Queens,3.0
+Flatbush Ave NB Between,Brooklyn,3.0
+UNNAMED ST,Queens,3.0
+LEXINGTON AV,Manhattan,3.0
+W 86 ST,Manhattan,3.0
+MYRTLE AV,Queens,3.0
+NEW ENGLAND THRWY,Bronx,3.0
+WOODBINE ST,Brooklyn,3.0
+E 85 ST,Manhattan,3.0
+E 86 ST,Manhattan,3.0
+E 56 ST,Brooklyn,3.0
+Greenpoint Avenue,Queens,3.0
+Lirr Montauk Line,Queens,3.0
+West 120 Street,Manhattan,3.0
+W 173 ST,Manhattan,3.0
+AUTUMN AVENUE,Brooklyn,3.0
+84 ST,Brooklyn,3.0
+83 Street,Brooklyn,3.0
+Broadway Line,Manhattan,3.0
+CROSS BAY BLVD,Queens,3.0
+UNION SQ S/BROADWAY,Manhattan,3.0
+CATHERINE ST,Brooklyn,3.0
+Coney Island Creek Shoreline,Brooklyn,3.0
+BODY OF WATER,Manhattan,3.0
+East 116 Street,Manhattan,3.0
+LINCOLN AV,Brooklyn,3.0
+63 Street Line,Manhattan,3.0
+Linden Boulevard,Queens,3.0
+8 Street,Queens,3.0
+1 Avenue,Brooklyn,3.0
+East 61 Street,Brooklyn,3.0
+East 57 Street,Brooklyn,3.0
+5 ST,Brooklyn,3.0
+Hylan Blvd SB Between,Staten Island,3.0
+RAMP,Brooklyn,3.0
+ROSE AV,Staten Island,3.0
+NASSAU AVENUE,Brooklyn,3.0
+AMBOY ROAD,Staten Island,3.0
+PITKIN AVENUE,Brooklyn,3.0
+SKILLMAN AV,Brooklyn,3.0
+E 3 ST,Brooklyn,3.0
+LINCOLN PL,Brooklyn,3.0
+East 19 Street,Brooklyn,3.0
+Argyle Road,Brooklyn,3.0
+AUDUBON AV,Manhattan,3.0
+71 ST,Queens,3.0
+East 46 Street,Manhattan,3.0
+Gates Avenue,Brooklyn,3.0
+E 59 ST,Manhattan,3.0
+BRUCKNER BLVD,Queens,3.0
+55 ST,Brooklyn,3.0
+43 Street,Queens,3.0
+Stewart Avenue,Brooklyn,3.0
+VARICK AV,Brooklyn,3.0
+EVERGREEN AV,Brooklyn,3.0
+63 AV,Queens,3.0
+Bond Street,Brooklyn,3.0
+EAST 138 STREET,Bronx,3.0
+NOSTRAND AV,Brooklyn,3.0
+FOREST AVENUE,Queens,3.0
+W FARMS RD,Bronx,3.0
+81 ST,Brooklyn,3.0
+PROSPECT AV,Brooklyn,3.0
+STILLWELL AVENUE,Brooklyn,3.0
+W 60 ST,Manhattan,3.0
+E 2 ST,Brooklyn,3.0
+Bedford Avenue,Brooklyn,3.0
+HENRY HUDSON PKWY,Manhattan,3.0
+82 ST,Brooklyn,3.0
+Brook Avenue,Bronx,3.0
+W 96 ST,Manhattan,3.0
+95 ST,Queens,3.0
+Albemarle Road,Brooklyn,3.0
+MACE AV,Bronx,3.0
+East 164 Street,Bronx,3.0
+CENTER DR/16 ST,Brooklyn,3.0
+DEISIUS ST,Staten Island,3.0
+64 Street,Brooklyn,2.0
+W 136 ST,Manhattan,2.0
+147 Street,Queens,2.0
+100 Street,Queens,2.0
+Wall St and Schuyler St,Staten Island,2.0
+E 45 ST,Brooklyn,2.0
+Vandervoort Avenue,Brooklyn,2.0
+E 35 ST,Brooklyn,2.0
+W 77 ST,Manhattan,2.0
+GREENE AVENUE,Brooklyn,2.0
+MANHATTAN AVENUE,Manhattan,2.0
+DE KALB AVENUE,Brooklyn,2.0
+BROADWAY APPROACHING W 174TH ST,Manhattan,2.0
+W 181 ST,Manhattan,2.0
+W 124 ST,Manhattan,2.0
+SHORE FRONT PARKWAY,Queens,2.0
+WHITESTONE EXPRESSWAY SR E,Queens,2.0
+MILL BASIN BR,Brooklyn,2.0
+JACKIE ROBINSON PKWY,Queens,2.0
+JACKIE ROBINSON PY,Brooklyn,2.0
+W 120 ST,Manhattan,2.0
+ANTHONY STREET,Brooklyn,2.0
+EAST GUN HILL ROAD,Bronx,2.0
+MC GUINNESS BOULEVARD,Brooklyn,2.0
+THOMSON AVENUE,Queens,2.0
+BRONXDALE AVENUE,Bronx,2.0
+E 102 ST,Brooklyn,2.0
+WEST 12 STREET,Brooklyn,2.0
+EAST 24 STREET,Brooklyn,2.0
+GRAND ST BR,Brooklyn,2.0
+EASTERN PARKWAY,Brooklyn,2.0
+MC GUINNESS BLVD SOUTH,Brooklyn,2.0
+80 ST,Queens,2.0
+HOPKINSON AV,Brooklyn,2.0
+Grand Concourse NB Mainline,Bronx,2.0
+CORTELYOU AV,Staten Island,2.0
+9 STREET,Brooklyn,2.0
+EAST 187 STREET,Bronx,2.0
+111 AV,Queens,2.0
+FRESH MEADOW LANE,Queens,2.0
+VARICK ST,Manhattan,2.0
+3 Avenue,Manhattan,2.0
+232 ST,Queens,2.0
+FREEMAN ST,Bronx,2.0
+145 ST BR,Manhattan,2.0
+HARLEM RIVER DRIVE,Manhattan,2.0
+RIDGEWOOD AV,Staten Island,2.0
+PALO ALTO AV,Queens,2.0
+St Johns Place,Brooklyn,2.0
+HERKIMER ST,Brooklyn,2.0
+Stephen Loop,Staten Island,2.0
+Webster Avenue,Bronx,2.0
+DRIGGS AV,Brooklyn,2.0
+Austin Street,Queens,2.0
+KINGS COLLEGE PL,Bronx,2.0
+Gowanus Canal Shoreline,Brooklyn,2.0
+84 Street,Brooklyn,2.0
+Meeker Avenue,Brooklyn,2.0
+Lefferts Avenue,Brooklyn,2.0
+Norfolk Street,Brooklyn,2.0
+TOMPKINS AV,Brooklyn,2.0
+NASSAU AV,Brooklyn,2.0
+POWERS ST,Brooklyn,2.0
+MALCOLM X BOULEVARD,Brooklyn,2.0
+BOWNE ST,Queens,2.0
+12 AVENUE,Brooklyn,2.0
+BEDFORD AVENUE,Brooklyn,2.0
+Broadway Bridge,Manhattan,2.0
+HUTCHINSON RIVER PARKWAY EAST,Bronx,2.0
+LITTLE NECK PKWY NB & SB NORTH OF JERICHO TPKE,Queens,2.0
+49 AVENUE,Queens,2.0
+MIDDLETOWN RD,Bronx,2.0
+30 AVENUE,Queens,2.0
+EASTERN BLVD BRIDGE,Bronx,2.0
+BARTOW AVE APPROACH TO CO OP CITY BLVD,Bronx,2.0
+MAIN AVENUE,Queens,2.0
+78 STREET,Queens,2.0
+E 162 ST,Bronx,2.0
+ELTON AVENUE,Bronx,2.0
+LIVINGSTON STREET,Brooklyn,2.0
+SHORE PARKWAY,Brooklyn,2.0
+MACOMBS DAM BRIDGE,Bronx,2.0
+LAFAYETTE ST,Manhattan,2.0
+W BROADWAY,Manhattan,2.0
+WEST 165 STREET,Manhattan,2.0
+W 145 ST BR,Manhattan,2.0
+EAST 34 STREET,Manhattan,2.0
+REMSEN AVENUE,Brooklyn,2.0
+MC DONALD AVENUE,Brooklyn,2.0
+48 STREET,Queens,2.0
+Woodhaven Blvd NB,Queens,2.0
+193 STREET,Queens,2.0
+CHRYSTIE STREET,Manhattan,2.0
+Adam Clayton Powell Blvd SB,Manhattan,2.0
+54 AVENUE,Queens,2.0
+Galway Avenue,Queens,2.0
+20 Avenue,Brooklyn,2.0
+HEYWARD ST,Brooklyn,2.0
+E 14 ST/UNIVERSITY PL,Manhattan,2.0
+115 AV,Queens,2.0
+159 Street,Queens,2.0
+Marcy Ave and Nostrand Ave,Brooklyn,2.0
+STANHOPE ST,Queens,2.0
+LACONIA AV,Bronx,2.0
+W 95 ST/HHP SB EXIT 11,Manhattan,2.0
+HORACE HARDING EXPRESSWAY SR S,Queens,2.0
+69 RD,Queens,2.0
+53 ST,Brooklyn,2.0
+54 ST,Brooklyn,2.0
+FURMAN STREET,Brooklyn,2.0
+19 AVENUE,Brooklyn,2.0
+77 AV,Queens,2.0
+UTOPIA PARKWAY,Queens,2.0
+BARTOW AVE APPROACH TO ASCH LOOP,Bronx,2.0
+CO OP CITY BLVD APPROACH TO BARTOW AVE,Bronx,2.0
+58 AV,Queens,2.0
+HOWARD AVENUE,Brooklyn,2.0
+MACON ST,Brooklyn,2.0
+LINDEN STREET,Brooklyn,2.0
+BLEECKER STREET,Brooklyn,2.0
+45 AV,Queens,2.0
+CATON AVENUE,Brooklyn,2.0
+ADAM C POWELL BOULEVARD,Manhattan,2.0
+Parkside Ave and Woodruff Ave,Brooklyn,2.0
+KNICKERBOCKER AV,Brooklyn,2.0
+34 ST,Queens,2.0
+Walton Avenue,Bronx,2.0
+JUSTICE AV,Queens,2.0
+GRAHAM AV,Brooklyn,2.0
+PACIFIC STREET,Brooklyn,2.0
+HOOVER AV,Queens,2.0
+EAST 7 STREET,Brooklyn,2.0
+CLOVE LAKE PL,Staten Island,2.0
+111 AVENUE,Queens,2.0
+HOR HARDING EXWY SR S,Queens,2.0
+W/B EASTERN BLVD BRIDGE@BRONX RIVER AVE,Bronx,2.0
+FLATBUSH AV,Brooklyn,2.0
+WEST 225 STREET,Manhattan,2.0
+4TH AVE APPROACHING PROSPECT AVE,Brooklyn,2.0
+SHORE BOULEVARD,Brooklyn,2.0
+CROTONA AV,Bronx,2.0
+BQE,Manhattan,2.0
+37 ST,Queens,2.0
+LORIMER ST,Brooklyn,2.0
+RODNEY STREET,Brooklyn,2.0
+WASHINGTON ST,Manhattan,2.0
+DRUMGOOLE ROAD WEST,Staten Island,2.0
+JAMAICA AV,Queens,2.0
+JERICHO TURNPIKE,Queens,2.0
+CONSELYEA ST,Brooklyn,2.0
+STRATFORD RD,Brooklyn,2.0
+104 ST,Queens,2.0
+112 ST,Queens,2.0
+EMPIRE BLVD,Brooklyn,2.0
+East 31 Street,Brooklyn,2.0
+Johnson Avenue,Brooklyn,2.0
+East 29 Street,Brooklyn,2.0
+Brighton 10 Street,Brooklyn,2.0
+139 Street,Queens,2.0
+Atlantic Avenue,Queens,2.0
+Schermerhorn St and State St,Brooklyn,2.0
+7 Avenue,Manhattan,2.0
+CARROLL ST,Brooklyn,2.0
+STERLING AV,Staten Island,2.0
+Pacific Street,Brooklyn,2.0
+E 21 ST,Manhattan,2.0
+RIVINGTON ST,Manhattan,2.0
+UNION SQ W/BROADWAY,Manhattan,2.0
+E 18 ST,Manhattan,2.0
+E 79 ST,Manhattan,2.0
+MADISON ST,Brooklyn,2.0
+POPLAR ST,Bronx,2.0
+113 ST,Queens,2.0
+Avenue K,Brooklyn,2.0
+E 60 ST/KOCH BR PEDESTRIAN AND BIKE PATH,Manhattan,2.0
+HUDSON STREET,Manhattan,2.0
+CENTRAL PARK WEST,Manhattan,2.0
+WEST 59 STREET,Manhattan,2.0
+WOOLLEY AV,Staten Island,2.0
+F D R DR,Manhattan,2.0
+188 STREET,Queens,2.0
+TODT HILL RD,Staten Island,2.0
+NEW DORP LANE,Staten Island,2.0
+NEW DORP PLZ,Staten Island,2.0
+43 STREET,Brooklyn,2.0
+35 AV,Queens,2.0
+W 56 ST,Manhattan,2.0
+110 AV,Queens,2.0
+Shore Pkwy North,Brooklyn,2.0
+ALLERTON AVENUE,Bronx,2.0
+FRONT ST,Manhattan,2.0
+E 37 ST,Brooklyn,2.0
+UNDERHILL AVENUE,Brooklyn,2.0
+AVENUE L,Brooklyn,2.0
+WEST 145 STREET,Manhattan,2.0
+GLENWOOD ROAD,Brooklyn,2.0
+ROCKAWAY BEACH BOULEVARD,Queens,2.0
+AVENUE W,Brooklyn,2.0
+FULTON STREET,Brooklyn,2.0
+ROGERS AV,Brooklyn,2.0
+HILLSIDE AVENUE,Queens,2.0
+BEACH CHANNEL DR APPROACH TO BEACH 116TH ST,Queens,2.0
+EAST DRIVE,Brooklyn,2.0
+EAST 124 STREET,Manhattan,2.0
+BEACH CHANNEL DR,Queens,2.0
+CLOVE RD,Staten Island,2.0
+BRIELLE AVENUE,Staten Island,2.0
+FRED DOUGLASS BLVD,Manhattan,2.0
+S/B 5TH AVE @ E 42ND ST,Manhattan,2.0
+TARGEE STREET,Staten Island,2.0
+JOE DIMAGGIO HIGHWAY,Manhattan,2.0
+CPW 72 APPR,Manhattan,2.0
+EMMONS AVENUE,Brooklyn,2.0
+FOSTER AVENUE,Brooklyn,2.0
+AVENUE O,Brooklyn,2.0
+THROOP AVENUE,Brooklyn,2.0
+OLD FULTON STREET,Brooklyn,2.0
+EASTCHESTER ROAD,Bronx,2.0
+BEACH 92 ST,Queens,2.0
+ALBERT RD,Queens,2.0
+AUSTIN STREET,Queens,2.0
+107 STREET,Queens,2.0
+BRIGHTON BEACH AVENUE,Brooklyn,2.0
+MERRICK BLVD,Queens,2.0
+EAST LAKE DRIVE,Brooklyn,2.0
+TERRACE DRIVE,Manhattan,2.0
+EAST 106 STREET,Manhattan,2.0
+HUMBOLDT STREET,Brooklyn,2.0
+EAST 168 STREET,Bronx,2.0
+SHERIDAN EXWY,Bronx,2.0
+Myrtle Ave EB Between,Brooklyn,2.0
+Myrtle Ave WB Between,Brooklyn,2.0
+HENRY STREET,Brooklyn,2.0
+WALTHAM ST,Queens,2.0
+WEST FORDHAM ROAD,Bronx,2.0
+FORD ST,Brooklyn,2.0
+FURMAN ST,Brooklyn,2.0
+HALSEY STREET,Brooklyn,2.0
+14 AV,Brooklyn,2.0
+STORY AV,Bronx,2.0
+MARATHON PKWY,Queens,2.0
+AUSTIN ST,Queens,2.0
+S ELLIOTT PL,Brooklyn,2.0
+45 AVENUE,Queens,2.0
+10 AVENUE,Manhattan,2.0
+BAY PKWY APPROACH TO 83RD ST,Brooklyn,2.0
+EAST 23 STREET,Manhattan,2.0
+SEELEY STREET,Brooklyn,2.0
+AVENUE B,Brooklyn,2.0
+EASTCHESTER RD @ ALLERTON AVE,Bronx,2.0
+48 AV,Queens,2.0
+HOLLIS CT BLVD,Queens,2.0
+YORK AV,Manhattan,2.0
+MELROSE AV,Bronx,2.0
+E 72 ST,Manhattan,2.0
+10 AV,Brooklyn,2.0
+RIDGE BLVD,Brooklyn,2.0
+PARK DR E,Queens,2.0
+CROSS IS PKWY,Queens,2.0
+East 21 Street,Brooklyn,2.0
+BATTERY PLACE,Manhattan,2.0
+SCHENECTADY AV,Brooklyn,2.0
+MYRTLE AV/WYCKOFF AV,Brooklyn,2.0
+Pelham Parkway North,Bronx,2.0
+S 4 ST,Brooklyn,2.0
+Newtown Creek Shoreline,Queens,2.0
+165 ST,Queens,2.0
+SAPPHIRE ST,Queens,2.0
+Jefferson Avenue,Brooklyn,2.0
+F D R Drive,Manhattan,2.0
+Manhattan Bridge Line,Manhattan,2.0
+67 AVENUE,Queens,2.0
+E 16 ST,Brooklyn,2.0
+BROOKLYN QUEENS EP ET 32 B WB,Brooklyn,2.0
+80 STREET,Queens,2.0
+PITT STREET,Manhattan,2.0
+EAST 169 STREET,Bronx,2.0
+SOUTH ST,Manhattan,2.0
+147 ST,Queens,2.0
+HICKS STREET,Brooklyn,2.0
+KLONDIKE AV,Staten Island,2.0
+BOSCOMBE AVENUE,Staten Island,2.0
+WATER ST,Brooklyn,2.0
+ALLEN ST,Manhattan,2.0
+HEMPSTEAD AVENUE,Queens,2.0
+VAN SICLEN AVENUE,Brooklyn,2.0
+WEST FARMS ROAD,Bronx,2.0
+NORTH CONDUIT AVENUE,Brooklyn,2.0
+WILLIAMSBURG BR APPROACH,Manhattan,2.0
+9 Avenue,Manhattan,2.0
+LENOX TERRACE PL,Manhattan,2.0
+Olmstead Avenue,Bronx,2.0
+MAJOR AV/SI EXWY EN EB,Staten Island,2.0
+Vanderbilt Avenue,Staten Island,2.0
+West 73 Street,Manhattan,2.0
+East 150 Street,Bronx,2.0
+Holland Avenue,Bronx,2.0
+E 24 ST,Manhattan,2.0
+Cypress Avenue,Brooklyn,2.0
+ZWICKY AV,Staten Island,2.0
+DISTRICT BOUNDARY,Queens,2.0
+78 ST/7 AV,Brooklyn,2.0
+78 ST/FT HAMILTON PKWY,Brooklyn,2.0
+5 AV/TER DR,Manhattan,2.0
+W 70 ST,Manhattan,2.0
+Prospect Park West,Brooklyn,2.0
+BRONX PARK E/SOUTHERN BLVD/MOSHOLU PARKWAY GREENW*,Bronx,2.0
+Anderson St and Vermont Ave,Staten Island,2.0
+White Plains Road Line,Bronx,2.0
+HEWLETT ST,Queens,2.0
+SPRINGFIELD BLVD,Queens,2.0
+109 AV,Queens,2.0
+West Street,Brooklyn,2.0
+E 88 ST,Manhattan,2.0
+GREENPOINT AV,Brooklyn,2.0
+Silver Lake Park Rd and Therease Pl,Staten Island,2.0
+Provost Street,Brooklyn,2.0
+106 Avenue,Queens,2.0
+E 156 ST,Bronx,2.0
+West 162 Street,Bronx,2.0
+WEST 110 STREET,Manhattan,2.0
+Benson Avenue,Brooklyn,2.0
+Audubon Avenue,Manhattan,2.0
+St Nicholas Avenue,Brooklyn,2.0
+Adams Street,Brooklyn,2.0
+15 Street,Brooklyn,2.0
+YELLOWSTONE BLVD,Queens,2.0
+Rockaway Beach Boulevard,Queens,2.0
+W 174 ST,Manhattan,2.0
+30 Place,Queens,2.0
+33 Street,Queens,2.0
+Barnes Avenue,Bronx,2.0
+SAUNDERS ST,Queens,2.0
+PELHAM PARKWAY,Bronx,2.0
+PULASKI BRIDGE,Brooklyn,2.0
+UNION AVENUE,Brooklyn,2.0
+ROOSEVELT IS BR,Manhattan,2.0
+WHITESTONE EXPRESSWAY ET 14 NB,Queens,2.0
+CLINTON STREET,Brooklyn,2.0
+LONG ISLAND EXPRESSWAY,Queens,2.0
+BRONX RIVER PARKWAY,Bronx,2.0
+BRONX RIVER AVENUE,Bronx,2.0
+160 STREET,Queens,2.0
+ARTHUR KILL ROAD,Staten Island,2.0
+SHELL ROAD,Brooklyn,2.0
+KOSCIUSZKO BRIDGE,Brooklyn,2.0
+FLUSHING BRIDGE,Queens,2.0
+NORTH CHANNEL BRIDGE,Queens,2.0
+EASTCHESTER BRIDGE,Bronx,2.0
+EAST 174 ST BRIDGE,Bronx,2.0
+GRAND CONCOURSE,Bronx,2.0
+CITY IS BRIDGE,Bronx,2.0
+CENTRAL PARK SOUTH,Manhattan,2.0
+GRAND STREET BRIDGE,Queens,2.0
+JUNCTION BOULEVARD,Queens,2.0
+VANDERBILT AV,Brooklyn,2.0
+SEAVIEW AVENUE,Brooklyn,2.0
+NEW UTRECHT AVENUE,Brooklyn,2.0
+GRAND AVENUE,Brooklyn,2.0
+TRANS MANHATTAN EP NB ET 1 B,Manhattan,2.0
+EAST 72 STREET,Manhattan,2.0
+WEST TREMONT AVENUE,Bronx,2.0
+W 6 ST,Brooklyn,2.0
+EAST 170 STREET,Bronx,2.0
+S/B PARK AVE @ E 60 ST,Manhattan,2.0
+CLAY AVENUE,Bronx,2.0
+VERNON BLVD,Queens,2.0
+Davidson Avenue,Bronx,2.0
+Flatbush Avenue,Brooklyn,2.0
+E 71 ST,Manhattan,2.0
+FRESH POND RD,Queens,2.0
+58 Avenue,Queens,2.0
+Vernon Boulevard,Queens,2.0
+BELT PKWY,Brooklyn,2.0
+New Jersey Avenue,Brooklyn,2.0
+45 Street,Queens,2.0
+Sea Beach Line,Brooklyn,2.0
+WYCKOFF AV,Brooklyn,2.0
+79 ST,Queens,2.0
+Sheepshead Bay Road,Brooklyn,2.0
+BERGEN ST,Brooklyn,2.0
+AV V,Brooklyn,2.0
+ALLISON AV,Staten Island,2.0
+FOSTER AV,Brooklyn,2.0
+East 94 Street,Brooklyn,2.0
+Nassau Street,Brooklyn,2.0
+Garrison Avenue,Bronx,2.0
+Whittier Street,Bronx,2.0
+69 ST,Queens,2.0
+QNSBORO BR EXIT,Manhattan,2.0
+HUGH L CAREY TUNNEL APPROACH,Brooklyn,2.0
+W 106 ST,Manhattan,2.0
+11 STREET,Queens,2.0
+YORK AVENUE,Manhattan,2.0
+OLD TOWN RD,Staten Island,2.0
+CADMAN PLAZA WEST,Brooklyn,2.0
+MAJOR DEEGAN EXPWY ET 3 NB,Bronx,2.0
+WEST END AVENUE,Manhattan,2.0
+W 145 ST,Manhattan,2.0
+AVENUE V,Brooklyn,2.0
+E 125 ST,Manhattan,2.0
+71 AV,Queens,2.0
+69 Street,Queens,2.0
+0.000 Undefined,Manhattan,2.0
+Cross Bronx Expressway,Bronx,2.0
+Mc Guinness Boulevard,Brooklyn,2.0
+East 7 Street,Brooklyn,2.0
+Bruckner Expressway,Bronx,2.0
+West 79 Street,Manhattan,2.0
+New Lots Avenue,Brooklyn,2.0
+164 ST,Queens,2.0
+SCHMIDTS LA,Staten Island,2.0
+AV H,Brooklyn,2.0
+GLENWOOD RD,Brooklyn,2.0
+ASCH LOOP,Bronx,2.0
+Bqe Eb Entrance Hamilton Ave Sb,Brooklyn,2.0
+Pedestrian Path,Brooklyn,2.0
+223 ST,Queens,2.0
+47 Avenue,Queens,2.0
+West 97 Street,Manhattan,2.0
+East 138 Street,Bronx,2.0
+57 ST,Brooklyn,2.0
+West 219 Street,Manhattan,2.0
+Humboldt Street,Brooklyn,2.0
+Lirr Main Line,Queens,2.0
+WINDERMERE RD,Staten Island,2.0
+PELHAM PARKWAY GREENWAY,Bronx,2.0
+48 Avenue,Queens,2.0
+JOHNSON AVENUE,Brooklyn,2.0
+AVENUE T,Brooklyn,2.0
+BAY RIDGE PKWY APPROACH TO 7th AVE,Brooklyn,2.0
+43 AVENUE,Queens,2.0
+TRINITY PL,Manhattan,2.0
+BEDFORD AV,Staten Island,2.0
+HANSON PL,Brooklyn,2.0
+W/B E 23RD ST @ BROADWAY,Manhattan,2.0
+WADSWORTH AVENUE,Manhattan,2.0
+LINDEN BLVRD BTWN MEXICO ST & FARMERS BLVRD,Queens,2.0
+BAY RIDGE AVENUE,Brooklyn,2.0
+DE KALB AV,Queens,2.0
+LEFFERTS BLVD,Queens,2.0
+STUYVESANT PL,Staten Island,2.0
+CENTRE STREET,Manhattan,2.0
+PAERDEGAT AV N,Brooklyn,2.0
+AV D,Brooklyn,2.0
+WEST 35 STREET,Manhattan,2.0
+E 29 ST,Brooklyn,2.0
+AV J,Brooklyn,2.0
+JJ BYRNE MEMORIAL BRIDGE,Queens,2.0
+WILLIAMSBRIDGE RD,Bronx,2.0
+GREENPOINT AVENUE,Brooklyn,2.0
+FREEMAN STREET,Brooklyn,2.0
+SOUTHERN BLVD,Bronx,2.0
+49 ST,Brooklyn,2.0
+BAY PARKWAY,Brooklyn,2.0
+WEST 167 STREET,Bronx,2.0
+RALPH AVE S/O CLARENDON RD,Brooklyn,2.0
+FRANKLIN ST,Brooklyn,2.0
+149 STREET,Queens,2.0
+HEMPSTEAD AV,Queens,2.0
+CHERRY AVENUE,Queens,2.0
+PITKIN AV,Queens,2.0
+W/B BROOKLYN BRIDGE,Manhattan,2.0
+FDR DR NB EN BK BR,Manhattan,2.0
+SANFORD AV,Queens,2.0
+CHERRY AV,Queens,2.0
+STANHOPE STREET,Brooklyn,2.0
+64 STREET,Brooklyn,2.0
+PARSONS BOULEVARD,Queens,2.0
+DIAMOND STREET,Brooklyn,2.0
+SHORE BLVD,Brooklyn,2.0
+LEVERETT AV,Staten Island,2.0
+AVENUE D,Brooklyn,2.0
+CORNELIA ST,Queens,2.0
+MURDOCK AV,Queens,2.0
+HUTCHINSON RIVER PARKWAY,Bronx,2.0
+STATE STREET,Manhattan,2.0
+JEROME AVENUE,Bronx,2.0
+94 Street,Queens,2.0
+Hudson Street,Manhattan,2.0
+Eldert Lane,Brooklyn,2.0
+HORATIO ST,Manhattan,2.0
+62 DR,Queens,2.0
+30 ST,Queens,2.0
+Norman Avenue,Brooklyn,2.0
+Eunice Place,Staten Island,2.0
+PRINCE ST,Manhattan,2.0
+MANHATTAN AV,Brooklyn,2.0
+12 Avenue,Brooklyn,2.0
+PRESIDENT ST,Brooklyn,2.0
+23 ST,Queens,2.0
+74 Street,Queens,2.0
+45 Avenue,Queens,2.0
+192 Street,Queens,2.0
+73 Avenue,Queens,2.0
+PALMER AV,Staten Island,2.0
+East 24 Street,Brooklyn,2.0
+9 ST,Brooklyn,2.0
+ROSS AV,Staten Island,2.0
+BEMENT AV,Staten Island,2.0
+Between 88th Ave and 88th Rd,Queens,2.0
+153 Street,Queens,2.0
+Brooklyn Queens Expwy Et 33 Eb,Brooklyn,2.0
+Ed Koch Queensboro Bridge Appr,Manhattan,2.0
+46 RD,Queens,2.0
+ROOSEVELT AV,Queens,2.0
+51 Street,Queens,2.0
+Park Avenue,Bronx,2.0
+PEARL ST,Manhattan,2.0
+OLYMPIA BLVD,Staten Island,2.0
+East 33 Street,Manhattan,2.0
+64 ST,Brooklyn,2.0
+41 Street,Brooklyn,2.0
+MIDLAND AV,Staten Island,2.0
+79 Avenue,Queens,2.0
+West Drive,Brooklyn,2.0
+7 AV/C P 7 AV APPR,Manhattan,2.0
+WINDSOR RD,Staten Island,2.0
+E 33 ST,Manhattan,2.0
+18 AV,Brooklyn,2.0
+41 Avenue,Queens,2.0
+De Graw Street,Brooklyn,2.0
+35 Avenue,Queens,2.0
+Springfield Boulevard,Queens,2.0
+AMTRAK RR,Manhattan,2.0
+37 Avenue,Queens,2.0
+East 117 Street,Manhattan,2.0
+SENECA AV,Queens,2.0
+Johnson Street,Brooklyn,2.0
+CHISHOLM ST,Staten Island,2.0
+TROTTING COURSE LA,Queens,2.0
+East 80 Street,Manhattan,2.0
+VAN DAM ST,Queens,2.0
+E NEW YORK AV,Brooklyn,2.0
+Chauncey Street,Brooklyn,2.0
+MAC DONOUGH ST,Brooklyn,2.0
+37 Street,Brooklyn,2.0
+Thomas S Boyland Street,Brooklyn,2.0
+10 Avenue,Manhattan,2.0
+MASPETH AV,Brooklyn,2.0
+Clinton Street,Manhattan,2.0
+VOORHIES AV,Brooklyn,2.0
+BAYCHESTER AV,Bronx,2.0
+Centre Street,Brooklyn,2.0
+Beech Avenue,Queens,2.0
+W 160 ST,Manhattan,2.0
+Greene Avenue,Brooklyn,2.0
+DE GRAW ST,Brooklyn,2.0
+9 Street,Brooklyn,2.0
+Jefferson Street,Brooklyn,2.0
+AVENUE A,Manhattan,2.0
+MONROE ST,Brooklyn,2.0
+184 ST,Queens,2.0
+MAYFLOWER AV,Bronx,2.0
+Hemlock Street,Brooklyn,2.0
+E 38 ST,Brooklyn,2.0
+HOE AV,Bronx,2.0
+Avenue T,Brooklyn,2.0
+East 3 Street,Brooklyn,2.0
+Central Avenue,Brooklyn,2.0
+BRYANT AV,Bronx,2.0
+78 AV,Queens,2.0
+79 Street,Queens,2.0
+East 87 Street,Brooklyn,2.0
+East 32 Street,Brooklyn,2.0
+CONGRESS ST,Brooklyn,2.0
+Dr M L King Jr Boulevard,Bronx,2.0
+89 ST,Queens,2.0
+93 ST,Queens,2.0
+E 9 ST,Brooklyn,2.0
+78 Avenue,Queens,2.0
+ELDERT LA,Brooklyn,2.0
+Avenue L,Brooklyn,2.0
+97 Street,Queens,2.0
+Harden Street,Brooklyn,2.0
+East 51 Street,Manhattan,2.0
+MERMAID AV,Brooklyn,2.0
+77 ST,Brooklyn,2.0
+E 243 ST,Bronx,2.0
+Paerdegat Avenue South,Brooklyn,2.0
+110 ST,Queens,2.0
+GRND CNTRL PKWY SR W,Queens,2.0
+72 Street,Queens,2.0
+East 49 Street,Brooklyn,2.0
+131 Street,Queens,2.0
+WALTON AV,Bronx,2.0
+E 49 ST,Brooklyn,2.0
+60 Street,Brooklyn,2.0
+Sherman Avenue,Manhattan,2.0
+44 DR,Queens,2.0
+36 ST,Queens,2.0
+36 Avenue,Queens,2.0
+DITMAS AV,Brooklyn,2.0
+West 11 Street,Brooklyn,1.0
+Wadsworth Avenue,Manhattan,1.0
+Harlem River Drive Service Rd W,Manhattan,1.0
+Baughman Place,Brooklyn,1.0
+Johnson St and Myrtle Ave,Brooklyn,1.0
+Green Street,Brooklyn,1.0
+Peters Place,Bronx,1.0
+Belt Parkway Exit 14 Eastbound,Brooklyn,1.0
+JAY ST/HIGH ST,Brooklyn,1.0
+East 236 Street,Bronx,1.0
+GARDNER AV,Brooklyn,1.0
+82 Street,Queens,1.0
+AV K,Brooklyn,1.0
+HIGHLAWN AV,Brooklyn,1.0
+E 53 ST,Brooklyn,1.0
+W 13 ST,Brooklyn,1.0
+Newton Street,Brooklyn,1.0
+Flatbush Avenue Greenway,Brooklyn,1.0
+Paulding Avenue,Bronx,1.0
+BUSSING AV,Bronx,1.0
+East 220 Street,Bronx,1.0
+St Ouen Street,Bronx,1.0
+Kingston Avenue,Brooklyn,1.0
+West 15 Street,Brooklyn,1.0
+Clove Road,Staten Island,1.0
+GROTON ST,Queens,1.0
+COLUMBUS CIR,Manhattan,1.0
+Columbus Circle,Manhattan,1.0
+Grand Street,Brooklyn,1.0
+PAULDING AV/GUNTHER AV,Bronx,1.0
+Gowanus Creek Shoreline,Brooklyn,1.0
+PEARSON ST,Brooklyn,1.0
+Avenue I,Brooklyn,1.0
+BQE WB EN MC GUINNESS BLVD S,Brooklyn,1.0
+Engert Avenue,Brooklyn,1.0
+E 12 RD,Queens,1.0
+13 AV,Brooklyn,1.0
+Mill Avenue,Brooklyn,1.0
+12 AV,Brooklyn,1.0
+E 42 ST,Brooklyn,1.0
+108 ST,Queens,1.0
+East 243 Street,Bronx,1.0
+70 ST,Brooklyn,1.0
+East 42 Street,Manhattan,1.0
+West 179 Street,Manhattan,1.0
+East 105 Street,Brooklyn,1.0
+73 ST,Brooklyn,1.0
+WASHINGTON BRG/W 181 ST,Manhattan,1.0
+Silver Lake Cemetery Boundary,Staten Island,1.0
+CAMPUS RD,Staten Island,1.0
+TRANS MANHATTAN EP SB EN WASH BR,Manhattan,1.0
+CENTER DR/AVE OF THE AMERICAS,Manhattan,1.0
+Gardner Avenue,Brooklyn,1.0
+15 AV,Brooklyn,1.0
+69 DR,Queens,1.0
+Bayside Cemetery Boundary,Queens,1.0
+231 ST,Queens,1.0
+Goethals Avenue,Queens,1.0
+Freeman Street,Brooklyn,1.0
+50 ST,Queens,1.0
+West 168 Street,Bronx,1.0
+POLO PL,Queens,1.0
+BERRIMAN ST,Brooklyn,1.0
+Bloomfield Street,Manhattan,1.0
+Avenue V,Brooklyn,1.0
+CONCOURSE VLG W/E 161 ST,Bronx,1.0
+Concourse Village East,Bronx,1.0
+W 12 ST,Brooklyn,1.0
+Cromwell Avenue,Bronx,1.0
+Between E. 150th St and E. 151st St,Bronx,1.0
+Between E. 150th St and 151st St,Bronx,1.0
+Loring Place South,Bronx,1.0
+Maurice Avenue,Queens,1.0
+BAY RIDGE AV,Brooklyn,1.0
+Concourse Line,Bronx,1.0
+Morris Avenue,Bronx,1.0
+LENOX RD,Brooklyn,1.0
+College Avenue,Bronx,1.0
+East 169 Street,Bronx,1.0
+Isabella Avenue,Staten Island,1.0
+PINKNEY AV,Bronx,1.0
+JACKSON AV/DUTCH KILLS ST,Queens,1.0
+Skillman Avenue,Queens,1.0
+Jerome Avenue,Bronx,1.0
+VIRGINIA AV,Bronx,1.0
+E 52 ST,Brooklyn,1.0
+W 7 ST,Brooklyn,1.0
+PALISADE AV/EDSALL AV,Bronx,1.0
+ST RAYMONDS AV,Bronx,1.0
+East 53 Street,Brooklyn,1.0
+East 74 Street,Manhattan,1.0
+AMUNDSON AV,Bronx,1.0
+East Broadway,Manhattan,1.0
+East 167 Street,Bronx,1.0
+DITMAS AVENUE,Brooklyn,1.0
+23 Road,Queens,1.0
+E 163 ST/HUNTS PT AV,Bronx,1.0
+TELLER AV,Bronx,1.0
+East 179 Street,Bronx,1.0
+DURYEA AV/PRATT AV,Bronx,1.0
+39 Avenue,Queens,1.0
+134 Street,Queens,1.0
+72 ST CROSS DR @ 5 AVE,Manhattan,1.0
+AMSTERDAM AVE BET 70th & 71st ST,Manhattan,1.0
+20 STREET,Brooklyn,1.0
+243 ST,Queens,1.0
+CONCORD AVENUE,Bronx,1.0
+ARGYLE ROAD,Brooklyn,1.0
+RUGBY ROAD,Brooklyn,1.0
+SOUTH CONDUIT AVENUE,Queens,1.0
+BX PARK EAST SB APPROACH TO ALLERTON AVE,Bronx,1.0
+BX PARK EAST NB EXIT TO ALLERTON AVE,Bronx,1.0
+BX PARK EAST NB APPROACH TO ALLERTON,Bronx,1.0
+E 79TH ST BET 5TH AVE & MADISON AVE,Manhattan,1.0
+65TH ST APPROACHING 4TH AVE(UNDER BQE),Brooklyn,1.0
+ALLERTON AVE WB APPROACH TO BX PARK EAST,Bronx,1.0
+ALLERTON AVE EB APPROACH TO BARKER AVE,Bronx,1.0
+WESTCHESTER AVE BET CAULDWELL & TRINITY AVES,Bronx,1.0
+W 72 ST ENT TO PK,Manhattan,1.0
+BROOK AVENUE,Bronx,1.0
+S/B 130 ST @ 111 AVE,Queens,1.0
+S/B SPRINGFIELD BLVD @ 109 AVE,Queens,1.0
+Hylan Blvd NB Between,Staten Island,1.0
+W/B FLATLANDS AVE @ E 96 ST,Brooklyn,1.0
+N/B SPRINGFIELD BLVD @ 109 AVE,Queens,1.0
+BRONX RIVER SHORELINE,Bronx,1.0
+E/B FLATLANDS AVE @ E 96 ST,Brooklyn,1.0
+3RD AVE APPROACH TO EAST 86TH ST,Manhattan,1.0
+E/B KOSCIUSZKO BRIDGE @ TO L.I.E.,Queens,1.0
+E/B UNION TURNPIKE @ CHEVY CHASE ST,Queens,1.0
+FDR DR NB EN E HOUSTON ST,Manhattan,1.0
+Crossbay SB Between 11th and 13th Rds.,Queens,1.0
+S/B 5TH AVE @ 60 ST,Brooklyn,1.0
+S/B 7AVE @  60 ST,Brooklyn,1.0
+BROADWAY WB APPROACH TO 59TH ST,Queens,1.0
+S/B WYTHE AVE @ N 8 ST,Brooklyn,1.0
+NORTH 14 STREET,Brooklyn,1.0
+E/B METROPOLITAN AVE @ FRESH POND RD,Queens,1.0
+N/B 5TH AVE @ 60 ST,Brooklyn,1.0
+N/B 5 AVE @ 60 ST,Brooklyn,1.0
+4TH AVE APPROACHING 60TH ST,Brooklyn,1.0
+N/B FT HAMILTON PKWY @ 60 ST,Brooklyn,1.0
+N/B 8 AVE  @ 60 ST,Brooklyn,1.0
+N/B 7AVE @  60 ST,Brooklyn,1.0
+S/B FRANKLIIN  ST @ NORTH 14TH ST,Brooklyn,1.0
+BRONXWOOD AVENUE,Bronx,1.0
+KENT STREET,Brooklyn,1.0
+MANH BR APPR,Brooklyn,1.0
+E 106 ST,Manhattan,1.0
+YORK AVE BET E 82ND ST & E 83RD ST,Manhattan,1.0
+Hamilton Ave NB,Brooklyn,1.0
+BAY 54 ST/CROPSEY AV,Brooklyn,1.0
+JACKIE ROBINSON PKWY WB EXIT 6/JRP WB EXIT 6,Queens,1.0
+102 Street,Queens,1.0
+26 ST,Brooklyn,1.0
+Grant Avenue,Bronx,1.0
+Gulf Avenue,Staten Island,1.0
+Throop Avenue,Brooklyn,1.0
+201 ST,Queens,1.0
+Cross Bronx Expwy Et 4 A Eb,Bronx,1.0
+Tyrellan Avenue,Staten Island,1.0
+Ft Washington Avenue,Manhattan,1.0
+Langdale Street,Queens,1.0
+Jewel Avenue,Queens,1.0
+Negundo Avenue,Queens,1.0
+162 ST,Queens,1.0
+VERNON AV,Staten Island,1.0
+POUCH TER,Staten Island,1.0
+ORCHARD ST,Manhattan,1.0
+SLOSSON TERR,Staten Island,1.0
+Fountain Avenue,Brooklyn,1.0
+Unnamed Street,Brooklyn,1.0
+Morgan Street,Queens,1.0
+Richmond Avenue,Staten Island,1.0
+Beach Walk,Brooklyn,1.0
+FILLMORE AV,Brooklyn,1.0
+Cross Bronx Expwy Et 3 Wb,Bronx,1.0
+101 Street,Queens,1.0
+Greenwood Avenue,Brooklyn,1.0
+Manhattan Bridge Bike Path,Brooklyn,1.0
+156 Avenue,Queens,1.0
+ROCKAWAY BLVD/CROSS BAY BLVD,Queens,1.0
+Flushing River Shoreline,Queens,1.0
+BANNER AV,Brooklyn,1.0
+E 17 ST/PARK AV S,Manhattan,1.0
+Poplar Avenue,Queens,1.0
+12 ST,Queens,1.0
+DASH PL,Bronx,1.0
+SHE NB EXIT,Bronx,1.0
+N/B FLATBUSH AVE @ RUTLAND RD,Brooklyn,1.0
+CASS PL,Brooklyn,1.0
+WEST DR ENTRANCE FROM W 72 ST,Manhattan,1.0
+WAKEMAN PLACE,Brooklyn,1.0
+Linden Blvd EB,Brooklyn,1.0
+E/B PARK LANE SOUTH @ 104 ST,Queens,1.0
+MONTGOMERY STREET,Brooklyn,1.0
+PRESIDENT STREET,Brooklyn,1.0
+Linden Blvd WB,Brooklyn,1.0
+NOSTRAND AVENUE,Brooklyn,1.0
+E/B GCP S SERVICE RD @ CITY LINE,Queens,1.0
+S/B E 15 ST @ EMMONS AVE,Brooklyn,1.0
+VYSE AVE BET FREEMAN & JENNING STS,Bronx,1.0
+NB BRIDGE ENTRANCE ON MCGUINNESS (N/O FREEMAN),Brooklyn,1.0
+Clarkson Ave,Brooklyn,1.0
+BROOKLYN AVE BTWN HAWTHORNE & WINTHROP STS,Brooklyn,1.0
+116 AVENUE,Queens,1.0
+LUTEN AVE NB AT EYLANDT ST,Staten Island,1.0
+N/B LUTEN AVE @ EYLANDT ST,Staten Island,1.0
+LUTEN AVE SB AT JANSEN ST,Staten Island,1.0
+COLLEGE PT BLVD,Queens,1.0
+N/B 164 ST @ 59 AVE,Queens,1.0
+S/B PELHAM BRIDGE @  BRUCKNER EXPWY,Bronx,1.0
+E/B EASTERN BLVD BRIDGE@BRONX RIVER AVE,Bronx,1.0
+EASTERN BLVD BR,Bronx,1.0
+UNION STREET,Brooklyn,1.0
+WEST 26 STREET,Manhattan,1.0
+DITMARS BOULEVARD,Queens,1.0
+WHITESTONE EXPWY SB EN ULMER ST,Queens,1.0
+72 ST CROSS DR @ EAST DR,Manhattan,1.0
+W/B FULTON ST @ CLASSON AVE,Brooklyn,1.0
+W/B GATES AVE @ CLASSON AVE,Brooklyn,1.0
+W/B CLIFTON PLACE @ CLASSON AVE,Brooklyn,1.0
+W 168 ST,Manhattan,1.0
+W 174TH ST APPROACHING BROADWAY,Manhattan,1.0
+W 165 ST,Manhattan,1.0
+WEST DR BET ENTRANCE TO THE PARK & 3RD ST,Brooklyn,1.0
+MOON AVENUE,Staten Island,1.0
+4TH AVE APPROACHING 92ND ST,Brooklyn,1.0
+S/B 7 AVENUE @ 92 STREET,Brooklyn,1.0
+W/B 57 AVE @ 92 ST,Queens,1.0
+LIBERTY AVE EB APPROACH TO 93RD ST,Queens,1.0
+ROCKAWAY BLVD APPROACH TO 93RD ST,Queens,1.0
+LIBERTY AVE APPROACH TO 93RD ST,Queens,1.0
+McGuiness Blvd NB Between,Brooklyn,1.0
+S/B GUY R. BREWER BLVD @ 122 AVE,Queens,1.0
+N/B UNION SQUARE EAST @ E 17 ST,Manhattan,1.0
+QUEENS BLVD SER RD APPROA TO JUNCTION BLVD,Queens,1.0
+E/B BRICK TOWN PLAZA MALL@VETERANS RD W,Staten Island,1.0
+BERGEN STREET,Brooklyn,1.0
+BILLOP AVENUE,Staten Island,1.0
+N/B VIRGINIA AVE @ GLEASON AVE,Bronx,1.0
+E/B AVE C @ E 7 ST,Brooklyn,1.0
+N/B PELHAM BRIDGE @  BRUCKNER EXPWY,Bronx,1.0
+EMPIRE BLVD WB APPROACH TO FRANKLIN AVE,Brooklyn,1.0
+BROADWAY EB APPROACH TO 37TH AVE,Queens,1.0
+BQE SR,Queens,1.0
+31 ST,Queens,1.0
+S/B 34 ST @ 37 AVE,Queens,1.0
+ELIOT AVENUE,Queens,1.0
+BRONXDALE AV,Bronx,1.0
+W/B E 174 ST BRIDGE @ BOONE AVE,Bronx,1.0
+HYLAN BLVD BTWN LAMPORT BLVD & CLOVE RD,Staten Island,1.0
+E/B JACKIE ROBINSON PKWY @ VERMONT PL,Queens,1.0
+RICHARDSON STREET,Brooklyn,1.0
+S/B UNION SQUARE EAST @ E 16 ST,Manhattan,1.0
+E/B PROSPECT PK S/W(E LEG) @16 ST SLP RD,Brooklyn,1.0
+S/B PROSPECT PK S/W @TERR./ WINDSOR PL,Brooklyn,1.0
+S/B PROSPECT PK S/W(S LEG)@TERR./WIND.PL,Brooklyn,1.0
+ROSSVILLE AV,Staten Island,1.0
+HUNTS POINT AVE APPROACH TO BRUCKNER BLVD SB,Bronx,1.0
+DEAN STREET,Brooklyn,1.0
+CHESTNUT STREET,Brooklyn,1.0
+PARK AVE @ CLERMONT AVE,Brooklyn,1.0
+FLUSHING AVE @ VANDERBILT AVE,Brooklyn,1.0
+HUGUENOT AV,Staten Island,1.0
+S/B LENOX AVE @ W 135 ST,Manhattan,1.0
+ADAM C POWELL BLVD,Manhattan,1.0
+FR. DOUGLASS BLVD SB APPROACH TO W 135TH ST,Manhattan,1.0
+N/B LENOX AVE @ W 135 ST,Manhattan,1.0
+AMSTERDAM SB APPROACH TO W 135TH ST,Manhattan,1.0
+E/B BROOKLYN BRIDGE,Manhattan,1.0
+E 233RD ST BET JEROME AVE & VAN CORTLANDT PARK E,Bronx,1.0
+E 233RD ST BET JEROME AVE & VAN CORTLANDT PARK EAST,Bronx,1.0
+S/B LUTEN AVE @ EYLANDT ST,Staten Island,1.0
+LUTEN AVE NB AT DEISUS ST,Staten Island,1.0
+LUTEN AVE SB AT DEISUS ST,Staten Island,1.0
+BROADWAY EB APPROACH TO 69TH ST,Queens,1.0
+BROADWAY WB APPROACH TO 37TH AVE,Queens,1.0
+COOPER ST-COOPER AV,Brooklyn,1.0
+BURKE AV,Bronx,1.0
+W/B HOOPER ST @ LEE AVE,Brooklyn,1.0
+Shore Rd,Brooklyn,1.0
+JUNCTION BLVD APPROACHING 62ND DR,Queens,1.0
+N/B 108 ST @ 62 DR,Queens,1.0
+CROOKE AVENUE,Brooklyn,1.0
+GIVAN AVENUE,Bronx,1.0
+GRAFE ST,Staten Island,1.0
+PEARL STREET,Manhattan,1.0
+E/B SENECA AVE @ GEORGE ST,Queens,1.0
+W/B SENECA AVE @ GEORGE ST,Queens,1.0
+CENTRAL AVENUE,Queens,1.0
+SUNRISE HIGHWAY,Queens,1.0
+4TH AVE APPROACHING 25TH ST,Brooklyn,1.0
+N/B BELMONT AVE @ S CONDUIT AVE,Brooklyn,1.0
+E/B S CONDUIT AVE @ BELMONT AVE,Brooklyn,1.0
+62ND DR APPROACHING 98TH ST,Queens,1.0
+62nd DR APPROACH TO 98th ST,Queens,1.0
+E/B EMPIRE BLVD @ SCHENECTADY AVE,Brooklyn,1.0
+PALMETTO ST BET ST NICHOLAS & MYRTLE AVES,Brooklyn,1.0
+PALMETTO ST BET RIDGEWOOD PL & WYCKOFF AVE,Brooklyn,1.0
+51 AVENUE,Queens,1.0
+PARK DRIVE EAST,Queens,1.0
+E/B 77 ROAD @ 164 ST,Queens,1.0
+AMBOY RD,Staten Island,1.0
+S/B AMSTERDAM AVE @ W 145 ST,Manhattan,1.0
+W/B WINDERMERE RD @ STEUBEN  ST,Staten Island,1.0
+BAY ST,Staten Island,1.0
+W 71ST ST E/O AMSTERDAM AVE/BROADWAY,Manhattan,1.0
+FRESH KILLS BRIDGE,Staten Island,1.0
+UTICA AVE SB APPROACH TO FLATBUSH AVE,Brooklyn,1.0
+EAST 175 STREET,Bronx,1.0
+S/B WYTHE AVE @ S 4 ST,Brooklyn,1.0
+BQE WESTBOUND EXIT 32 A,Brooklyn,1.0
+EAST 16 STREET,Brooklyn,1.0
+WEST 53 STREET,Manhattan,1.0
+EAST 36 STREET,Manhattan,1.0
+UNIVERSITY HEIGHTS BRIDGE,Manhattan,1.0
+MADISON AVENUE BRIDGE,Manhattan,1.0
+PROSPECT PARK SOUTHWEST,Brooklyn,1.0
+E/B JEWEL AVE (E LEG) @ 164 ST,Queens,1.0
+JAMAICA AVE APPROACHING MERRICK RD,Queens,1.0
+PROSPECT STREET,Brooklyn,1.0
+WOODHAVEN BLVD MAIN RD APROACH TO ROCKAWAY BLVD,Queens,1.0
+N/B CROSSBAY BLVD @ ROCKAWAY BLVD,Queens,1.0
+S/B WOODHAVEN BLVD(M RD)@ ROCKAWAY BLVD,Queens,1.0
+E/B LIE MAIN RD(2 LAN N SIDE)@CITY LINE,Queens,1.0
+LORIMER ST BET BOERUM ST & BROADWAY,Brooklyn,1.0
+W/B ALEXANDER HAMILTON BR S/S 2 LANES,Manhattan,1.0
+RIVERSIDE DRIVE,Manhattan,1.0
+N/B BRIDGE EXT (NEW ST) @ E 61 ST,Manhattan,1.0
+W/B E TREMONT AVE @ ROBERTS AVE,Bronx,1.0
+W/B INTERBOROUGH PKWY @ VERMONT PL,Queens,1.0
+FDR DRIVE @ EAST 63 ST ENTRANCE,Manhattan,1.0
+WESTCHESTER AVE BET TRINITY & JACKSON AVES,Bronx,1.0
+E/B PARK CIRCLE @ CONEY ISLAND AVENUE,Brooklyn,1.0
+S/B PARK CIRCLE @ OCEAN PKWY,Brooklyn,1.0
+AVENUE N,Brooklyn,1.0
+AVENUE F,Brooklyn,1.0
+WEST 112 STREET,Manhattan,1.0
+WEST 62 STREET,Manhattan,1.0
+WEST 212 STREET,Manhattan,1.0
+WEST 96 STREET,Manhattan,1.0
+BROADWAY BRIDGE,Manhattan,1.0
+33 STREET,Queens,1.0
+WEST 220 STREET,Manhattan,1.0
+WEST 178 STREET,Manhattan,1.0
+WALKER STREET,Manhattan,1.0
+E/B LINDEN BLVD SVCE RD @ 78 ST,Brooklyn,1.0
+RIDGE BOULEVARD,Brooklyn,1.0
+E/B 63 RD @ 97 ST,Queens,1.0
+63rd RD EB APPR TO 97th ST,Queens,1.0
+62nd DR WB APPR TO 97th ST,Queens,1.0
+FDR DRIVE EXIT 7 NORTHBOUND,Manhattan,1.0
+EAST 49 STREET,Manhattan,1.0
+66 AVENUE,Queens,1.0
+MANOR AVENUE,Bronx,1.0
+UNIONPORT ROAD,Bronx,1.0
+EAST 103 STREET,Brooklyn,1.0
+EAST 105 STREET,Brooklyn,1.0
+65 PLACE,Queens,1.0
+63 STREET,Queens,1.0
+50 AVENUE,Queens,1.0
+44 AVENUE,Queens,1.0
+26 AVENUE,Brooklyn,1.0
+TERRACE PLACE,Brooklyn,1.0
+CANAL STREET,Manhattan,1.0
+QUEENS PLZ S,Queens,1.0
+MACOMBS DAM BRG,Manhattan,1.0
+S/B HUTCHINSON RIVER PKWY @ CITY LINE,Bronx,1.0
+LONG IS EXWY,Queens,1.0
+W/B HEMSTEAD AVE @ CITY LINE,Queens,1.0
+W/B ENT.RAMP TO HEMPSTEAD AV@CITY LINE,Queens,1.0
+DEEGAN EXWY SR,Bronx,1.0
+MAJOR DEEGAN EXWY,Bronx,1.0
+BEP EB EXIT 25 A,Queens,1.0
+S/B HENRY HUDSON PARKWAY @ CITY LINE,Bronx,1.0
+N/B MAJOR DEEGAN EXPWY @ CITY LINE,Bronx,1.0
+46 STREET,Queens,1.0
+47 STREET,Queens,1.0
+86 AVENUE,Queens,1.0
+N/B WALDO AVE @ MANHATTAN COLLEGE PKWY,Bronx,1.0
+HULL AV,Staten Island,1.0
+MIDLAND AVE BET GRANT PL & HYLAN BLVD,Staten Island,1.0
+FIELDWAY AV,Staten Island,1.0
+E/B 59 AVE @ 164 ST,Queens,1.0
+168 STREET,Queens,1.0
+184 STREET,Queens,1.0
+BELT PARKWAY EXIT 6 NORTH WB,Brooklyn,1.0
+BELT PARKWAY EXIT 25 B NB,Queens,1.0
+BELT PARKWAY EXIT 21 WESTBOUND,Queens,1.0
+BATTERY PK UNDERPASS,Manhattan,1.0
+WEST 29 STREET,Manhattan,1.0
+N/B 164 ST @ 77 ROAD,Queens,1.0
+ROSEDALE AVENUE,Bronx,1.0
+55 AVENUE,Queens,1.0
+S/B DITMARS BLVD @ 102 ST,Queens,1.0
+LOCUST AVENUE,Bronx,1.0
+MAURICE AVENUE,Queens,1.0
+BORDEN AVENUE BRIDGE,Queens,1.0
+W/B UNIONPORT BRIDGE @ ZEREGA AVE,Bronx,1.0
+CITY ISLAND BR,Bronx,1.0
+WEST 176 STREET,Manhattan,1.0
+WEST 182 STREET,Manhattan,1.0
+WEST 181 STREET,Manhattan,1.0
+HUGH L CAREY TUNNEL EXIT,Manhattan,1.0
+GREENWICH STREET,Manhattan,1.0
+VAN CORTLANDT AVENUE EAST,Bronx,1.0
+SILVER ST @ E TREMONT AVE,Bronx,1.0
+S/B WESTCHESTER AVE @ E TREMONT AVE,Bronx,1.0
+HICKS ST BET ATLANTIC AVE & PACIFIC ST,Brooklyn,1.0
+121 AV,Queens,1.0
+S/B HUTCHINSON RIVER PKWY @ BARTOW AVE,Bronx,1.0
+BEDFORD PARK BOULEVARD,Bronx,1.0
+DUMONT AVENUE,Brooklyn,1.0
+E 165TH ST BET E 164TH & CRAND CONCOURSE,Bronx,1.0
+N/B KENT AVE @ NORTH 14TH ST,Brooklyn,1.0
+S/B MAIN ST @ 78 ROAD,Queens,1.0
+N/B MAIN ST @ 78 ROAD,Queens,1.0
+N/B MAIN ST @ 78 RD (N LEG),Queens,1.0
+MADISON AVENUE BR APPROACH,Bronx,1.0
+DAHLGREN PLACE,Brooklyn,1.0
+109 AVENUE,Queens,1.0
+WILLETS POINT BOULEVARD,Queens,1.0
+ROCKAWAY BLVD EB AT ENTRA NCE/EXIT TO HOME DEPOT,Queens,1.0
+UTICA AVE BET LINDEN BLVD & LENOX RD,Brooklyn,1.0
+UTICA AVE SB APPROACH TO LINDEN BLVD,Brooklyn,1.0
+N/B 130 ST @ 111 AVE,Queens,1.0
+N/B 223 ST @ 116 AVE,Queens,1.0
+HENRY HUDSON PKWY W,Bronx,1.0
+E/B 145TH ST BR @ E 149 ST,Manhattan,1.0
+LINDEN BLVD SB APPROACH TO ROCKAWAY BLVD,Queens,1.0
+EXIT FROM HOME DEPOT AT ROCKAWAY BLVD,Queens,1.0
+S/B 94 ST @ ROCKAWAY BLVD,Queens,1.0
+CONDUIT AVE WB APPROACH TO ROCKAWAY BLVD,Queens,1.0
+LINCOLN AVENUE,Brooklyn,1.0
+E/B ST. CLAIRE PLACE @ RIVERSIDE DR,Manhattan,1.0
+DUFFIELD ST,Brooklyn,1.0
+S/B CLASSON AVE @ FULTON ST,Brooklyn,1.0
+E 72ND ST BET 1ST AVE & YORK AVE,Manhattan,1.0
+E/B ARTHUR KILL RD @ CORTELYOU AVE,Staten Island,1.0
+EAST 134 STREET,Bronx,1.0
+N/B CLASSON AVE @ CLIFTON PLACE,Brooklyn,1.0
+LEFFERTS BLVD NB APPROACH TO ROCKAWAY BLVD,Queens,1.0
+122 PL,Queens,1.0
+W/B SANTIAGO ST @ PALO ALTO AVE,Queens,1.0
+E/B SANTIAGO ST @ PALO ALTO AVE,Queens,1.0
+SENATOR STREET,Brooklyn,1.0
+EAST 12 STREET,Manhattan,1.0
+WHITESTONE EXPRESSWAY SR EAST,Queens,1.0
+N/B GOULDEN AVE @ W 197 ST,Bronx,1.0
+S/B GOULDEN AVE @ RESERVOIR AVE,Bronx,1.0
+S/B RESERVOIR AVE @ STRONG ST,Bronx,1.0
+EDGAR STREET,Manhattan,1.0
+E/B BRUCKNER EXPWY MAIN @ BRONX RIVR AVE,Bronx,1.0
+NEW YORK AVENUE,Brooklyn,1.0
+DRIGGS AVENUE,Brooklyn,1.0
+BROOKLYN AVENUE,Brooklyn,1.0
+BROOKLYN AVE BTWN FULTON ST & HERKIMER ST,Brooklyn,1.0
+N/B MARSH AVE @ S. I. MALL DR,Staten Island,1.0
+STEINWAY AVENUE,Staten Island,1.0
+NOME AVENUE,Staten Island,1.0
+E/B 111 AVE @ 130 ST,Queens,1.0
+ROCKAWAY BLVD SB APPROACH TO 130TH STREET,Queens,1.0
+GULF AVENUE,Staten Island,1.0
+FLUSHING AVE @ RYERSON ST,Brooklyn,1.0
+ADAMS PLACE,Bronx,1.0
+ROCKAWAY BLVD NB APPROACH TO 130TH STREET,Queens,1.0
+ROCKAWAY BLVD WB APPROACH TO 130TH ST,Queens,1.0
+W/B 111 AVE @ 130 ST,Queens,1.0
+S/B 74 ST@ GRAND AVE,Queens,1.0
+W/B MYRTLE AVE @ GRAND AVE,Brooklyn,1.0
+E/B MYRTLE AVE @ GRAND AVE,Brooklyn,1.0
+S 5 ST,Brooklyn,1.0
+N/B ECKFORD ST @ NASSAU AVE,Brooklyn,1.0
+S 8 ST,Brooklyn,1.0
+BQE EB EN WILLIAMSBURG STREET E,Brooklyn,1.0
+PARK LANE,Queens,1.0
+N/B TRYON AVE @ E GUN HILL RD,Bronx,1.0
+77 ROAD,Queens,1.0
+N/B PARK CIRCLE @ PARKSIDE AVENUE,Brooklyn,1.0
+S 5 PL,Brooklyn,1.0
+PELHAM BRIDGE,Bronx,1.0
+W/B EAST GUN HILL RD @ KINGS COLLEGE PL,Bronx,1.0
+W/B EAST GUN HILL RD @ TRYON AVE,Bronx,1.0
+EXIT FROM GOWANUS TO FT HAMILTON PKWY,Brooklyn,1.0
+EAST 174 STREET,Bronx,1.0
+E/B E 174 ST BRIDGE @ BRONX RIVER AVE,Bronx,1.0
+SOUTH 9 STREET,Brooklyn,1.0
+S/B KINGS COLLEGE PL @ EAST GUN HILL RD,Bronx,1.0
+135TH ST N/O AMBULANCE ENTRANCE/EXIT,Queens,1.0
+CONEY ISL AVE & CORTELYOU RD BET AVE C & CORTELYOU,Brooklyn,1.0
+3 STREET BRIDGE,Brooklyn,1.0
+UNION ST BRIDGE,Brooklyn,1.0
+W/B 75 AVE @ 150 ST,Queens,1.0
+BROADWAY BET HENRY HUDSON PKWY SB EXIT & 256TH ST,Bronx,1.0
+LINDENWOOD RD,Staten Island,1.0
+KINGSTON AVENUE,Brooklyn,1.0
+ROCKAWAY BLVD WB APPROACH TO SUTPHIN BLVD,Queens,1.0
+MAJOR DEEGAN EXPRESSWAY SR,Bronx,1.0
+E/B E GUN HILL RD @ TRYON AVE,Bronx,1.0
+RIVERDALE AV,Bronx,1.0
+RIVERDALE AVENUE,Bronx,1.0
+BROADWAY @ CARYL AVE (CITY LINE),Bronx,1.0
+LAFAYETTE AVE @ TOMPKINS AVE,Brooklyn,1.0
+W/B MACDONOUGH ST @ TOMPKINS AVE,Brooklyn,1.0
+TOMPKINS AVENUE,Brooklyn,1.0
+S/B GRAHAM AVE @ POWERS ST,Brooklyn,1.0
+N/B GRAHAM AVE @ POWERS ST,Brooklyn,1.0
+AVENUE R,Brooklyn,1.0
+KATAN AV,Staten Island,1.0
+DESBROSSES STREET,Manhattan,1.0
+N/B NORTH CHANNEL BRIDGE @ 165 AVE,Queens,1.0
+N CHANNEL BR,Queens,1.0
+S/B NORTH CHANNEL BRIDGE @ 1ST ROAD,Queens,1.0
+62nd DR SB APPR TO QUEENS BLVD,Queens,1.0
+WATERSIDE PKWY,Staten Island,1.0
+LARCH CT,Staten Island,1.0
+BRUCKNER EP WB EN SHERIDAN EP,Bronx,1.0
+Crystal Street,Brooklyn,1.0
+East 119 Street,Manhattan,1.0
+Brooklyn Avenue,Brooklyn,1.0
+Glenmore Avenue,Brooklyn,1.0
+DOSCHER ST,Brooklyn,1.0
+Myrtle Avenue Line,Brooklyn,1.0
+Lirr Bay Ridge Line,Brooklyn,1.0
+Catalpa Avenue,Queens,1.0
+ADELPHI ST,Brooklyn,1.0
+Fanchon Place,Brooklyn,1.0
+DOUGLASS ST,Brooklyn,1.0
+Brooklyn Queens Expwy Et 41 Eb,Queens,1.0
+STAFFORD AV,Staten Island,1.0
+ROSS ST,Brooklyn,1.0
+BK BR EN RP,Manhattan,1.0
+75 ST,Queens,1.0
+KNICKER BOCKER AV,Brooklyn,1.0
+CAPUCHIN WY,Bronx,1.0
+COLDEN AV,Bronx,1.0
+WYTHE AV/FRANKLIN AV,Brooklyn,1.0
+217 ST,Queens,1.0
+24 Avenue,Queens,1.0
+68 St,Brooklyn,1.0
+Grove Street,Queens,1.0
+St Pauls Place,Brooklyn,1.0
+Grace Avenue,Bronx,1.0
+CHARLES ST,Manhattan,1.0
+Beekman Street,Manhattan,1.0
+CENTRE ST,Queens,1.0
+STEPHEN ST,Queens,1.0
+Berry Avenue,Staten Island,1.0
+BEACH 116 ST,Queens,1.0
+LITTLE NECK PKWY,Queens,1.0
+Remsen Lane,Queens,1.0
+60 Lane,Queens,1.0
+STERLING ST,Brooklyn,1.0
+BLUE HERON DR,Staten Island,1.0
+5 AV/W 16 ST,Manhattan,1.0
+E 236 ST,Bronx,1.0
+Union Avenue,Bronx,1.0
+Prospect Avenue,Bronx,1.0
+Rev James Polite Avenue,Bronx,1.0
+241 ST,Queens,1.0
+73 Place,Queens,1.0
+FOREST GRN,Staten Island,1.0
+Parkside Court,Brooklyn,1.0
+56 Avenue,Queens,1.0
+East 10 Street Pedestrian Ovps,Manhattan,1.0
+Tinton Avenue,Bronx,1.0
+65 AV,Queens,1.0
+PEARTREE AV,Bronx,1.0
+116 AV,Queens,1.0
+Rutland Road,Brooklyn,1.0
+TRSMAN EXWY EN RP/CROSS BRONX EP EN RAMP,Manhattan,1.0
+POWELL ST,Brooklyn,1.0
+STATEN IS MALL DR,Staten Island,1.0
+West 40 Street,Manhattan,1.0
+16 ST,Brooklyn,1.0
+27 Avenue,Brooklyn,1.0
+81 Street,Queens,1.0
+101 Avenue,Queens,1.0
+84 ST/DIGBY PL,Queens,1.0
+HOME ST,Bronx,1.0
+REV JAMES POLITE AV/LYMAN PL,Bronx,1.0
+W 43 ST,Manhattan,1.0
+East 35 Street,Manhattan,1.0
+Lombardy Street,Brooklyn,1.0
+West Avenue,Brooklyn,1.0
+FOREST HILL RD/BIKE PATH,Staten Island,1.0
+32 ST,Brooklyn,1.0
+NEW YORK AV,Brooklyn,1.0
+BRYANT AVENUE,Bronx,1.0
+Long Island Expwy Et 17 E-w Eb,Queens,1.0
+FDR DRIVE NORTHBOUND EXIT 2,Manhattan,1.0
+95 Street,Queens,1.0
+WEST 134 STREET,Manhattan,1.0
+Ave T and Ave S,Brooklyn,1.0
+Avenue P,Brooklyn,1.0
+MARSH AV,Staten Island,1.0
+W 171 ST/EDGECOMBE AV,Manhattan,1.0
+33 ST,Queens,1.0
+Forest Park Greenway,Queens,1.0
+83 STREET,Queens,1.0
+N SHR TOWER DRIVEWAY,Queens,1.0
+BROAD ST,Manhattan,1.0
+88 ST,Queens,1.0
+Van Wyck Expressway,Queens,1.0
+East 162 Street,Bronx,1.0
+EAST RD/BIKE PATH,Manhattan,1.0
+85 AV,Queens,1.0
+75 AVE,Queens,1.0
+GREAVES AV,Staten Island,1.0
+West End Avenue,Manhattan,1.0
+W 74 ST,Manhattan,1.0
+W 75 ST,Manhattan,1.0
+HENRY HUDSON PKWY SB ET 10 E-W,Manhattan,1.0
+Rockland Avenue,Staten Island,1.0
+NOME AV,Staten Island,1.0
+FRASER ST,Staten Island,1.0
+BRIDGETOWN,Staten Island,1.0
+DENKER PL,Staten Island,1.0
+TRAVIS AV,Staten Island,1.0
+Kelly Boulevard,Staten Island,1.0
+SENECA LOOP,Staten Island,1.0
+STEERS ST,Staten Island,1.0
+Roberts Avenue,Bronx,1.0
+Philip Avenue,Bronx,1.0
+FRANKLIN ST/KENT AV,Brooklyn,1.0
+131 ST,Queens,1.0
+Jerome Avenue Line,Bronx,1.0
+NEREID AV,Bronx,1.0
+Maspeth Avenue,Brooklyn,1.0
+BRIDGE PLAZA CT,Brooklyn,1.0
+LINDBERGH AV,Staten Island,1.0
+WEST 6th ST N.OF 86th ST,Brooklyn,1.0
+S/B RIVERSIDE DR @ ST. CLAIRE PLACE,Manhattan,1.0
+W/B MASPETH AVE @ KINGSLAND AVE,Brooklyn,1.0
+PELHM PKY W OF SB HUT RIVR PKY OF RP,Bronx,1.0
+E/B HIGHLAWN AVE @ W 13 ST,Brooklyn,1.0
+STILLWELL AV BR,Brooklyn,1.0
+N/B MCGUINNESS BLVD @ NORMAN AVE,Brooklyn,1.0
+N/B MCGUINNESS BLVD @ NASSAU AVE,Brooklyn,1.0
+QUEENS MIDTOWN EXPRESSWAY BRIDGE,Queens,1.0
+MORNINGSIDE AVENUE,Manhattan,1.0
+WEST 121 STREET,Manhattan,1.0
+GREENE AV,Brooklyn,1.0
+W 173rd ST APPR WADSWORTH AVE.,Manhattan,1.0
+W 120TH ST BET LENOX AVE & MT MORRIS PARK W,Manhattan,1.0
+W 124TH ST BET 5TH AVE & MT MORRIS PARK W,Manhattan,1.0
+HUNTERS PT BR,Queens,1.0
+EAST 235 STREET,Bronx,1.0
+MT EDEN AVE APPROACH TO GRAND CONCOURSE,Bronx,1.0
+4 AVENUE,Brooklyn,1.0
+AUDUBON AVENUE,Manhattan,1.0
+WADSWORTH AVE N/O W 173rd ST,Manhattan,1.0
+BROADWAY N/O W 173rd ST,Manhattan,1.0
+E 120TH ST BET 5TH AVE & MADISON AVE,Manhattan,1.0
+N/B 7 AVENUE @ 82 STREET,Brooklyn,1.0
+W 155TH ST EB&WB WEST OF HARLEM RIVER DRIVE,Manhattan,1.0
+BEACH 37 STREET,Queens,1.0
+BEACH 41 STREET,Queens,1.0
+BEADEL STREET,Brooklyn,1.0
+E 233RD ST BET BYRON AVE & WHITE PLAINS RD,Bronx,1.0
+MT MORRIS PARK W BET W 120TH ST & W 121ST ST,Manhattan,1.0
+GRAND CENTRAL PKWY WB EN 94 ST,Queens,1.0
+HANCOCK STREET,Brooklyn,1.0
+WEST 135TH ST EB APPROACH TO FR. DOUGLASS BLVD,Manhattan,1.0
+S/B 38 ST @ 23 AVE,Queens,1.0
+W/B 62 DR @  YELLOWSTONE BLVD,Queens,1.0
+W/B GROTON ST @  YELLOWSTONE BLVD,Queens,1.0
+BEACH 38 STREET,Queens,1.0
+BROOKLYN QUEENS EXPWY ET 34 WB,Brooklyn,1.0
+E 233RD ST BET CARPENTER AVE & WHITE PLAINS RD,Bronx,1.0
+NEPTUNE AVE BET W 15TH & 16TH STS,Brooklyn,1.0
+COOPER STREET,Brooklyn,1.0
+DECATUR STREET,Brooklyn,1.0
+JEFFERSON AVENUE,Brooklyn,1.0
+HOMECREST AVENUE,Brooklyn,1.0
+EAST 2 STREET,Brooklyn,1.0
+AVE V-EB APPROACHING BRAGG ST,Brooklyn,1.0
+JOHN ST,Brooklyn,1.0
+GRAND CENTRAL PARKWAY ET 45 WB,Queens,1.0
+E/B 57 AVE @ 92 ST,Queens,1.0
+EAST 220 STREET,Bronx,1.0
+AVENUE S,Brooklyn,1.0
+63rd AVE BET QUEENS BLVD & SAUNDERS ST,Queens,1.0
+S/B 63 AVE @ SAUNDERS ST,Queens,1.0
+N/B E 96 ST @ FLATLANDS AVE,Brooklyn,1.0
+UTICA AVE SB APPROACH TO FLATLANDS AVE,Brooklyn,1.0
+UTICA AVE FLATBUSH AVE NB JUST NORTH OF AVE T,Brooklyn,1.0
+WEST 179 STREET,Manhattan,1.0
+S/B AVE N @ E 54 ST,Brooklyn,1.0
+W/B AVE N @ E 54 ST,Brooklyn,1.0
+WEST 155 STREET,Manhattan,1.0
+BAY PKWY APPROACH TO 72ND ST,Brooklyn,1.0
+RYDER STREET,Brooklyn,1.0
+EAST 51 STREET,Brooklyn,1.0
+EAST 234 STREET,Bronx,1.0
+BELT PKWY EB EN PENNSYLVANIA AVE,Brooklyn,1.0
+N/B JEROME AVE @MACOMBS DAM BR. APPROACH,Bronx,1.0
+CROPSEY AVENUE BRIDGE,Brooklyn,1.0
+STILLWELL AVENUE BRIDGE,Brooklyn,1.0
+N/B W 13 ST @ HIGHLAWN AVE,Brooklyn,1.0
+E/B AVE N @ E 54 ST,Brooklyn,1.0
+W/B HIGHLAWN AVE @ W 13 ST,Brooklyn,1.0
+S/B CEN. PK EXT TO 7 AVE @ CENT. PK S,Manhattan,1.0
+CBE SB ENTRANCE WASHINGTON BRDG,Manhattan,1.0
+BELT PKWY WB EN FLATBUSH AVE SB,Brooklyn,1.0
+EAST 221 STREET,Bronx,1.0
+LACONIA AVENUE,Bronx,1.0
+W/B 70 ST @ 12 AVE,Brooklyn,1.0
+BAY PKWY BET 76TH ST & AVE P,Brooklyn,1.0
+BAY PARKWAY NB APPROACH TO 75TH ST,Brooklyn,1.0
+W/B MYRTLE AVE @ 76 ST,Queens,1.0
+NB FT HAMILTON PKWY APPRO ACHING BAY RIDGE PKWY,Brooklyn,1.0
+FT HAMILTON PKWY NB APPR BAY RIDGE PKWY,Brooklyn,1.0
+W/B 78 ST @ 11 AVE,Brooklyn,1.0
+DELAFIELD AVENUE,Staten Island,1.0
+BOGART ST,Brooklyn,1.0
+IRVING AVENUE,Brooklyn,1.0
+VAN BUREN STREET,Brooklyn,1.0
+E/B QBB SOUTH OUTER ROADWAY,Manhattan,1.0
+ED KOCH QUEENSBORO BRG,Queens,1.0
+NEWTOWN AVE,Queens,1.0
+CLINTON ST,Brooklyn,1.0
+MYRTLE AVE BET ST NICHOLAS AVE & PALMETTO,Brooklyn,1.0
+56 STREET,Queens,1.0
+N/B SMITH ST @ SACKETT ST,Brooklyn,1.0
+4TH AVE APPROACHING UNION ST,Brooklyn,1.0
+UNION ST BR,Brooklyn,1.0
+S/B ROCHESTER AVE @ UNION ST,Brooklyn,1.0
+BROOKLYN AVE BTWN EASTERN PKWY & UNION ST,Brooklyn,1.0
+E/B 30 AVE @  STEINWAY ST,Queens,1.0
+E/B 34 AVE @ STEINWAY ST,Queens,1.0
+E/B 31 AVE @ STEINWAY ST,Queens,1.0
+4TH AVE APPROACHING 39TH ST,Brooklyn,1.0
+THAMES STREET,Brooklyn,1.0
+9 STREET BRIDGE,Brooklyn,1.0
+TEN EYCK ST,Brooklyn,1.0
+SCHOLES ST,Brooklyn,1.0
+MESEROLE ST,Brooklyn,1.0
+MYRTLE AVE BET EVERGREEN AVE & HART ST,Brooklyn,1.0
+STOCKHOLM ST,Brooklyn,1.0
+KNICKERBOCKER AVENUE,Brooklyn,1.0
+SCOTT AVENUE,Brooklyn,1.0
+S/B LEONARD ST @ NASSAU AVE,Brooklyn,1.0
+N/B MANHATTAN AVE @ NORMAN AVE,Brooklyn,1.0
+S/B MCGUINNESS BLVD @ NORMAN AVE,Brooklyn,1.0
+N/B ROCHESTER AVE @ UNION ST,Brooklyn,1.0
+32 AVENUE,Queens,1.0
+S/B 138 ST @ 31 RD,Queens,1.0
+N/B 138 ST @ 31 RD,Queens,1.0
+W/B MILL BASIN BRIDGE @ BELT PKWY,Brooklyn,1.0
+E/B MILL BASIN BRIDGE @ BELT PKWY,Brooklyn,1.0
+W/B E 14 ST (SERVICE) @ 1ST AVE,Manhattan,1.0
+W/B E 14 ST (SERVICE RD) @ 1ST AVE,Manhattan,1.0
+E/B 64 AVE @ 184 ST,Queens,1.0
+W/B 64 AVE @ 184 ST,Queens,1.0
+EAST 125 STREET,Manhattan,1.0
+17 AVENUE,Brooklyn,1.0
+W/B SAUNDERS ST @ 63 AVE,Queens,1.0
+ROCKAWAY BLVD WB APPROACH TO ATLANTIC AVE,Queens,1.0
+WEST 180 STREET,Bronx,1.0
+SCHERMERHORN STREET,Brooklyn,1.0
+W/B UNION TURNPIKE @ LANGDALE ST -,Queens,1.0
+S/B 11 AVE @ 81 ST,Brooklyn,1.0
+S/B FRESH KILLS BRIDGE @ FOREST HILL RD-,Staten Island,1.0
+WEST BURNSIDE AVENUE,Bronx,1.0
+E/B W 235 ST @ INDEPENDENCE AVE,Bronx,1.0
+N/B BRONX RIVER PKWY @ SOUTH OF -,Bronx,1.0
+3RD AVE APPROACHING E  72 ND ST,Manhattan,1.0
+W/B 60 ROAD @ FRESH POND ROAD,Queens,1.0
+W/B METROPOLITAN AVE @ FRESH POND RD,Queens,1.0
+65 PL,Queens,1.0
+69 STREET,Queens,1.0
+RUST STREET,Queens,1.0
+WANAMAKER PLACE,Manhattan,1.0
+NEVINS STREET,Brooklyn,1.0
+96 STREET,Queens,1.0
+STATE ST,Manhattan,1.0
+BROAD STREET,Manhattan,1.0
+S/B 30 ST @ 35 AVE,Queens,1.0
+New Dorp La WB Between,Staten Island,1.0
+WYCKOFF AVE BET GATES & MYRTLE AVES,Brooklyn,1.0
+MYRTLE AVE BET GATES & WYCKOFF AVES,Brooklyn,1.0
+S/B CLASSON AVE @ GATES AVE,Brooklyn,1.0
+MARTLING AVENUE,Staten Island,1.0
+WILLIAM/OLD SLIP,Manhattan,1.0
+HALLECK STREET,Bronx,1.0
+WATER STREET,Manhattan,1.0
+JUNIPER BOULEVARD SOUTH,Queens,1.0
+EAST 142 STREET,Bronx,1.0
+BROADWAY BET MANHATTAN COLLEGE PKWY & W 251ST ST,Bronx,1.0
+LIBERTY STREET,Manhattan,1.0
+Bronx River Parkway,Bronx,1.0
+BROADWAY EB APPROACH TO 55TH ST,Queens,1.0
+E/B WARREN ST @ W BROADWAY - CHURCH ST,Manhattan,1.0
+DOUGLASS STREET,Brooklyn,1.0
+SMITH STREET,Brooklyn,1.0
+ASTORIA BLVD N,Queens,1.0
+BERRIAN BOULEVARD,Queens,1.0
+S/B MADISON AVE (S OF W 142 ST @ 5 AVE),Manhattan,1.0
+N/B BELL BLVD @ 18 AVE,Queens,1.0
+S/B BELL BLVD @ 18 AVE,Queens,1.0
+CO OP CITY BLVD APPROACH TO ROMBOUTS AVE,Bronx,1.0
+BQE WB EXIT 37,Queens,1.0
+ATLANTIC AVE BET HENRY & HICKS STS,Brooklyn,1.0
+20 AVENUE,Brooklyn,1.0
+LINDEN ST,Brooklyn,1.0
+ST ANNS AVENUE,Bronx,1.0
+ALDRICH ST,Bronx,1.0
+NEW ENGLAND THRWY EXIT NB,Bronx,1.0
+St Georges Crescent,Bronx,1.0
+HUTCHINSON RIVER PKWY BR,Bronx,1.0
+Whitestone Expressway Et 14 Nb,Queens,1.0
+53 DR,Queens,1.0
+OSBORN STREET,Brooklyn,1.0
+CARROLL PL/BIKE PATH,Bronx,1.0
+Between E. 172nd St and Rockwood St,Bronx,1.0
+FRANKLIN ST/N 14 ST,Brooklyn,1.0
+West 99 Street,Manhattan,1.0
+Ditmas Avenue,Brooklyn,1.0
+Madison Avenue Bridge,Bronx,1.0
+Old Mill Creek Shoreline,Queens,1.0
+Grand Central Parkway Sr East,Queens,1.0
+Gowanus Ep Eb Et 17 Lowerdeck,Brooklyn,1.0
+MARINE PKWY BR EXIT,Queens,1.0
+W 232 ST,Bronx,1.0
+Token Street,Staten Island,1.0
+22 Street,Queens,1.0
+Prospect Expressway Exit 2 Wb,Brooklyn,1.0
+Homelawn Street,Queens,1.0
+3 Avenue Bridge,Bronx,1.0
+READING AV,Staten Island,1.0
+GENESEE AV,Staten Island,1.0
+12 AV/HHP NB EXIT 12,Manhattan,1.0
+Lincoln Avenue,Bronx,1.0
+CLIFTON PL,Brooklyn,1.0
+W 184 ST/E 184 ST,Bronx,1.0
+Boerum Place,Brooklyn,1.0
+JEWEL AV,Queens,1.0
+Farragut Road,Brooklyn,1.0
+BRE EB EN BRYANT AV,Bronx,1.0
+St Marks Avenue,Brooklyn,1.0
+Bouck Court,Brooklyn,1.0
+42 RD,Queens,1.0
+ST MARKS AV,Brooklyn,1.0
+WINDHAM LOOP,Staten Island,1.0
+129 Street,Queens,1.0
+6 Avenue,Brooklyn,1.0
+East 184 Street,Bronx,1.0
+QN PLZ,Queens,1.0
+Marion Avenue,Bronx,1.0
+RYERSON ST,Brooklyn,1.0
+East 188 Street,Bronx,1.0
+RODNEY ST,Brooklyn,1.0
+Between E. 196th St and Miriam St,Bronx,1.0
+East 183 Street,Bronx,1.0
+GOTHAM RD,Queens,1.0
+Bathgate Avenue,Bronx,1.0
+HALL ST,Brooklyn,1.0
+BERRY ST,Brooklyn,1.0
+Marconi Street,Bronx,1.0
+Belmont Avenue,Bronx,1.0
+Hewes Street,Brooklyn,1.0
+142 ST,Queens,1.0
+80 Road,Queens,1.0
+RESERVOIR OVAL W,Bronx,1.0
+PARKSIDE AV,Brooklyn,1.0
+S 5 ST/WILLIAMSBURG BR BIKE AND PED PTH,Brooklyn,1.0
+Eastchester Bay Shoreline,Bronx,1.0
+65 Avenue,Queens,1.0
+FT HAMILTON PKWY/GOE EB EXIT 18,Brooklyn,1.0
+Rodney Street,Brooklyn,1.0
+104 Street,Queens,1.0
+City Island Avenue,Bronx,1.0
+89 AV,Queens,1.0
+BENNINGTON ST,Brooklyn,1.0
+Bqe Wb Entrance Metropolitan Ave,Brooklyn,1.0
+136 ST,Queens,1.0
+146 ST,Queens,1.0
+BRONX RIVER PKWY,Bronx,1.0
+MARCY AV,Brooklyn,1.0
+PINEGROVE ST,Queens,1.0
+INWOOD ST/LLOYD RD,Queens,1.0
+LLOYD RD,Queens,1.0
+ARCHER AV,Queens,1.0
+HHP SB EXIT 23 N,Bronx,1.0
+SCARSDALE ST,Staten Island,1.0
+Brooklyn Queens Expwy Et 32 Eb,Brooklyn,1.0
+Major Deegan Expwy Et 14 Nb,Bronx,1.0
+125 Street,Queens,1.0
+Conselyea Street,Brooklyn,1.0
+Bronx Rvr Py Nb En Pelham Py Eb,Bronx,1.0
+WAYNE AV,Bronx,1.0
+W 263 ST,Bronx,1.0
+West 263 Street,Bronx,1.0
+W 261 ST,Bronx,1.0
+Corbin Avenue,Staten Island,1.0
+Dekalb Avenue,Brooklyn,1.0
+E 96 ST,Manhattan,1.0
+JEROME AV/W GUN HILL RD,Bronx,1.0
+ROCHAMBEAU AV,Bronx,1.0
+Lexington Avenue,Manhattan,1.0
+East 12 Street,Manhattan,1.0
+E 14 St,Brooklyn,1.0
+Temple Court,Brooklyn,1.0
+WOODRUFF AV,Brooklyn,1.0
+PETERS PL,Bronx,1.0
+Vireo Avenue,Bronx,1.0
+Chester Avenue,Brooklyn,1.0
+RIVERSIDE DR/HHP NB EN DYCKMAN ST/HHP SB EN DYCKM*,Manhattan,1.0
+GRAVESEND NECK RD,Brooklyn,1.0
+JORALEMON ST,Brooklyn,1.0
+MONTAGUE ST,Brooklyn,1.0
+216 ST,Queens,1.0
+East Raleigh Avenue,Staten Island,1.0
+Tompkins Avenue,Brooklyn,1.0
+197 ST,Queens,1.0
+E 210 ST,Bronx,1.0
+POLY PL/WAINWRIGHT DR,Brooklyn,1.0
+Pinegrove Street,Queens,1.0
+110 Road,Queens,1.0
+Clawson Street,Staten Island,1.0
+W 123 ST,Manhattan,1.0
+SMITH ST,Brooklyn,1.0
+54 Avenue,Queens,1.0
+Horace Harding Expressway Sr N,Queens,1.0
+Delaware Avenue,Queens,1.0
+Murray Street,Queens,1.0
+Lirr Port Washington Line,Queens,1.0
+PAERDEGAT 8 ST,Brooklyn,1.0
+45 AV/ELMHURST AV,Queens,1.0
+E 6 ST,Brooklyn,1.0
+AV Y,Brooklyn,1.0
+Kingston Ave,Brooklyn,1.0
+PARROTT PL,Brooklyn,1.0
+85 ST,Queens,1.0
+ISLINGTON ST,Staten Island,1.0
+DEWEY PL,Staten Island,1.0
+Amtrak-northeast Line,Manhattan,1.0
+183 ST,Queens,1.0
+19 Avenue,Brooklyn,1.0
+17 AV,Brooklyn,1.0
+West 85 Street,Manhattan,1.0
+Varkens Hook Road,Brooklyn,1.0
+ARNOW AV,Bronx,1.0
+EASTCHESTER RD,Bronx,1.0
+LEFFERTS AV/EMPIRE BLVD,Brooklyn,1.0
+W 179 ST/G WASHINGTON BR EN W 179 ST,Manhattan,1.0
+85 RD,Queens,1.0
+HOMECREST AV,Brooklyn,1.0
+E 59 ST/CENTRAL PARK S,Manhattan,1.0
+Camden Avenue,Staten Island,1.0
+E 73 ST,Manhattan,1.0
+Baltic Ave,Staten Island,1.0
+Brigham Street,Brooklyn,1.0
+BQE WB EN WILLIAMSBURG ST W/BROOKLYN QUEENS EXWY/*,Brooklyn,1.0
+20 RD,Queens,1.0
+B 79 ST,Queens,1.0
+E 87 ST,Manhattan,1.0
+East 23 Street,Brooklyn,1.0
+Brown Place,Queens,1.0
+East 151 Street,Bronx,1.0
+E 46 ST,Brooklyn,1.0
+53 Avenue,Queens,1.0
+AV L,Brooklyn,1.0
+E 28 ST,Brooklyn,1.0
+E 64 ST,Manhattan,1.0
+Calhoun Avenue,Bronx,1.0
+East Tremont Avenue,Bronx,1.0
+PELHAM PKWY S/HUTCH RIVER PKWY E,Bronx,1.0
+STUART ST,Brooklyn,1.0
+DEVON AV,Brooklyn,1.0
+58 ST/34 AV,Queens,1.0
+DARLINGTON AV,Staten Island,1.0
+HINSDALE STREET,Brooklyn,1.0
+RIVERSIDE DR/DYCKMAN ST,Manhattan,1.0
+Voorhies Ave and Shore Pkwy,Brooklyn,1.0
+Chelsea Street,Queens,1.0
+21 AV,Brooklyn,1.0
+W 46 ST/E 46 ST,Manhattan,1.0
+Crosby Street,Manhattan,1.0
+BEECHWOOD PL,Staten Island,1.0
+FENIMORE ST,Brooklyn,1.0
+W 23 ST/5 AV,Manhattan,1.0
+BAY 20 ST,Brooklyn,1.0
+West 180 Street,Manhattan,1.0
+BATH AV,Brooklyn,1.0
+102 ST,Queens,1.0
+C P W 85 APPR/W 85 ST,Manhattan,1.0
+W 58 ST,Manhattan,1.0
+Castleton Court,Staten Island,1.0
+EVERITT PL,Queens,1.0
+HUDSON ST/W BROADWAY,Manhattan,1.0
+MC KEEVER PL,Brooklyn,1.0
+Roosevelt Court,Queens,1.0
+75 Road,Queens,1.0
+100 ST,Queens,1.0
+Rockaway Line,Queens,1.0
+ROSE LANE,Staten Island,1.0
+North Railroad Street,Staten Island,1.0
+38 AV,Queens,1.0
+ASH AV,Queens,1.0
+BEECH AVENUE,Queens,1.0
+ECKFORD AV,Queens,1.0
+SI EXWY EN EB/LILY POND AV,Staten Island,1.0
+222 Street,Queens,1.0
+Alabama Avenue,Brooklyn,1.0
+Wortman Avenue,Brooklyn,1.0
+E 60 STREET PEDESTRIAN OPAS,Manhattan,1.0
+UNION AV,Brooklyn,1.0
+THE MALL,Manhattan,1.0
+ADAMS AV,Staten Island,1.0
+W FARMS RD/E 167 ST,Bronx,1.0
+WARSOFF PL,Brooklyn,1.0
+56 AV/218 ST,Queens,1.0
+FT GREENE PL,Brooklyn,1.0
+Sheffield Avenue,Brooklyn,1.0
+Elmira Loop,Brooklyn,1.0
+W 125 ST,Manhattan,1.0
+W 134 ST,Manhattan,1.0
+117 ST,Queens,1.0
+Bay Parkway,Brooklyn,1.0
+Preston Avenue,Staten Island,1.0
+PARSONS BLVD/BIKE PATH,Queens,1.0
+156 ST,Queens,1.0
+Beekman Pl and Midwood St.,Brooklyn,1.0
+Amsterdam Avenue,Manhattan,1.0
+DOUGLASTON PKWY/WILLOW DR,Queens,1.0
+ST NICHOLAS AV/W 162 ST,Manhattan,1.0
+Brooklyn Brdg Ped And Bike Path,Manhattan,1.0
+Front Street,Brooklyn,1.0
+Columbus Avenue,Manhattan,1.0
+RESERVOIR AV,Bronx,1.0
+BROADWAY/MALCOLM X BLVD,Brooklyn,1.0
+Rock Street,Brooklyn,1.0
+15 Avenue,Queens,1.0
+143 AV,Queens,1.0
+Strong Place,Brooklyn,1.0
+Baltic Street,Brooklyn,1.0
+LANDING ROAD,Bronx,1.0
+RUTGERS ST/ESSEX ST,Manhattan,1.0
+Church Avenue,Brooklyn,1.0
+14 Road,Queens,1.0
+St Pauls Avenue,Staten Island,1.0
+West 167 Street,Bronx,1.0
+Foster Ave and Farragut Rd,Brooklyn,1.0
+Robinson Street,Queens,1.0
+ARGYLE RD,Brooklyn,1.0
+9 ST BR,Brooklyn,1.0
+AMANDA CT,Staten Island,1.0
+WOODROW RD,Staten Island,1.0
+Pompey Avenue,Staten Island,1.0
+Amboy Street,Brooklyn,1.0
+Bristol Street,Brooklyn,1.0
+Thatford Avenue,Brooklyn,1.0
+97 AV,Queens,1.0
+Corson Avenue,Staten Island,1.0
+SCHUYLER ST,Staten Island,1.0
+Howard Avenue,Brooklyn,1.0
+CLAVER PLACE,Brooklyn,1.0
+245 Street,Queens,1.0
+62 Avenue,Queens,1.0
+24 Road,Queens,1.0
+CLOSE AV,Queens,1.0
+COLLEGE AV,Bronx,1.0
+Bqe Wb Entrance Columbia St,Brooklyn,1.0
+Brooklyn Queens Expwy Et 27 Wb,Brooklyn,1.0
+248th St and 249th St,Queens,1.0
+RUSHMORE AV,Queens,1.0
+BROWVALE LA,Queens,1.0
+82 DR,Queens,1.0
+101 AVENUE,Queens,1.0
+178th Pl and Farmers Blvd,Queens,1.0
+WEST 76 STREET,Manhattan,1.0
+W 23 ST/E 23 ST,Manhattan,1.0
+S GREENLEAF AV,Staten Island,1.0
+Houseman Ave,Staten Island,1.0
+KNOX PL,Bronx,1.0
+60 DR,Queens,1.0
+JEWETT AV,Staten Island,1.0
+BAY 35 ST,Brooklyn,1.0
+24 AV,Brooklyn,1.0
+BRONXDALE AV/BRONX PARK E,Bronx,1.0
+Whitestone Expressway Sr East,Queens,1.0
+GREENPOINT AV BR/KINGSLAND AV/JJ BYRNE MEMORIAL B*,Brooklyn,1.0
+W 94 ST,Manhattan,1.0
+W 53RD ST,Manhattan,1.0
+West 54 Street,Manhattan,1.0
+WYGANT PL,Staten Island,1.0
+Powell Street,Brooklyn,1.0
+E 233RD ST BET AMUNDSON & DURYEA AVES,Bronx,1.0
+CHATHAM SQUARE,Manhattan,1.0
+W/B QUEENSBORO BR NORTH UPPER RDWY,Queens,1.0
+S/B 164 ST @ 77 ROAD,Queens,1.0
+CLARENDON RD W/O RALPH AVE,Brooklyn,1.0
+SOUND STREET,Queens,1.0
+EAST 28 STREET,Brooklyn,1.0
+E/B LINCOLN PLACE @ TROY AVE,Brooklyn,1.0
+EMPIRE BLVD @ TROY AVE,Brooklyn,1.0
+S/B WASHINGTON ST @ BATTERY PLACE,Manhattan,1.0
+BATTERY PARK VIADUCT,Manhattan,1.0
+CRESCENT STREET,Queens,1.0
+WEST 207 STREET,Manhattan,1.0
+VALENTINE AVENUE,Bronx,1.0
+ARNOLD AV,Queens,1.0
+BROADWAY WB APPROACH TO 55TH ST,Queens,1.0
+N/B 184 ST @ 64 AVE,Queens,1.0
+N/B TROTTING CO LANE @ METROPOL.ITAN AVE,Queens,1.0
+S/B 150 ST @ 75 AVE,Queens,1.0
+REMSEN AVE SB APPROACHING RUTLAND RD,Brooklyn,1.0
+36 AV,Queens,1.0
+W/B 21 AVE @ 33 ST,Queens,1.0
+DYCKMAN ST,Manhattan,1.0
+ANDREWS AV,Queens,1.0
+4TH AVE RIGHT LANE BET 55TH & 56TH STS,Brooklyn,1.0
+S/B 18 AVE @ 56 ST,Brooklyn,1.0
+E/B WILLIAMSBURG BR SOUTH OUTER RDWY,Manhattan,1.0
+CLASSON AVENUE,Brooklyn,1.0
+S/B HUTCHINSON RIVER PKWY @ ENGLAND,Bronx,1.0
+EAST 92 STREET,Brooklyn,1.0
+EMPIRE BLVD @ KINGSTON AVE,Brooklyn,1.0
+S/B 11 ST @ 44 AVE,Queens,1.0
+HHP SB EXIT 17,Manhattan,1.0
+ASTORIA BOULEVARD SOUTH,Queens,1.0
+S/B TOMPKINS AVE @ MACDONOUGH ST,Brooklyn,1.0
+W/B Macdonough St @ Thomas S Boyland St,Brooklyn,1.0
+REMSEN AVE NB APPROACHING EAST NEY YORK AVE,Brooklyn,1.0
+UTICA AVE NB APPROACH TO EMPIRE BLVD,Brooklyn,1.0
+INT RMP,Queens,1.0
+43 AV,Queens,1.0
+S/B HONEYWELL ST @ SKILLMAN AVE,Queens,1.0
+S/B SPRINGFIELD BLVD @ 145 RD,Queens,1.0
+CO-OP CITY BOULEVARD,Bronx,1.0
+N/B HONEYWELL ST @ NORTHERN BLVD,Queens,1.0
+Fort Hamilton Pkwy NB,Brooklyn,1.0
+Fort Hamilton Pkwy SB,Brooklyn,1.0
+YORK AVE BET E 76TH ST & E 77TH ST,Manhattan,1.0
+N/B 11 ST @ 44 AVE,Queens,1.0
+PROSPECT PARK WEST APPROACH TO CARROLL ST,Brooklyn,1.0
+7TH AVE APPROACH TO CARROLL ST,Brooklyn,1.0
+N/B Thomas S Boyland St @Macdonough St,Brooklyn,1.0
+E/B JEFFERSON AVE @ BROADWAY,Brooklyn,1.0
+MAC DOUGAL STREET,Brooklyn,1.0
+MARION STREET,Brooklyn,1.0
+WEST 58 STREET,Manhattan,1.0
+TOTTEN AV,Queens,1.0
+DELEVAN STREET,Brooklyn,1.0
+S/B KINGSLAND AVE @ MASPETH AVE,Brooklyn,1.0
+PAGE PL,Queens,1.0
+CONWAY STREET,Brooklyn,1.0
+BUSHWICK AVENUE,Brooklyn,1.0
+EAST 14 STREET,Manhattan,1.0
+UNIVERSITY HEIGHTS BRG,Manhattan,1.0
+S/B KNAPP ST @ HARKNESS AVE,Brooklyn,1.0
+S/B KNAPP ST (S LEG) @ HARKNESS AVE,Brooklyn,1.0
+BARTOW AVE EAST OF BAYCHESTER AVE,Bronx,1.0
+BARTOW AVE WEST OF BAYCHESTER AVE,Bronx,1.0
+ROCKAWAY BLVD APPROACH TO WOODHAVEN BLVD,Queens,1.0
+N/B POWELL ST @ LIBERTY AVE,Brooklyn,1.0
+93RD ST APPROACH TO LIBERTY AVE,Queens,1.0
+LIBERTY AVE WB APPROACH TO 93RD ST,Queens,1.0
+93RD ST NB APPROACH TO LIBERTY,Queens,1.0
+N/B HAMILTON AVE @ NELSON ST,Brooklyn,1.0
+GRAND CENTRAL PKWY S SER. RD,Queens,1.0
+LAFAYETTE STREET,Manhattan,1.0
+W/B JOHNSON AVE @ HUMBOLDT ST,Brooklyn,1.0
+RIVERSIDE RD MAIN RD APPROACH TO W 97TH ST,Manhattan,1.0
+METROPOLITAN AVENUE BRIDGE,Brooklyn,1.0
+FRANKLIN AVENUE,Brooklyn,1.0
+NEGUNDO AV,Queens,1.0
+S/B HUMBOLDT ST @ JOHNSON AVE,Brooklyn,1.0
+GRAND STREET,Brooklyn,1.0
+W/B METROPOLITAN AVE BRIDGE @,Brooklyn,1.0
+W/B W 197 ST @ RESERVOIR AVE,Bronx,1.0
+N/B CHEVY CHASE ST @ UNION TURNPIKE,Queens,1.0
+LAWTON ST,Brooklyn,1.0
+S/B FRESH POND ROAD @ 60 ROAD,Queens,1.0
+HHP SB EXIT 11,Manhattan,1.0
+225 ST,Queens,1.0
+KANE STREET,Brooklyn,1.0
+FORBELL ST,Brooklyn,1.0
+VAN DUZER STREET,Staten Island,1.0
+S/B BROADWAY @ W 181 ST,Manhattan,1.0
+E/B CYPRESS AVE @ HIMROD ST,Queens,1.0
+E/B SENECA AVE @ HIMROD ST,Queens,1.0
+E/B 9 STREET BRIDGE @ SMITH ST - 2 AVE,Brooklyn,1.0
+S/B E 4 ST @ AVE V,Brooklyn,1.0
+BARLOW AVENUE,Staten Island,1.0
+BELMONT AVENUE,Brooklyn,1.0
+N/B ROCKAWAY BLVD @ 97 AVE,Queens,1.0
+HYATT ST,Staten Island,1.0
+FULTON AVENUE,Brooklyn,1.0
+91 AVENUE,Queens,1.0
+BAY PARKWAY NB APPROACH TO BATH AVE,Brooklyn,1.0
+69 LANE,Queens,1.0
+E 233RD ST BET LACONIA & ELY/STRANG AVES,Bronx,1.0
+EMPIRE BLVD @ NOSTRAND AVE,Brooklyn,1.0
+MARCUS GARVEY BOULEVARD,Brooklyn,1.0
+Northern Blvd WB Between,Queens,1.0
+KEW GDNS RD,Queens,1.0
+LEFFERTS BOULEVARD,Queens,1.0
+LENOX AVE NB APPROACH TO E 125TH ST,Manhattan,1.0
+South Conduit Ave EB Between,Queens,1.0
+BROADWAY BET LORIMER & WALTON STS,Brooklyn,1.0
+W/B BATTERY PLACE @ WASHINGTON ST,Manhattan,1.0
+S/B 5TH AVE @ E 23RD ST,Manhattan,1.0
+Richmond Ter,Staten Island,1.0
+W/B W GUNHILL RD(W LEG)@JEROME AV,Bronx,1.0
+W/B FARRAGUT RD @ E 38 ST,Brooklyn,1.0
+N/B FRESH POND ROAD @ 60 ROAD,Queens,1.0
+CASTLETON AVE BET JEWETT AVE & RECTOR ST,Staten Island,1.0
+S/B WHITE PLAINS RD @ BRONX PARK E,Bronx,1.0
+GREENPOINT AVE BET KINGSLAND & REVIEW AVES,Brooklyn,1.0
+RIVERSIDE DR SR APPROACH TO W 95TH ST,Manhattan,1.0
+RIVERSIDE DR MAIN RD APPROACH TO W 95TH ST,Manhattan,1.0
+AV R,Brooklyn,1.0
+JEWETT AVE BET CASTLETON AVE & BENNETT ST,Staten Island,1.0
+BLAKE AVENUE,Brooklyn,1.0
+E/B 35 AVE @ 65 ST,Queens,1.0
+E/B 97 AVE @ ROCKAWAY BLVD,Queens,1.0
+E/B EAST GUN  HILL RD @ DEKALB AVE,Bronx,1.0
+E/B EAST GUN HILL RD @ BAINBRIDGE AVE,Bronx,1.0
+Ave H,Brooklyn,1.0
+Ocean Ave NB Between,Brooklyn,1.0
+Ocean Ave SB Between,Brooklyn,1.0
+OCEAN AV,Brooklyn,1.0
+E 233RD ST BET PETERS PL & WEBSTER AVE,Bronx,1.0
+EAST 236 STREET,Bronx,1.0
+LAFAYETTE AVE @ WAVERLY AVE,Brooklyn,1.0
+FLUSHING AVE @ HALL ST,Brooklyn,1.0
+FT HAMILTON PARKWAY,Brooklyn,1.0
+STAFF ST,Manhattan,1.0
+DECATUR ST,Brooklyn,1.0
+COOPER ST,Brooklyn,1.0
+N/B E 3 ST @ AVE V,Brooklyn,1.0
+N/B WAYNE AVE @ E GUN HILL RD,Bronx,1.0
+S/B 7 AVENUE @ POLY PLACE,Brooklyn,1.0
+FREEMAN ST BET VYSE AND BRYANT AVE,Bronx,1.0
+E 172ND ST BET VYSE & BRYANT AVES,Bronx,1.0
+E173RD ST&BRYANT AVE EB AP BT VYSE & BRYANT AVES,Bronx,1.0
+HOME ST BET VYSE & BRYANT AVES,Bronx,1.0
+JENNING ST BET VYSE & BRYANT AVES,Bronx,1.0
+EAST 94 STREET,Brooklyn,1.0
+155 STREET,Queens,1.0
+BEACH AVENUE,Staten Island,1.0
+E/B 62 DR @ 97 ST,Queens,1.0
+62nd DR EB APPR TO 97th ST,Queens,1.0
+GREENWICH ST,Manhattan,1.0
+W/B GANSEVOORT ST @ WASHINGTON ST,Manhattan,1.0
+HUDSON ST,Manhattan,1.0
+WBB W/B NORTH OUTER ROADWAY,Manhattan,1.0
+S/B 108 ST @ 62 DR,Queens,1.0
+PELHAM BR,Bronx,1.0
+8 AVENUE,Manhattan,1.0
+JAY STREET,Brooklyn,1.0
+WEST 42 STREET,Manhattan,1.0
+E/B 35 AVE @ 30 ST,Queens,1.0
+W/B 35 AVE @ 30 ST,Queens,1.0
+34 AVENUE,Queens,1.0
+Forest Ave,Staten Island,1.0
+N/B YELLOWSTONE BLVD @ 67 DR,Queens,1.0
+S/B NOSTRAND AVE @ VERNON AVE,Brooklyn,1.0
+ROCKAWAY BLVD SB APPROACH TO INWOOD STREET,Queens,1.0
+WEST 37 STREET,Manhattan,1.0
+E/B NASSAU AVE @ LEONARD ST,Brooklyn,1.0
+W/B NASSAU AVE @ MANHATTAN AVE,Brooklyn,1.0
+39 STREET,Brooklyn,1.0
+TRANTOR PLACE,Staten Island,1.0
+W/B 69 RD @ GRAND CENTRAL PKWY,Queens,1.0
+ROCKAWAY BLVD NB APPROACH TO INWOOD STREET,Queens,1.0
+ROMBOUTS AVENUE,Bronx,1.0
+N/B DECKER AVE @ PLAMER AVE,Staten Island,1.0
+S/B DECKER AVE @ CATHERINE ST,Staten Island,1.0
+39TH ST APPROACHING 4TH AVE,Brooklyn,1.0
+E/B E 14 ST @ 2ND AVE,Manhattan,1.0
+W/B EAST 14TH ST @ 3RD AVE,Manhattan,1.0
+E/B EAST 14TH ST @ 2ND AVE,Manhattan,1.0
+53RD ST APPROACH TO 3RD AVE,Manhattan,1.0
+54TH ST APPROACH TO 3RD AVE,Manhattan,1.0
+VAN WYCK EXPRESSWAY EXIT 11 SB,Queens,1.0
+ROCKAWAY BLVD EB APPROACH TO SUTPHIN BLVD,Queens,1.0
+E/B PALMER AVE @ DECKER AVE,Staten Island,1.0
+W/B UNION SQUARE E @ E 14 ST,Manhattan,1.0
+5TH AVE BET 22ND & 23RD STS,Manhattan,1.0
+N/B 188 ST @ PALO ALTO AVE,Queens,1.0
+HUTCH RIVER PKWY E,Bronx,1.0
+S/B DECKER AVE @ PLAMER AVE,Staten Island,1.0
+TARLTON STREET,Staten Island,1.0
+GUY R BREWER BOULEVARD,Queens,1.0
+E/B NASSAU AVE @ DIAMOND ST,Brooklyn,1.0
+GREENPOINT AVE BET MOULTRIE & HUMBOLDT STS,Brooklyn,1.0
+E 48 ST,Brooklyn,1.0
+W/B E 23 ST @ 2ND AVE,Manhattan,1.0
+W/B E 14 ST @ 2 AVE,Manhattan,1.0
+57TH ST APPROACH TO 3RD AVE,Manhattan,1.0
+W/B 61 ST @ 3 AVE,Brooklyn,1.0
+N/B 4TH AVE @ EAST 15TH ST,Manhattan,1.0
+W/B AVE V @ E 4 ST,Brooklyn,1.0
+S/B 2ND AVE (THROUGH) @ E 14 ST,Manhattan,1.0
+N/B IRVING PL @ EAST 15 TH ST,Manhattan,1.0
+S/B IRVING PL. @  EAST 14TH ST,Manhattan,1.0
+S/B 3RD AVE @ EAST 14TH ST,Manhattan,1.0
+SHEEPSHEAD BAY RD BET E 14 ST & E 15 ST,Brooklyn,1.0
+E/B AVE V @ E 4 ST,Brooklyn,1.0
+171 STREET,Queens,1.0
+HENRY HUDSON PARKWAY EXIT NB,Manhattan,1.0
+HHP NB EN W 79 ST EB,Manhattan,1.0
+E/B HARVEST AVE @ BEMENT AVE,Staten Island,1.0
+E/B CASTLETON AVE @ OAKLAND AVE,Staten Island,1.0
+S/B STEINWAY ST @ 30 AVE,Queens,1.0
+UNION HALL STREET,Queens,1.0
+Woodhaven Blvd SB,Queens,1.0
+PLEASANT AVENUE,Manhattan,1.0
+EAST 57 STREET,Manhattan,1.0
+ED KOCH QUEENSBORO BRIDGE APPR,Manhattan,1.0
+S/B 192 ST @ 47 AVE,Queens,1.0
+W/B 47 AVE @ 193 ST,Queens,1.0
+HOMELAWN ST APPROACHING 169TH ST,Queens,1.0
+GREELEY AVENUE,Staten Island,1.0
+ROOSEVELT AV BR,Queens,1.0
+51ST ST S/O 43RD AVE,Queens,1.0
+E/B OLMPIA BLVD @ MIDLAND AVE,Staten Island,1.0
+SKILLMAN AVE BET 51ST & 52ND STS,Queens,1.0
+W/B GCP MAIN RDWY @ CITY LINE,Queens,1.0
+HENRY HUDSON PKWY SB RAMP TO W 95TH ST,Manhattan,1.0
+HHP NB EN W 79 ST WB,Manhattan,1.0
+HHP SB EN W 79 ST,Manhattan,1.0
+S/B 2ND AVE (ONLY THROUGH LANE) @E 23 ST,Manhattan,1.0
+S/B 2ND AVE (THROUGH) @ E 23 ST,Manhattan,1.0
+EAST 116 STREET,Manhattan,1.0
+E/B MERRICK BLVD@244 ST-HOOK CREEK BLVD,Queens,1.0
+E/B MERRICK BLVD@HOOK CREEK BLVD(C LINE),Queens,1.0
+W/B MERRICK BLVD@HOOK CREEK BLVD-244 ST,Queens,1.0
+W/B 60 ST @ 7 AVE,Brooklyn,1.0
+9TH ST EB APPROACH TO 8TH AVE,Brooklyn,1.0
+E/B 60 ST @  8 AVE,Brooklyn,1.0
+BAY RIDGE PKWY EB APPR FT HAMILTON PKWY,Brooklyn,1.0
+EB BAY RIDGE PKWY APPROAC HING FT HAMILTON PKWY,Brooklyn,1.0
+WB BAY RIDGE PKWY APPROACHING 7TH AVE,Brooklyn,1.0
+BQE OFF RAMP APPROACH TO 78TH ST,Brooklyn,1.0
+CORPORAL KENNEDY ST,Queens,1.0
+W/B E 135 ST (MAIN RD) @ MADISON AVE,Manhattan,1.0
+S/B EASTCHESTER BRIDGE @ NOELL AVE -,Bronx,1.0
+S/B MIDLAND AVE OLMPIA BLVD,Staten Island,1.0
+N/B MIDLAND AV @ OLMPIA BLVD,Staten Island,1.0
+ROOSEVELT IS BRIDGE,Manhattan,1.0
+W/B RICHMOND RD @ MIDLAND AVE,Staten Island,1.0
+HYLAN BLVD SB BET BEDFORD AVE & MIDLAND AVE,Staten Island,1.0
+93 AVENUE,Queens,1.0
+AVE V-EB APPROACHING BEDFORD AVE,Brooklyn,1.0
+N/B MADISON AVE @ E 24TH ST,Manhattan,1.0
+ASTORIA BLVD S,Queens,1.0
+E/B JEFFERSON AVE @  N RAILROAD AVE,Staten Island,1.0
+W/B RICHMOND RD (W LEG) @ MIDLAND AVE,Staten Island,1.0
+Woodhull Avenue,Queens,1.0
+BEACH 105 STREET,Queens,1.0
+98 Street,Queens,1.0
+98 ST,Queens,1.0
+Washington Bridge,Manhattan,1.0
+VAN CORTLANDT AV E/W MOSHOLU PKWY S,Bronx,1.0
+Arthur Avenue,Bronx,1.0
+101 ST,Queens,1.0
+Stratford Road,Brooklyn,1.0
+70 AV,Queens,1.0
+W 252 ST,Bronx,1.0
+Pulaski Bridge,Queens,1.0
+Pelham Parkway Greenway,Bronx,1.0
+105 ST,Queens,1.0
+Buckingham Road,Brooklyn,1.0
+77 Road,Queens,1.0
+LINCOLN RD/E LAKE DR,Brooklyn,1.0
+Maple Street,Brooklyn,1.0
+Whipple Street,Brooklyn,1.0
+GRAND ST/METROPOLITAN AV,Brooklyn,1.0
+93 Avenue,Queens,1.0
+SHORE FRONT PKWY,Queens,1.0
+Brighton 7 Street,Brooklyn,1.0
+Caton Avenue,Brooklyn,1.0
+ST PAULS PL,Brooklyn,1.0
+OCEAN AV/S LAKE DR,Brooklyn,1.0
+Beach 90 Street,Queens,1.0
+LEIF ERICSON DR,Brooklyn,1.0
+60 RD,Queens,1.0
+CARYL AV,Bronx,1.0
+B 76 ST,Queens,1.0
+Beach 74 Street,Queens,1.0
+HUGHES AVE,Staten Island,1.0
+66 Road,Queens,1.0
+120 ST,Queens,1.0
+PILLING ST,Brooklyn,1.0
+Metro North Harlem Line,Bronx,1.0
+PARKSIDE CT,Brooklyn,1.0
+Winthrop Street,Brooklyn,1.0
+Ebony Street,Staten Island,1.0
+BEEKMAN PLACE,Brooklyn,1.0
+123 Street,Queens,1.0
+CHESTER CT,Brooklyn,1.0
+CORBIN PL,Brooklyn,1.0
+Ridge Boulevard,Brooklyn,1.0
+Grand Army Plaza,Manhattan,1.0
+Between Rogers and Nostrand Aves,Brooklyn,1.0
+Ft Greene Place,Brooklyn,1.0
+102 ST/FREEDOM DR,Queens,1.0
+135 ST,Queens,1.0
+Between Rogers and Nostrand Avea,Brooklyn,1.0
+Ed Koch Queensboro Bridge Exit,Manhattan,1.0
+31 Street,Queens,1.0
+Clifton Place,Brooklyn,1.0
+Desmond Court,Brooklyn,1.0
+Glenwood Road,Brooklyn,1.0
+New Lots Line,Brooklyn,1.0
+Walworth Street,Brooklyn,1.0
+Bay 41 Street,Brooklyn,1.0
+Foster Avenue,Brooklyn,1.0
+PEDESTRIAN OPAS,Queens,1.0
+EMMONS AV,Brooklyn,1.0
+St Peters Cemetery Boundary,Staten Island,1.0
+E 37 St,Brooklyn,1.0
+WINTHROP ST,Brooklyn,1.0
+Riverdale Avenue,Brooklyn,1.0
+Dumont Avenue,Brooklyn,1.0
+Graham Avenue,Staten Island,1.0
+Lisa Place,Staten Island,1.0
+LIE EB EN COLLEGE PT BLVD,Queens,1.0
+FOREST AV,Staten Island,1.0
+Forest Avenue,Staten Island,1.0
+Marine Terminal Road,Queens,1.0
+Ulmer Street,Queens,1.0
+PROSPECT PARK W/3 ST,Brooklyn,1.0
+MONTGOMERY PL,Brooklyn,1.0
+St. Marks Str and Prospect Pl,Brooklyn,1.0
+Bolton Avenue,Bronx,1.0
+CARLTON AV,Brooklyn,1.0
+EAST 15 STREET,Brooklyn,1.0
+Hinsdale Street,Brooklyn,1.0
+Java St and India St,Brooklyn,1.0
+Cozine Avenue,Brooklyn,1.0
+Cadman Plaza East,Brooklyn,1.0
+Nichols Court,Staten Island,1.0
+Marble Hill Avenue,Manhattan,1.0
+122 AV,Queens,1.0
+Quentin Road,Brooklyn,1.0
+63 RD,Queens,1.0
+TYRELLAN AV/VETERANS ROAD GREENWAY,Staten Island,1.0
+MC KENNA SQ/ST NICHOLAS AV,Manhattan,1.0
+Montgomery Street,Brooklyn,1.0
+Aurelia Court,Brooklyn,1.0
+East 181 Street,Bronx,1.0
+Surf Avenue,Staten Island,1.0
+GLEASON AV,Bronx,1.0
+17 ST,Brooklyn,1.0
+Crown Street,Brooklyn,1.0
+43 Avenue,Queens,1.0
+BRE WB EXIT 8 B,Bronx,1.0
+Fulton Street,Brooklyn,1.0
+FRANKLIN AV,Brooklyn,1.0
+West 64 Street,Manhattan,1.0
+CROTONA PARK N,Bronx,1.0
+69 Place,Queens,1.0
+E 174 ST/SHERIDAN EXWY,Bronx,1.0
+Billop Avenue,Staten Island,1.0
+MALLORY AV,Staten Island,1.0
+JRP EB EN VERMONT PL,Queens,1.0
+88 Street,Queens,1.0
+W 262 ST,Bronx,1.0
+Court Street,Brooklyn,1.0
+EXETER ST,Staten Island,1.0
+146 Street,Queens,1.0
+West 262 Street,Bronx,1.0
+Beach 38 Street,Queens,1.0
+55 Avenue,Queens,1.0
+Charlton Street,Manhattan,1.0
+JANE ST,Manhattan,1.0
+Cropsey Avenue,Brooklyn,1.0
+BILLINGS STREET,Queens,1.0
+62 DRIVE,Queens,1.0
+Horatio Street,Manhattan,1.0
+SHORE RD,Bronx,1.0
+CORTLANDT AL,Manhattan,1.0
+W 8 ST/GREENWICH AV,Manhattan,1.0
+Grand Central Pkwy Wb En 94 St,Queens,1.0
+Guernsey Street,Brooklyn,1.0
+29 ST,Queens,1.0
+24 Street,Queens,1.0
+Nadine Street,Staten Island,1.0
+Waldron Street,Queens,1.0
+67 RD,Queens,1.0
+145 DR,Brooklyn,1.0
+145 ST,Queens,1.0
+Lincoln Tunnel Approach,Manhattan,1.0
+Hooker Place,Staten Island,1.0
+28 Street,Queens,1.0
+WANAMAKER PL/E 9 ST,Manhattan,1.0
+5 AV/W 15 ST,Manhattan,1.0
+GRAND CENTRAL PKWY,Queens,1.0
+INWOOD ST,Queens,1.0
+Tillary Street,Brooklyn,1.0
+N GANNON AV,Staten Island,1.0
+PURDY AV,Staten Island,1.0
+Sheraden Avenue,Staten Island,1.0
+Reeds Mill Lane,Bronx,1.0
+De Lavall Avenue,Bronx,1.0
+Conner Street,Bronx,1.0
+Hollers Avenue,Bronx,1.0
+Newel Street,Brooklyn,1.0
+Van Wyck Ep Sb En Meadow Lk Rd,Queens,1.0
+Dutch Kills Shoreline,Queens,1.0
+150 ST/SUTPHIN BLVD,Queens,1.0
+30 DR,Queens,1.0
+HEBERTON AV,Staten Island,1.0
+135 Avenue,Queens,1.0
+E 14 ST/BROADWAY,Manhattan,1.0
+FDR DR NB EXIT 12/E 60 STREET PEDESTRIAN OPAS,Manhattan,1.0
+E 22 ST/W 22 ST,Manhattan,1.0
+183 Street,Queens,1.0
+185 ST,Queens,1.0
+185 Street,Queens,1.0
+194 Street,Queens,1.0
+87 RD/PALO ALTO AV,Queens,1.0
+30 RD,Queens,1.0
+Rio Drive,Queens,1.0
+Richmond Terrace,Staten Island,1.0
+Cedar Grove Avenue,Staten Island,1.0
+Foch Boulevard,Queens,1.0
+Albany Avenue,Brooklyn,1.0
+Stanton Street,Manhattan,1.0
+NEWEL ST,Brooklyn,1.0
+MOULTRIE ST,Brooklyn,1.0
+Gladwin Avenue,Queens,1.0
+Grand Concourse,Bronx,1.0
+120 Avenue,Queens,1.0
+2 Street,Staten Island,1.0
+Bqe Wb En Mc Guinness Blvd S,Brooklyn,1.0
+Peck Avenue,Queens,1.0
+190 Street,Queens,1.0
+Cbe Nb Exit 1 A Upperdeck,Manhattan,1.0
+W 79 ST/HHP NB EXIT 10 W,Manhattan,1.0
+East 11 Street,Manhattan,1.0
+Jamaica Avenue,Queens,1.0
+193 ST,Queens,1.0
+JORDAN ST/FRANCIS LEWIS BLVD,Queens,1.0
+202 ST,Queens,1.0
+194 ST,Queens,1.0
+198 ST,Queens,1.0
+ROPES AV,Bronx,1.0
+Bryant Avenue,Bronx,1.0
+Milburn Street,Staten Island,1.0
+169 ST/HOMELAWN ST,Queens,1.0
+Dorothea Place,Staten Island,1.0
+Olympia Boulevard,Staten Island,1.0
+209 ST,Queens,1.0
+BEP WB EN CONEY ISL AV,Brooklyn,1.0
+MCGUINNESS BLVD SB APPR BET KENT & GREENPOINT,Brooklyn,1.0
+MCGUINNESS BLVD NB APPR BET CALYER AND GREENPOINT,Brooklyn,1.0
+BOWNE STREET,Queens,1.0
+EXT,Staten Island,1.0
+EAST 93 STREET,Brooklyn,1.0
+N/B PARK AVE SOUTH @ E 19 ST,Manhattan,1.0
+W/B 62 DR @ 108 ST,Queens,1.0
+62nd DR APPROACH TO 108th ST.,Queens,1.0
+E/B 62 DR @ 110 ST,Queens,1.0
+72 AV,Queens,1.0
+63rd RD APPROACH TO 110th ST,Queens,1.0
+N/B SHORE RD @ RIDGE BLVD,Brooklyn,1.0
+N/B SHARROTTS RD @ ARTHUR KILL RD,Staten Island,1.0
+SHORE PKWY (BELT PKWY),Brooklyn,1.0
+ROCKAWAY BLVD EB APPROACH TO LINDEN BLVD,Queens,1.0
+E/B JAMAICA AVE @ 202 ST,Queens,1.0
+E/B LIE SERVICE ROAD @ CITY LINE,Queens,1.0
+W/B 109 AVE @ SPRINGFIELD BLVD,Queens,1.0
+E/B FARRAGUT RD @ EAST 79 ST,Brooklyn,1.0
+W/B FARRAGUT RD @ EAST 79 ST,Brooklyn,1.0
+RALPH AVE N/O CLARENDON RD,Brooklyn,1.0
+BEECH AV,Queens,1.0
+W/B LIE SERVICE ROAD @ CITY LINE,Queens,1.0
+E 233RD ST BET DE REIMER & BAYCHESTER AVES,Bronx,1.0
+W/B AVE W @ WEST 6 ST,Brooklyn,1.0
+REVIEW AVENUE,Queens,1.0
+FRANKLIN STREET,Brooklyn,1.0
+E/B 63 RD @ 112 ST,Queens,1.0
+63rd RD APPROACH TO GRAND CENTRAL PKWY SER RD WEST,Queens,1.0
+MAURICE AV,Queens,1.0
+7TH AVE APPROACHING 11TH ST,Brooklyn,1.0
+7TH AVE NB APPROACH TO 9TH ST,Brooklyn,1.0
+8TH AVE APPROACH TO 9TH ST,Brooklyn,1.0
+MULBERRY ST,Manhattan,1.0
+BOWERY,Manhattan,1.0
+221 STREET,Queens,1.0
+E 83RD ST APPROACH TO CANARSIE LN,Brooklyn,1.0
+FLATBUSH AVE APPROACH TO LINCOLN RD,Brooklyn,1.0
+BAYSIDE AVENUE,Queens,1.0
+E TREMONT AVE APPROACH TO WATERBURY AVE,Bronx,1.0
+COLONIAL AVE APPROACHING PELHAM PKWY SO,Bronx,1.0
+BURR AVE BET PELHAM PKWY S & 196TH ST,Bronx,1.0
+ST PAULS AVE APPROACHING PELHAM PKWY SO,Bronx,1.0
+W/B 18 AVE @ BELL BLVD,Queens,1.0
+ROCKAWAY BLVD SB APPROACH TO 110TH STREET,Queens,1.0
+AMTRAK RAILROAD,Queens,1.0
+N/B CORTELYOU AVE @ ARTHUR KILL RD,Staten Island,1.0
+W/B ARTHUR KILL RD @ CORTELYOU AVE,Staten Island,1.0
+9TH ST WB APPROACH TO 8TH AVE,Brooklyn,1.0
+3RD ST APPROACH TO PROSPECT PARK WEST,Brooklyn,1.0
+W 45 ST,Manhattan,1.0
+23RD ST W/O 7TH AVE,Manhattan,1.0
+RIVERSIDE DR MAIN RD APPROACH TO W 97TH ST,Manhattan,1.0
+E 51 ST,Brooklyn,1.0
+E/B AMBOY RD @ AINSWORTH AVE,Staten Island,1.0
+N/B AINSWORTH AVE @ AMBOY RD,Staten Island,1.0
+N/B ST. JAMES PLACE @ ST. JAMES ST,Manhattan,1.0
+WYCKOFF AVE BET MADISON & PALMETTO STS,Brooklyn,1.0
+N/B 146 ST @ 20 AVE,Queens,1.0
+FARMERS BLVRD BTWN TURIN DRIVE & DUNKIRK DRIVE,Queens,1.0
+E/B 109 AVE @  SPRINGFIELD BLVD,Queens,1.0
+E 233RD ST BET EDSON & BAYCHESTER AVES,Bronx,1.0
+E 233RD ST BET MURDOCK & HILL AVES,Bronx,1.0
+THOMSON ST BET 33TH DR & QUEENSBORO BRIDGE RAMP,Queens,1.0
+BROADWAY WB APPROACH TO 69TH ST,Queens,1.0
+S/B BRONXDALE AVE @ E TREMONT AVE,Bronx,1.0
+S/B ROSELLE ST @ SILVER ST,Bronx,1.0
+W/B E TREMONT AVE @ BRONXDALE AVE,Bronx,1.0
+RHINELANDER AVENUE,Bronx,1.0
+YORK AVE BET E 72ND ST & E 73RD ST,Manhattan,1.0
+E/B 75 AVE @ GCP SERVICE RD,Queens,1.0
+S/B GCP SERVICE RD @ 75 AVE,Queens,1.0
+EAST 156 STREET,Bronx,1.0
+BAY PKWY SB BET 86th AND BENSON AVE,Brooklyn,1.0
+BAY PARKWAY NB APPROACH TO 86TH ST,Brooklyn,1.0
+N/B 1ST AVE (3 LANES  W SIDE) @ E 61 ST,Manhattan,1.0
+E/B EAST 14TH ST @ 4TH AVE,Manhattan,1.0
+W/B EAST 14TH ST@ UNION SEQUARE EAST,Manhattan,1.0
+E/B BOOTH MEMORIAL AVE @ 141 ST,Queens,1.0
+W/B AVE W @ E 19 ST,Brooklyn,1.0
+EB BAY RIDGE PKWY APPROACHING 7TH AVE,Brooklyn,1.0
+BAY RIDGE PKWY WB APPROACHING 7TH AVE,Brooklyn,1.0
+BAY RIDGE PKWY EB APPROACHING 7TH AVE,Brooklyn,1.0
+SKILLMAN AVENUE,Queens,1.0
+SLOSSON AVE SB APPROACH TO TILLMAN ST,Staten Island,1.0
+E/B RICHMOND RD @ MIDLAND AVE,Staten Island,1.0
+BROADWAY EB APPROACH TO 59TH ST,Queens,1.0
+S/B ELLSWORTH AVE @  DRUMGOOLE RD W,Staten Island,1.0
+NEW LOTS AVENUE,Brooklyn,1.0
+TOMLINSON AVENUE,Bronx,1.0
+N/B MENAHAN ST @ ONDERDONK AVE,Queens,1.0
+LITTLE CLOVE RD BET GAYUGA & SENCECA AVE,Staten Island,1.0
+ROCKAWAY BLVD WB APPROACH ING 101ST ST,Queens,1.0
+E/B GATES AVE @ CLASSON AVE,Brooklyn,1.0
+E/B FULTON ST @ CLASSON AVE,Brooklyn,1.0
+W/B EAST 14TH ST @ IRVING PL.,Manhattan,1.0
+Ocean Pkwy SB Between,Brooklyn,1.0
+WAVE STREET,Staten Island,1.0
+HUGUENOT AVENUE,Staten Island,1.0
+GOETHALS ROAD NORTH,Staten Island,1.0
+GUYON AVENUE,Staten Island,1.0
+WEXFORD TERRACE,Queens,1.0
+DUNKIRK STREET,Queens,1.0
+WOOD STREET,Queens,1.0
+N/B CROSS BAY BLVD @ ALBERT RD (SLIP),Queens,1.0
+FORBELL STREET,Brooklyn,1.0
+S/B 33 ST @ 21 AVE,Queens,1.0
+STEINWAY STREET,Queens,1.0
+132 STREET,Queens,1.0
+ROCKAWAY BLVD WB APPROACH TO LEFFERTS BLVD,Queens,1.0
+BAY PARKWAY SB APPROACH TO BATH AVE,Brooklyn,1.0
+63rd RD APPROACH YELLOW STONE BLVD,Queens,1.0
+PECK AV,Queens,1.0
+E/B CHAMBERS ST @ W BROADWAY - CHURCH ST,Manhattan,1.0
+EMPIRE BLVD @ BEDFORD AVE,Brooklyn,1.0
+BARTLETT ST,Brooklyn,1.0
+131 STREET,Queens,1.0
+BEACH 9 STREET,Queens,1.0
+150 STREET,Queens,1.0
+N/B HIMROD ST @ SENECA AVE,Queens,1.0
+ROCKAWAY BLVD EB APPROACHING 101ST ST,Queens,1.0
+S/B UNION SQUARE WEST@ EAST 14TH ST,Manhattan,1.0
+S/B UNION SQUARE WEST @ E 14 ST,Manhattan,1.0
+ALBEE AVENUE,Staten Island,1.0
+RUTGERS ST,Manhattan,1.0
+CENTREVILLE ST,Queens,1.0
+MAJOR AVE BTWN DUER AVE & LILY POND AVE,Staten Island,1.0
+39 AVENUE,Queens,1.0
+STANLEY AVENUE,Brooklyn,1.0
+GEORGIA AVENUE,Brooklyn,1.0
+N/B YORK AVE @ E 61 ST,Manhattan,1.0
+STAGG ST,Brooklyn,1.0
+E/B W 178TH ST@ AMSTERDAM AVE & AUDUBON AVE,Manhattan,1.0
+W/B W 179TH ST @ AUDUBON AVE,Manhattan,1.0
+185TH ST BET AMSTERDAM & AUDUBON AVES,Manhattan,1.0
+VYSE AVE BET W FARMS RD & HOME ST,Bronx,1.0
+LUKE PL,Queens,1.0
+W/B SENECA AVE @ HIMROD ST,Queens,1.0
+SCHROEDERS AVENUE,Brooklyn,1.0
+S/B AMSTERDAM AVE @ W 125 ST,Manhattan,1.0
+FR. DOUGLASS BLVD NB APPROACH TO W 135TH ST,Manhattan,1.0
+LEFFERTS BLVD SB APPROACH TO ROCKAWAY BLVD,Queens,1.0
+CONDUIT AVE EB APPROACH TO ROCKAWAY BLVD,Queens,1.0
+OAK AVENUE,Queens,1.0
+ARCHER AVENUE,Queens,1.0
+WEST 143 STREET,Manhattan,1.0
+235 ST,Queens,1.0
+S/B AMSTERDAM AVE @ W 162 ST,Manhattan,1.0
+PECK SLIP,Manhattan,1.0
+MOUNT EDEN PKWY,Bronx,1.0
+HANNAH STREET,Staten Island,1.0
+WILSON AVENUE,Brooklyn,1.0
+Between 81st Rd and 82nd Ave,Queens,1.0
+Beach 31 Street,Queens,1.0
+115 Avenue,Queens,1.0
+East 10 Road,Queens,1.0
+GREENCROFT AV,Staten Island,1.0
+163 ST,Queens,1.0
+South Conduit Avenue,Brooklyn,1.0
+BATTERY PK,Manhattan,1.0
+64 Avenue Pedestrian Overpass,Queens,1.0
+Corona Avenue,Queens,1.0
+23 AV/DITMARS BLVD SQ,Queens,1.0
+East 139 Street,Bronx,1.0
+230 Street,Queens,1.0
+E 7 ST,Brooklyn,1.0
+231 Street,Queens,1.0
+South Gannon Avenue,Staten Island,1.0
+BROOKVILLE BLVD/LAURELTON PARKWAY GREENWAY,Queens,1.0
+Freedom Drive,Queens,1.0
+19 Street,Brooklyn,1.0
+143 Place,Queens,1.0
+LEONARD ST,Brooklyn,1.0
+West 153 Street,Manhattan,1.0
+Mc Intosh Street,Queens,1.0
+BARCLAY CIR,Staten Island,1.0
+Sapphire Street,Brooklyn,1.0
+Sedgwick Avenue,Bronx,1.0
+Utica Avenue,Brooklyn,1.0
+Parkway Court,Brooklyn,1.0
+Melrose Houses Pedestrian Path,Bronx,1.0
+97 AVENUE,Queens,1.0
+MIDDLETON ST,Brooklyn,1.0
+E FORDHAM RD,Bronx,1.0
+Gowanus Expwy Wb En Hamilton Ave,Brooklyn,1.0
+BEACH 94 ST,Queens,1.0
+JACKSON AV/11 ST,Queens,1.0
+West 218 Street,Manhattan,1.0
+81 AV,Queens,1.0
+BAY PLZ DRIVEWAY,Bronx,1.0
+Koch Br Pedestrian And Bike Path,Manhattan,1.0
+SCHENCK AVENUE,Brooklyn,1.0
+Hamilton Avenue,Brooklyn,1.0
+Ocean Parkway,Brooklyn,1.0
+205 ST,Queens,1.0
+OREGON RD,Staten Island,1.0
+Old Fulton Street,Brooklyn,1.0
+Prospect Expressway,Brooklyn,1.0
+Boston Road,Bronx,1.0
+Mott Avenue,Queens,1.0
+Phelan Place,Bronx,1.0
+EMPIRE AV/BALSAM CT,Queens,1.0
+Houston/essex Street Line,Manhattan,1.0
+E TREMONT AV/ROBERTS AV,Bronx,1.0
+JEROME RD,Staten Island,1.0
+Mde Sb Entrance Grand Cncrse,Bronx,1.0
+Snediker Avenue,Brooklyn,1.0
+Caton Ave and Albemarle Ave,Brooklyn,1.0
+LOGAN ST,Brooklyn,1.0
+Bay 38 Street,Brooklyn,1.0
+ST JOHNS AV,Staten Island,1.0
+35 AVENUE,Queens,1.0
+Joralemon Street,Brooklyn,1.0
+BUTTERNUT ST,Bronx,1.0
+Crotona Parkway,Bronx,1.0
+144 Place,Queens,1.0
+West Mosholu Parkway South,Bronx,1.0
+Ericsson Street,Queens,1.0
+Henry Hudson Py Nb En W 96 St,Manhattan,1.0
+EMERALD ST,Brooklyn,1.0
+LOUISIANA AV,Brooklyn,1.0
+East 174 Street,Bronx,1.0
+East River Shoreline West,Manhattan,1.0
+HUNTS PT AV,Bronx,1.0
+Hugh L Carey Tunnel Approach,Brooklyn,1.0
+ECKFORD ST,Brooklyn,1.0
+256 Street,Queens,1.0
+HEGEMAN AV,Brooklyn,1.0
+109 Street,Queens,1.0
+East 96 Street,Brooklyn,1.0
+Haring Street,Brooklyn,1.0
+50 Avenue,Queens,1.0
+RFK BRIDGE MANHATTAN ENTRANCE RP/RFK BRIDGE EXIT *,Manhattan,1.0
+195 Street,Queens,1.0
+FRESH KILLS BRG,Staten Island,1.0
+N/B YELLOWSTONE BLVD @ GROTON ST,Queens,1.0
+N/B AMSTERDAM AVE @ W 177TH & W 178TH STS,Manhattan,1.0
+RUSSELL STREET,Brooklyn,1.0
+NEWEL STREET,Brooklyn,1.0
+LORIMER STREET,Brooklyn,1.0
+NORTH 8 STREET,Brooklyn,1.0
+BROADWAY N/O W 71ST ST,Manhattan,1.0
+W 157 ST,Manhattan,1.0
+WEST 135TH ST EB APPROACH TO AMSTERDAM,Manhattan,1.0
+S/B 12 AVE @ 70 ST,Brooklyn,1.0
+E/B 73 ST @ 14 AVE,Brooklyn,1.0
+W/B FOSTER AVE @ E 43 ST,Brooklyn,1.0
+E/B 63 RD @ 108 ST,Queens,1.0
+WHITE PLAINS RD@E 243 ST (CITY LINE),Bronx,1.0
+W/B AVE T @ PEARSON ST,Brooklyn,1.0
+62nd DR WB APPROACH TO JUNCTION BLVD,Queens,1.0
+SB MCGUINNESS BLVD BET BAYARD & MEEKER,Brooklyn,1.0
+MONITOR STREET,Brooklyn,1.0
+188th ST FR 89th AVE TO HILLSIDE AVE,Queens,1.0
+S/B 188 ST @ HILLSIDE AVE,Queens,1.0
+Crossbay NB Between 11th and 13th Rds,Queens,1.0
+E/B CENTRAL AVE @ 71 ST,Queens,1.0
+W/B CENTRAL AVE @ 71 ST,Queens,1.0
+N/B 12 AVE @ 70 ST,Brooklyn,1.0
+E/B FOSTER AVE @ E 43 ST,Brooklyn,1.0
+CROSS BRONX EP SB EN JEROME AV,Bronx,1.0
+DEPOT PLACE,Bronx,1.0
+E 165TH ST APPROACH TO GRAND CONCOURSE BLVD,Bronx,1.0
+LENOX RD BET E 51ST & UTICA AVE,Brooklyn,1.0
+KINGS HWY SR SB APPROACH TO UTICA AVE,Brooklyn,1.0
+KINGS HWY MAIN RD APPROACH TO UTICA AVE,Brooklyn,1.0
+S/B AMSTERDAM AVE @ W 181ST ST & I-95 ON RAMP,Manhattan,1.0
+AVENUE K,Brooklyn,1.0
+EAST 50 STREET,Manhattan,1.0
+UTICA AVE BET CLARKSON AVE & LENOX RD,Brooklyn,1.0
+FRESH POND ROAD,Queens,1.0
+N/B 71 ST @ CENTRAL AVE,Queens,1.0
+S/B 69 DR @ COOPER AVE,Queens,1.0
+E/B COOPER AVE @ 79 PL,Queens,1.0
+75TH ST WB APPROACH TO BAY PARKWAY,Brooklyn,1.0
+W 6TH ST APPROACHING AVE P,Brooklyn,1.0
+COLONIAL RD,Brooklyn,1.0
+56 RD,Queens,1.0
+E 72ND ST BET PARK AVE & LEXINGTON AVE,Manhattan,1.0
+59TH ST APPROACH TO 3RD AVE,Manhattan,1.0
+S/B TROTTING CO LN PK LOT@METROPTN AVE,Queens,1.0
+S/B TROTTING CO LN@METROPOLITAN AVE,Queens,1.0
+S/B FRESH POND RD @ METROPOLITAN AVE,Queens,1.0
+15 AVENUE,Queens,1.0
+107 AVENUE,Queens,1.0
+E 165TH ST APPROACH TO WALTON AVE,Bronx,1.0
+E MT EDEN AVE APPROACH TO GRAND CONCOURSE,Bronx,1.0
+LENOX RD BET E 49TH ST & UTICA AVE,Brooklyn,1.0
+W/B LENOX RD @ E 49 ST,Brooklyn,1.0
+E/B 23 AVE @ 38 ST,Queens,1.0
+S/B PULASKI BRIDGE @ 49 AVE - EAGLE ST,Queens,1.0
+UTICA AVE NB APPROACH TO AVE N,Brooklyn,1.0
+W 6TH ST NB APPROACH TO 65TH ST,Brooklyn,1.0
+W/B ATLANTIC AVE @ SHEPHERD AVE (N LEG),Brooklyn,1.0
+WEST STREET,Manhattan,1.0
+HOYT AVENUE NORTH,Queens,1.0
+EAST 165 STREET,Bronx,1.0
+DYCKMAN STREET,Manhattan,1.0
+MACOMBS ROAD,Bronx,1.0
+Grand Concourse SB,Bronx,1.0
+E 233RD ST BET GEORGE PL &PRATT AVE,Bronx,1.0
+Grand Concourse NB,Bronx,1.0
+COLGATE AV,Queens,1.0
+E/B UNIPORT BRIDGE @ BRUSH AVE,Bronx,1.0
+UNION PORT BR,Bronx,1.0
+44TH DR BET THOMSON ST & JACKSON AVE,Queens,1.0
+BAY PARKWAY NB APPROACH TO 65TH ST,Brooklyn,1.0
+ST PAUL AVE BET 196TH ST & WESTCHESTER AVE,Bronx,1.0
+BURR AVE APPR WESTCHESTER AVE/BRUCKNER BLVD,Bronx,1.0
+WESTCHESTER AV BR,Bronx,1.0
+N/B EASTCHESTER BRIDGE @ NOELL AVE -,Bronx,1.0
+4TH AVE APPROACHING 65TH ST,Brooklyn,1.0
+BAY PKWY SB BET 63rd ST & 64th ST,Brooklyn,1.0
+THOMSON ST BET 44TH DR & COURT SQUARE,Queens,1.0
+QNSBO BR UP RY APPR,Queens,1.0
+VERNOB BLVD,Queens,1.0
+29 STREET,Queens,1.0
+CROSS BX SVC RD N,Bronx,1.0
+N/B 150 ST @ 75 AVE,Queens,1.0
+263 ST,Queens,1.0
+W/B E TREMONT AVE @ ST. RAYMOND AVE,Bronx,1.0
+MDE SB ENTRANCE GRAND CNCRSE,Bronx,1.0
+EAST 135 STREET,Bronx,1.0
+CASTLETON AVENUE,Staten Island,1.0
+BEACH 95 STREET,Queens,1.0
+MARCONI STREET,Bronx,1.0
+CROPSEY AV BR,Brooklyn,1.0
+48 AVENUE,Queens,1.0
+E/B QUEENSBORO BR SOUTH INNER RDWY,Manhattan,1.0
+NB BROADWAY APPR TO W 230 th ST,Bronx,1.0
+PULASKI BR,Brooklyn,1.0
+E/B SHORE PKWY(BELT PKWY) @ FOUNTAIN AVE,Brooklyn,1.0
+MADISON AV BR,Manhattan,1.0
+E/B MADISON AVE BR@MAJOR DEEGAN EXPWY,Manhattan,1.0
+3 AV BR,Manhattan,1.0
+WBB E/B SOUTH OUTER ROADWAY,Manhattan,1.0
+W/B WILLIAMSBURG BR NORTH OUTER RDWY,Manhattan,1.0
+WILLIAMSBURG BR,Manhattan,1.0
+RIVERSIDE DRIVE WEST,Manhattan,1.0
+MORNINGSIDE DRIVE,Manhattan,1.0
+MAJOR DEEGAN EXPWY ET 11 NB,Bronx,1.0
+VAN DAM STREET,Queens,1.0
+HUNTERS POINT BRIDGE,Queens,1.0
+GRAND CENTRAL PARKWAY ET 5 WB,Queens,1.0
+CROSS BRONX EXPWY NB ET 1 B,Manhattan,1.0
+KAPPOCK STREET,Bronx,1.0
+PARKER STREET,Bronx,1.0
+DAHILL ROAD,Brooklyn,1.0
+FR CAPODANNO BOULEVARD,Staten Island,1.0
+CROSS ISL PY NB EN NORTHERN BL,Queens,1.0
+PROSPECT EXPRESSWAY,Brooklyn,1.0
+PARK ROW,Manhattan,1.0
+LORRAINE STREET,Brooklyn,1.0
+EAST 9 STREET,Brooklyn,1.0
+BROOKLYN QUEENS EXPWY ET 41 WB,Queens,1.0
+CROSS BAY PARKWAY,Queens,1.0
+GRAND CENTRAL PARKWAY SR SOUTH,Queens,1.0
+BELT PARKWAY EB EN 4 AVE,Brooklyn,1.0
+4 AVENUE LINE,Brooklyn,1.0
+BROOKLYN BRIDGE EXIT RAMP,Brooklyn,1.0
+BELT PARKWAY EXIT 25 A NB,Queens,1.0
+LA GUARDIA ARPT ENTRANCE,Queens,1.0
+KOREAN WAR VETS PARKWAY,Staten Island,1.0
+WEST DRIVE,Brooklyn,1.0
+GOWANUS EP WB EN HUGH CAREY TNNL,Brooklyn,1.0
+MAJOR DEEGAN EXPRESSWAY,Bronx,1.0
+EXTERIOR STREET,Bronx,1.0
+BELT PARKWAY WB EN 4 AVE,Brooklyn,1.0
+WHITESTONE EXPRESSWAY,Queens,1.0
+CROSS BRONX EXPWY ET 2 A WB,Bronx,1.0
+BROOKLYN QUEENS EP ET 29 A EB,Brooklyn,1.0
+97 ST TRANSVERSE,Manhattan,1.0
+CODY AVENUE,Queens,1.0
+BELT PARKWAY EB EN RIDGE BLVD,Brooklyn,1.0
+NEW ENGLAND THRUWAY,Bronx,1.0
+GOWANUS EXPRESSWAY EXIT 19 WB,Brooklyn,1.0
+BELT PKWY WB EN FLATBUSH AVE NB,Brooklyn,1.0
+USS IOWA CIRCLE,Staten Island,1.0
+VAN CORTLANDT PARK EAST,Bronx,1.0
+GOWANUS EXPRESSWAY EXIT 16 EB,Brooklyn,1.0
+HENRY HUDSON PARKWAY,Bronx,1.0
+TODT HILL ROAD,Staten Island,1.0
+UNION PORT BRIDGE,Bronx,1.0
+BQE WB ENTRANCE COLUMBIA ST,Brooklyn,1.0
+EAST 102 STREET,Brooklyn,1.0
+CROSS BRONX EXPRESSWAY,Bronx,1.0
+MADISON STREET,Manhattan,1.0
+SOUNDVIEW AVENUE,Bronx,1.0
+BROOKLYN QUEENS EXPWY ET 27 WB,Brooklyn,1.0
+MANOR ROAD,Staten Island,1.0
+SHERIDAN EXPRESSWAY,Bronx,1.0
+BURKE AVENUE,Bronx,1.0
+MILL BASIN BRIDGE,Brooklyn,1.0
+FERRY TERMINAL DRIVE,Staten Island,1.0
+BQE WESTBOUND ENTRANCE SANDS ST,Brooklyn,1.0
+ALEXANDER HAMILTON BRIDGE,Manhattan,1.0
+145 STREET BRIDGE,Manhattan,1.0
+MANHATTAN COLLEGE PARKWAY,Bronx,1.0
+EAST 96 STREET,Manhattan,1.0
+BELT PKWY EB EN CROPSEY AVE SB,Brooklyn,1.0
+51 STREET,Queens,1.0
+RANDALL AVENUE,Bronx,1.0
+BRUCKNER EXPRESSWAY,Bronx,1.0
+EAST 224 STREET,Bronx,1.0
+GOWANUS EP WB EN FT HAMILTON PY,Brooklyn,1.0
+WOODSIDE AVENUE,Queens,1.0
+BOERUM STREET,Brooklyn,1.0
+BELT PARKWAY EXIT 14 EASTBOUND,Brooklyn,1.0
+WEST 230 STREET,Bronx,1.0
+HOLLAND TUNNEL,Manhattan,1.0
+ED KOCH QUEENSBORO BRIDGE EXIT,Manhattan,1.0
+HUTCHINSON RIVER PARKWAY BRIDGE,Bronx,1.0
+CAFFREY AVENUE,Queens,1.0
+WEST 125 STREET,Manhattan,1.0
+FARMERS BOULEVARD,Queens,1.0
+OCEAN TERRACE,Staten Island,1.0
+LONGWOOD AVENUE,Bronx,1.0
+De Sota Road,Queens,1.0
+Seward Avenue,Bronx,1.0
+W 45 ST/BROADWAY,Manhattan,1.0
+W 147 ST,Manhattan,1.0
+Aquatic Place,Queens,1.0
+SAGE ST,Queens,1.0
+VIRGINIA ST,Queens,1.0
+70 Street,Queens,1.0
+Newman Avenue,Bronx,1.0
+Bath Avenue,Brooklyn,1.0
+OAKLAND AV,Staten Island,1.0
+47 RD,Queens,1.0
+W 145 ST/LENOX AV/145 ST BRIDGE PED AND BIKE PATH,Manhattan,1.0
+White Plains Road,Bronx,1.0
+Belt Parkway Wb Bay Parkway En,Brooklyn,1.0
+BRONXDALE AV/WHITE PLAINS RD,Bronx,1.0
+AVE OF THE AMERICAS/AV OF THE AMERICAS,Manhattan,1.0
+E 74 ST,Manhattan,1.0
+Wallace Avenue,Bronx,1.0
+71 AV/108 ST,Queens,1.0
+E 41 ST,Manhattan,1.0
+W 42 ST/E 42 ST,Manhattan,1.0
+Guerlain Street,Bronx,1.0
+BEACH 6 ST,Queens,1.0
+Sobel Court,Staten Island,1.0
+Metcalfe Street,Staten Island,1.0
+80 RD,Queens,1.0
+Victor Street,Bronx,1.0
+78 ST,Queens,1.0
+West 58 Street,Manhattan,1.0
+W 139 ST/E 139 ST/HARLEM RIVER DRV NB EN E 139 ST*,Manhattan,1.0
+RFK BRIDGE MANHATTAN ENTRANCE RP,Manhattan,1.0
+170 Street,Queens,1.0
+Lafayette Street,Manhattan,1.0
+Eastchester Road,Bronx,1.0
+HRD NB EXIT 18,Manhattan,1.0
+Seagirt Avenue,Queens,1.0
+Narrows Avenue,Brooklyn,1.0
+GOE EB EXIT 16,Brooklyn,1.0
+Deerfield Road,Queens,1.0
+Hunt Avenue,Bronx,1.0
+CPW 72 APPR/W 72 ST,Manhattan,1.0
+E 148 ST,Bronx,1.0
+CENTRAL PARK W/W 72 ST,Manhattan,1.0
+POLY PL,Brooklyn,1.0
+260 ST,Queens,1.0
+260 Street,Queens,1.0
+Graham Street,Bronx,1.0
+BARNES AV,Bronx,1.0
+Newbold Avenue,Bronx,1.0
+ZEREGA AV,Bronx,1.0
+Harlem River Drive Exit 18 Nb,Manhattan,1.0
+Seagirt Boulevard,Queens,1.0
+83 ST,Brooklyn,1.0
+Center Drive,Manhattan,1.0
+Sackett Avenue,Bronx,1.0
+ASSER LEVY PL,Manhattan,1.0
+235 STREET,Queens,1.0
+ISERNIA AV,Staten Island,1.0
+Neill Avenue,Bronx,1.0
+Hook Creek Shoreline,Queens,1.0
+RHINELANDER AV,Bronx,1.0
+204 ST,Queens,1.0
+7 AV/FT HAMILTON PKWY,Brooklyn,1.0
+E TREMONT AV/BENSON ST,Bronx,1.0
+W 65 ST,Manhattan,1.0
+HHP NB EXIT 9,Manhattan,1.0
+TER DR/E 72 ST,Manhattan,1.0
+E 161 ST,Bronx,1.0
+N RAILROAD AV,Staten Island,1.0
+14 ST,Queens,1.0
+West 70 Street,Manhattan,1.0
+Morris Park Avenue,Bronx,1.0
+143 Road,Queens,1.0
+144 AV,Queens,1.0
+East 142 Street,Bronx,1.0
+Hook Creek Boulevard,Queens,1.0
+MULFORD AV,Bronx,1.0
+W 78 ST,Manhattan,1.0
+5 AV/79 ST TRANSVERSE,Manhattan,1.0
+Jackson Avenue,Bronx,1.0
+GOWANUS EXWY EN SB/3 AV,Brooklyn,1.0
+Prince St and Hudson Walk,Brooklyn,1.0
+W 95 ST/RIVERSIDE DR,Manhattan,1.0
+ALLEN CT,Staten Island,1.0
+Brenton Place,Staten Island,1.0
+RIVERSIDE DR/HHP NB EN W 79 ST WB/HHP NB EXIT 10 E,Manhattan,1.0
+ALLERTON AV/SOUTHERN BLVD/MOSHOLU PARKWAY GREENWAY,Bronx,1.0
+CAULDWELL AV,Bronx,1.0
+W 96 ST/97 ST TRANSVERSE,Manhattan,1.0
+Adam C Powell Boulevard,Manhattan,1.0
+68 Street,Queens,1.0
+Eagle Avenue,Bronx,1.0
+Dahill Road,Brooklyn,1.0
+NOSTRAND AVE @ EMPIRE BLVD,Brooklyn,1.0
+ARDEN AV,Staten Island,1.0
+BROADWAY SB APPROACH TO W 135TH ST,Manhattan,1.0
+E/B E 169 ST@ REV JAMES A POLITE AVE,Bronx,1.0
+E/B MEMPHIS AVE @ 243 ST,Queens,1.0
+W/B E 169 ST@ REV JAMES A POLITE AVE,Bronx,1.0
+N/B REV JAMES A POLITE AVE @ E 169 ST,Bronx,1.0
+S/B ARDEN AVE @ HAMPTON GREEN,Staten Island,1.0
+74 AV,Queens,1.0
+Richmond Terr SB Between,Staten Island,1.0
+Richmond Terr NB Between,Staten Island,1.0
+CO OP CITY BLVD APPROACH TO PEAR TREE AVE,Bronx,1.0
+S/B 223 ST @ 116 AVE,Queens,1.0
+E/B ALEXANDER HAMILTON BR S/S 2 LANES,Manhattan,1.0
+S/B MARSH AVE @ S. I. MALL DR,Staten Island,1.0
+S/B ROCKAWAY BLVD @ 97 AVE,Queens,1.0
+E/B FARRAGUT RD @ E 45 ST,Brooklyn,1.0
+W/B FARRAGUT RD @ E 45 ST,Brooklyn,1.0
+E 124TH ST BET 5TH AVE & MADISON AVE,Manhattan,1.0
+E 125TH ST WB APPROACH TO LENOX AVE,Manhattan,1.0
+N/B KELLY BLVD @ TRAVIS AVE,Staten Island,1.0
+KELLY BLVD,Staten Island,1.0
+BRUSH AVENUE,Bronx,1.0
+BARRETTO STREET,Bronx,1.0
+W/B N 8 ST @ WYTHE AVE,Brooklyn,1.0
+W/B S 6 ST @ WYTHE AVE,Brooklyn,1.0
+W/B S 4 ST @ WYTHE AVE,Brooklyn,1.0
+E167TH ST EB APPR BET W FARMS RD & BRYANT AVE,Bronx,1.0
+DOVER STREET/FRANKFORT ST,Manhattan,1.0
+E/B S. I. MALL DR @ MARSH AVE,Staten Island,1.0
+FOREST PARK DRIVE,Queens,1.0
+GRND CNTRL PKWY SR S,Queens,1.0
+E/B PARK LANE SOUTH @ 89 ST,Queens,1.0
+VAN WYCK EXPRESSWAY EXIT 9 NB,Queens,1.0
+W/B QUEENSBORO BR NORTH INNER RDWY,Manhattan,1.0
+N/B 104 ST @ PARK LANE SOUTH,Queens,1.0
+W/B DEWEY AVE @ GREAVES AVE,Staten Island,1.0
+CARROLL ST BRIDGE,Brooklyn,1.0
+E/B TRAVIS AVE @ KELLY BLVD,Staten Island,1.0
+WILLOWBROOK ROAD,Staten Island,1.0
+N/B FOREST HILL RD @ WALCOTT AVE,Staten Island,1.0
+EDISON AVENUE,Bronx,1.0
+AMSTERDAM AVE BET W 78TH & W 77TH STS,Manhattan,1.0
+COLUMBUS AVE BET W 78TH & W 77TH STS,Manhattan,1.0
+REVERE AVENUE,Bronx,1.0
+W/B ALEXANDER HAMILTON BR N/S 2 LANES,Manhattan,1.0
+W/B 145TH ST BR @ W 145 ST,Manhattan,1.0
+W/B NORTH 14TH ST @ FRANKLIN ST/KENT AVE,Brooklyn,1.0
+CONCORD ST,Brooklyn,1.0
+W/B  HYLAND BLVD  @ ALISON AVE,Staten Island,1.0
+W/B HYLAND BLVD@ BEACH AVE,Staten Island,1.0
+W/B HYLAND BLVD( W/LEG) @ BEACH AVE,Staten Island,1.0
+WHE NB EN 137 ST,Queens,1.0
+DYRE AVENUE,Bronx,1.0
+North Conduit Ave WB Between,Queens,1.0
+N/B 5 AVE (N LEG) @ W 141 ST,Manhattan,1.0
+S/B 5 AVE @ W 142 ST,Manhattan,1.0
+164 STREET,Queens,1.0
+MILL RD,Staten Island,1.0
+E/B WESTCHESTER AVE BRIDGE@WHITLOCK AVE-,Bronx,1.0
+E/B E 174 ST @ METCALF AVE,Bronx,1.0
+AVE Z BET E 13 ST & SHEEPSHEAD BAY RD,Brooklyn,1.0
+S/B  BROADWAY @ EAST 13TH ST,Manhattan,1.0
+N/B 1ST AVE (LEFT TURN BAY) @ E 14 ST,Manhattan,1.0
+N/B 1ST AVE (LEFT) @ E 14 ST,Manhattan,1.0
+N/B 3RD AVE @ EAST 14TH ST,Manhattan,1.0
+ROOSEVELT ISLAND BR,Queens,1.0
+S/B BROADWAY @ E 21 ST,Manhattan,1.0
+S/B CONEY ISLAND AV(S LEG)@CORTELYOU RD,Brooklyn,1.0
+68 ST,Brooklyn,1.0
+S/B BRUCKNER BLVD RAMP TO 3 AVE BRIDGE,Bronx,1.0
+ELDRIDGE ST,Manhattan,1.0
+ALLEN STREET,Manhattan,1.0
+NORFOLK ST,Manhattan,1.0
+LENOX AVE BET W 145TH & W 144TH STS,Manhattan,1.0
+E/B E 17 ST @ PARK AVE,Manhattan,1.0
+W/B E 17 ST @ BROADWAY,Manhattan,1.0
+MAJOR DEEGAN EXPWY ET 3 SB,Bronx,1.0
+EAST 58 STREET,Manhattan,1.0
+145 STREET BRIDGE APPROACH,Bronx,1.0
+7TH AVE SB APPROACH TO 9TH ST,Brooklyn,1.0
+CIP NB EN SOUTHERN STATE PKWY,Queens,1.0
+CROSS ISLAND PKWY ET 25 A SB,Queens,1.0
+WEST 156 STREET,Manhattan,1.0
+WEST 65 STREET,Manhattan,1.0
+BAINBRIDGE STREET,Brooklyn,1.0
+130 STREET,Queens,1.0
+EVERGREEN AVENUE,Brooklyn,1.0
+72 STREET,Brooklyn,1.0
+FOOD CENTER DRIVE,Bronx,1.0
+BQE WB ENTRANCE METROPOLITAN AVE,Brooklyn,1.0
+OLD TOWN ROAD,Staten Island,1.0
+HARMAN STREET,Brooklyn,1.0
+FLEET STREET,Queens,1.0
+79 ST TRANSVERSE,Manhattan,1.0
+GLENWOOD PLACE,Staten Island,1.0
+260 STREET,Queens,1.0
+69 AVENUE,Queens,1.0
+DUNKIRK ST BTWN LIBERTY AVE & ARCADE AVE,Queens,1.0
+CPW 72 APPROACH,Manhattan,1.0
+DR THEODORE KAZIMIROFF BLVD EB APPROACH TO BX E,Bronx,1.0
+BAISLEY BOULEVARD,Queens,1.0
+7TH AVE APPROACH TO W 23RD ST,Manhattan,1.0
+C P 7 AVENUE APPROACH,Manhattan,1.0
+CENTRAL PARK NORTH,Manhattan,1.0
+46 AVENUE,Queens,1.0
+VISTA AV,Staten Island,1.0
+WILSON STREET,Staten Island,1.0
+CENTRAL PARK N,Manhattan,1.0
+SEAGIRT AVENUE,Queens,1.0
+W/B JEFFERSON AVE @  N RAILROAD AVE,Staten Island,1.0
+SLOSSON AVE SB APPROACH TO WINDSOR RD,Staten Island,1.0
+SLOSSON AVE NB APPROACH TO WINDSOR RD,Staten Island,1.0
+69 ROAD,Queens,1.0
+S/B SLOSSON AVE @ RICE AVE,Staten Island,1.0
+CENTER DR,Manhattan,1.0
+59 AVENUE,Queens,1.0
+E/B DIX AVE @ BEACH CHANNEL DR,Queens,1.0
+N/B BEACH CHANNEL DRIVE @ HORTON AVE,Queens,1.0
+HARTLAND AVENUE,Queens,1.0
+W/B DIX AVE @ BEACH CHANNEL DR,Queens,1.0
+WEST 116 STREET,Manhattan,1.0
+N/B 1ST AVE (LEFT) @ E 34 ST,Manhattan,1.0
+N/B 1ST AVE (LEFT TURN BAY) @ E 34 ST,Manhattan,1.0
+E/B RICE AVE @ SLOSSON AVE,Staten Island,1.0
+LENOX AVE & W 125th ST,Manhattan,1.0
+W 135 ST @ LENOX AVE,Manhattan,1.0
+WEST 135TH ST WB APPROACH TO ADAM CLT POWELL BLVD,Manhattan,1.0
+WEST 135TH ST EB APPROACH TO LENOX AVE,Manhattan,1.0
+N/B SLOSSON AVE @ RICE AVE,Staten Island,1.0
+W 158 ST,Manhattan,1.0
+MACKENZIE STREET,Brooklyn,1.0
+W/B HARKNESS AVE (W LEG) @ KNAPP ST,Brooklyn,1.0
+PURCELL STREET,Staten Island,1.0
+W/B RICE AVE @ SLOSSON AVE,Staten Island,1.0
+126 STREET,Queens,1.0
+SUTTON PLACE,Manhattan,1.0
+BEACH CHANNEL DRIVE,Queens,1.0
+GOWANUS EXPRESSWAY EXIT 24 WB,Brooklyn,1.0
+MILFORD DRIVE,Staten Island,1.0
+TIOGA STREET,Staten Island,1.0
+E/B EYLANDT ST @ LUTEN AVE,Staten Island,1.0
+LUTEN AVE NB AT AMBOY RD,Staten Island,1.0
+BELT PKWY WB EN CROPSEY AVE SB,Brooklyn,1.0
+BELT PARKWAY WB EN ROCKAWAY PKWY,Brooklyn,1.0
+FINGERBOARD RD,Staten Island,1.0
+W/B PARK CIRCLE @ PROSPECT PARK SW,Brooklyn,1.0
+WOODSTOCK AV,Staten Island,1.0
+SEAGIRT BLVD,Queens,1.0
+VERMONT AV,Brooklyn,1.0
+47 ROAD,Queens,1.0
+W/B METROPOLITAN AVE@TROTTING COURSE LAN,Queens,1.0
+E/B METROPOLITAN AVE@TROTTING COURSE LAN,Queens,1.0
+MADISON AVE BET E 124TH ST & E 123RD ST,Manhattan,1.0
+BEACH 94 STREET,Queens,1.0
+BARD AVE BET CASTLETON AVE & ST AUSTINS PL,Staten Island,1.0
+N/B OAKLAND AVE @ CASTLETON AVE,Staten Island,1.0
+W 54 ST,Manhattan,1.0
+W 55 ST,Manhattan,1.0
+W/B CASTLETON AVE @ OAKLAND AVE,Staten Island,1.0
+E 86TH ST BET 1ST AVE & YORK AVE,Manhattan,1.0
+S/B VERNON BLVD @ 47 RD,Queens,1.0
+WEST 135TH ST WB APPROACH TO LENOX AVE,Manhattan,1.0
+W 135 ST @ 5 AVE,Manhattan,1.0
+LENOX AVE BET W 145TH & W 146TH STS,Manhattan,1.0
+N/B BROADWAY @ W 61 ST,Manhattan,1.0
+S/B BROADWAY @ W 60 ST,Manhattan,1.0
+CENTRAL PARK WEST @ W 61 ST,Manhattan,1.0
+STORY AVENUE,Bronx,1.0
+S/B BRONX PARK E @ WHITE PLAINS RD,Bronx,1.0
+W 39 ST,Manhattan,1.0
+23RD ST APPROACH TO 7TH AVE,Manhattan,1.0
+W 40 ST,Manhattan,1.0
+E/B AVE V @ E 3 ST,Brooklyn,1.0
+W/B AVE I @ E 2 ST,Brooklyn,1.0
+E/B AVE I @ E 2 ST,Brooklyn,1.0
+MAJOR AVENUE,Staten Island,1.0
+LILY POND AVE BTWN NARROWS RD S & MAJOR AVE,Staten Island,1.0
+LILY POND AVE BTWN MCCLEAN & MAJOR AVES,Staten Island,1.0
+QUEENS BLVD SERV RD BET. 71 AVE & 71 RD,Queens,1.0
+VANDERBILT AVENUE,Staten Island,1.0
+N/B 5 AVE @ E 139 ST,Manhattan,1.0
+N/B 1ST AVE TO WILLIS AVE BRIDGE,Manhattan,1.0
+WILLIS AV BR,Manhattan,1.0
+BEACH 29 STREET,Queens,1.0
+GERARD AVENUE,Bronx,1.0
+RIVER AVENUE,Bronx,1.0
+BEP EB EN 4 AV,Brooklyn,1.0
+BEACH 20 STREET,Queens,1.0
+E 68TH ST BET MADISON AVE & PARK AVE,Manhattan,1.0
+E/B 23RD ST @ MADISON AVE,Manhattan,1.0
+E/B E 23RD ST @ MADISON AVE,Manhattan,1.0
+WALTON AVENUE,Bronx,1.0
+OLMSTEAD AVENUE,Bronx,1.0
+N/B CASTLE HILL AVE @ E TREMONT AVE,Bronx,1.0
+WILLIS AVENUE BRIDGE,Manhattan,1.0
+N/B 11 AVE @ 81 ST,Brooklyn,1.0
+CENTRAL PK W DRIVE,Manhattan,1.0
+W/B E 25 ST @ ASSER LEVY PLACE,Manhattan,1.0
+HYLAN BLVD NB BET ZWICKY AVE & MIDLAND AVE,Staten Island,1.0
+BROOKVILLE BLVD,Queens,1.0
+HOOK CREEK BRIDGE,Queens,1.0
+78TH ST AT 7TH AVE,Brooklyn,1.0
+FT HAMILTON PKWY APPROACH TO 78TH ST,Brooklyn,1.0
+FT HAMILTON PKWY SB APPROACHING 78TH ST,Brooklyn,1.0
+7TH AVE DEPARTING 78TH ST,Brooklyn,1.0
+7TH AVE NB APPROACHING BAY RIDGE PKWY,Brooklyn,1.0
+SB FT HAMILTON PKWY APPRO ACHING BAY RIDGE PKWY,Brooklyn,1.0
+FT HAMILTON PKWY SB APPR BAY RIDGE PKWY,Brooklyn,1.0
+7th AVE APPROACH TO BAY RIDGE PKWY,Brooklyn,1.0
+BAY PARKWAY SB APPROACH TO 75TH ST,Brooklyn,1.0
+SB 7TH AVE APPROACHING BAY RIDGE PKWY,Brooklyn,1.0
+N/B WESTCHESTER AV(SLIP RD)@E TREMONT AV,Bronx,1.0
+Hunts Point Avenue,Bronx,1.0
+Memorial Drive,Queens,1.0
+Blondell Avenue,Bronx,1.0
+HERING AV,Bronx,1.0
+Lustre Street,Bronx,1.0
+Classon Avenue,Brooklyn,1.0
+President Street,Brooklyn,1.0
+E/O Cohancy St and W/O Aqueduct Rd,Queens,1.0
+Huntington Street,Brooklyn,1.0
+W 141 ST,Manhattan,1.0
+W 142 ST/HARLEM RIVER DR SR W,Manhattan,1.0
+Einstein Loop North,Bronx,1.0
+Metro North Hudson Line,Bronx,1.0
+Eastern Parkway,Brooklyn,1.0
+EVA AV / PENN AV,Staten Island,1.0
+WHITLOCK AV,Bronx,1.0
+STATEN ISL MALL ACCESS RD,Staten Island,1.0
+METCALF AV,Bronx,1.0
+Norway/Clove Rd and Parkinson Ave,Staten Island,1.0
+Guyon Avenue,Staten Island,1.0
+Madsen Avenue,Staten Island,1.0
+BAY CLIFF TER,Brooklyn,1.0
+NEW DOCK ST,Brooklyn,1.0
+BQE ENT,Brooklyn,1.0
+Beach 14 Street,Queens,1.0
+West 8 Street,Brooklyn,1.0
+Lorimer Street,Brooklyn,1.0
+Bronx River Parkway Exit 10 Sb,Bronx,1.0
+LINCOLN AV/3 AV BR,Bronx,1.0
+BROOME ST,Manhattan,1.0
+Delancey Street,Manhattan,1.0
+W 145 ST/ESPLANADE GDNS PLZ/145 ST BRIDGE PED AND*,Manhattan,1.0
+Barnwell Avenue,Queens,1.0
+163 Avenue,Queens,1.0
+AV S,Brooklyn,1.0
+GRAND CENTRAL PARKWAY EB ET 8,Queens,1.0
+Sayres Avenue,Queens,1.0
+Exterior Street,Bronx,1.0
+145 Street Bridge,Bronx,1.0
+East 25 Street Pedestrian Ovps,Manhattan,1.0
+CONEY ISLAND AV/BANNER AV/PEDESTRIAN OPAS,Brooklyn,1.0
+CROSS IS PKWY NB EN HEMPSTEAD WB,Queens,1.0
+ST. GEORGE TERMINAL,Staten Island,1.0
+Page Ave and Bedell Ave,Staten Island,1.0
+WILLIAMSBURG BR/ROEBLING ST,Brooklyn,1.0
+West 225 Street,Manhattan,1.0
+FOUNTAIN AV,Brooklyn,1.0
+Ryder Street,Brooklyn,1.0
+244 Street,Queens,1.0
+PARK CIR,Brooklyn,1.0
+CLARENDON RD/DITMAS AV,Brooklyn,1.0
+218 ST/LUKE PL,Queens,1.0
+35 Street,Queens,1.0
+Java Street,Brooklyn,1.0
+56 TERR,Queens,1.0
+55 DR,Queens,1.0
+Wilson Avenue,Brooklyn,1.0
+62 Street,Brooklyn,1.0
+21 Avenue,Brooklyn,1.0
+11 ST,Brooklyn,1.0
+40 Avenue,Queens,1.0
+CANARSIE LA,Brooklyn,1.0
+N 11 ST,Brooklyn,1.0
+NOBLE ST,Brooklyn,1.0
+MILTON ST,Brooklyn,1.0
+Ash Avenue,Queens,1.0
+LINCOLN RD,Brooklyn,1.0
+25 Drive,Queens,1.0
+152 Street,Queens,1.0
+LA SALLE AV,Bronx,1.0
+PURITAN AV/WHITTEMORE AV,Bronx,1.0
+Nassau Avenue,Brooklyn,1.0
+Diamond Street,Brooklyn,1.0
+BELL BLVD,Queens,1.0
+107 ST,Queens,1.0
+109 ST,Queens,1.0
+WEST END AV/CASS PL,Brooklyn,1.0
+Irving Street,Brooklyn,1.0
+HAMILTON AV BR,Brooklyn,1.0
+E BRANDIS AV,Staten Island,1.0
+W 96 ST/HHP NB EXIT 11/HHP NB EN W 96 ST,Manhattan,1.0
+OCEAN VIEW AV/HAMPTON AV,Brooklyn,1.0
+REMSEN AV,Brooklyn,1.0
+CRANFORD ST,Staten Island,1.0
+Cranford Street,Staten Island,1.0
+OGORMAN AV,Staten Island,1.0
+IRVING AV,Brooklyn,1.0
+DUNKIRK DR/116 RD,Queens,1.0
+200 ST,Queens,1.0
+MONTEREY ST,Queens,1.0
+UNNAMED ST/BATTERY PARK GREENWAY,Manhattan,1.0
+Doscher Street,Brooklyn,1.0
+EDSON AV,Bronx,1.0
+BAYCHESTER AV/GRENADA PL,Bronx,1.0
+BRONXDALE AV/CASTLE HILL AV,Bronx,1.0
+Haight Avenue,Bronx,1.0
+Williamsbridge Road,Bronx,1.0
+Depot Place,Bronx,1.0
+W RD,Queens,1.0
+RIVERSIDE DR/HUDSON RIVER GREENWAY,Manhattan,1.0
+GCP EB EN 72 RD,Queens,1.0
+Concourse Village West,Bronx,1.0
+COURT SQUARE,Queens,1.0
+Bushwick Place,Brooklyn,1.0
+Kimball Street,Brooklyn,1.0
+SPRING ST,Manhattan,1.0
+E 19 ST,Manhattan,1.0
+West 20 Street,Brooklyn,1.0
+46 Street,Queens,1.0
+44 Street,Queens,1.0
+EDENWALD AV/DIGNEY AV,Bronx,1.0
+TILLMAN ST,Staten Island,1.0
+COLFAX AV,Staten Island,1.0
+EXCHANGE AL,Manhattan,1.0
+SHEEPSHEAD BAY RD BET E 16TH ST & JEROME AVE,Brooklyn,1.0
+AVENUE P,Brooklyn,1.0
+N/B FORT WASHINGTON AVE @ W 178TH ST,Manhattan,1.0
+CROSS ISLAND PARKWAY SR NORTH,Queens,1.0
+N/B E 2 ST @ AVE I,Brooklyn,1.0
+73 PLACE,Queens,1.0
+73 PL,Queens,1.0
+S/B 76 ST @ MYRTLE AVE,Queens,1.0
+BEACH CHANNEL DR APPROACH TO 136TH ST,Queens,1.0
+W/B FOSTER AVE @ E 8 ST,Brooklyn,1.0
+E/B FOSTER AVE @ E 10 ST,Brooklyn,1.0
+CONEY ISL AVE &CHURCH AVE BET E8TH & CONEY ISL AVE,Brooklyn,1.0
+CONEY ISL AVE & CATON AVE BET E8TH & CONEY ISL AVE,Brooklyn,1.0
+EAST 32 STREET,Brooklyn,1.0
+N/B METCALF AVE @  E 174 ST,Bronx,1.0
+BRYANT AVE BET E 173RD & E 172ND STS,Bronx,1.0
+S/B 4 AVE @ 5 ST (S LEG),Brooklyn,1.0
+S/B 4 AVE @ 5 ST,Brooklyn,1.0
+E/B 47 RD @ VERNON BLVD,Queens,1.0
+EAST 52 STREET,Brooklyn,1.0
+S/B EAST 79 ST @ FARRAGUT RD,Brooklyn,1.0
+BEACH CHANNEL DR APPROACH TO 129TH ST,Queens,1.0
+161 AVENUE,Queens,1.0
+DORCHESTER ROAD,Brooklyn,1.0
+BX RIVER PKWY NB EXIT 6,Bronx,1.0
+BROADWAY S/O W 173rd ST,Manhattan,1.0
+E 22 ST,Manhattan,1.0
+S/B GRAND AVE @ MYRTLE AVE,Brooklyn,1.0
+N/B PROSPECT PK S/W(N LEG)@TERR./WIND.PL,Brooklyn,1.0
+ROCKAWAY BLVD BET 93RD ST & 94TH ST,Queens,1.0
+LIBERTY AVE APPROACH TO 94TH ST,Queens,1.0
+BROOKLYN AVE BTWN BERGEN ST & ST MARKS AVE,Brooklyn,1.0
+LORING AVENUE,Brooklyn,1.0
+W/B CORTELYOU RD @ STRATFORD RD,Brooklyn,1.0
+N/B 4 AVE @ 5 ST,Brooklyn,1.0
+HOLLIS AVENUE,Queens,1.0
+CROSS BRONX EXPRESSWAY SR NORTH,Bronx,1.0
+18 STREET,Brooklyn,1.0
+BRONX PARK SOUTH,Bronx,1.0
+EAST 179 STREET,Bronx,1.0
+N/B BX RIVER PWY EXT RAMP@ALLERTON AVE,Bronx,1.0
+COLUMBIA ST BET AMITY & CONGRESS STS,Brooklyn,1.0
+UNIVERSITY AVENUE,Bronx,1.0
+WASHINGTON BR EN CROSS BX EXPWY,Bronx,1.0
+SB BROADWAY APPR TO W 230 th ST,Bronx,1.0
+S/B GEORGE ST @ SENECA AVE,Queens,1.0
+N/B HUTCHINSON RIVER PKWY @ CITY LINE,Bronx,1.0
+S/B BROADWAY @ W 179 TH ST,Manhattan,1.0
+S/B SARATOGA AVE @ PARK PLACE,Brooklyn,1.0
+PIERREPONT STREET,Brooklyn,1.0
+PROSPECT PARK SW APPROACHING VANDERBILT ST,Brooklyn,1.0
+CATON AV,Brooklyn,1.0
+W/B PARK LANE SOUTH @ 89 ST,Queens,1.0
+N/B 79 PL @ COOPER AVE,Queens,1.0
+S/B 164 ST @ JEWEL AVE,Queens,1.0
+BELT PARKWAY SB ENTRANCE 181 ST,Queens,1.0
+E/B CORTELYOU RD @ STRATFORD RD,Brooklyn,1.0
+CONEY ISL AVE & CORTELYOU BET STRATFORD&CONEY ISL,Brooklyn,1.0
+W/B CORTELYOU RD(W LEG)@CONEY ISLAND AV,Brooklyn,1.0
+W/B CORTELYOU RD @ CONEY ISLAND AVE,Brooklyn,1.0
+CONEY ISL AVE &CHURCH AVE BET E10TH & CONEY ISL AVE,Brooklyn,1.0
+W/B PARK LANE SOUTH @ 105 ST (W LEG),Queens,1.0
+OLINVILLE AVENUE,Bronx,1.0
+N/B CONEY ISLAND AVE(N LEG)@CORTELYOU RD,Brooklyn,1.0
+KEW FOREST LANE,Queens,1.0
+94TH ST APPROACH TO ROCKAWAY BLVD,Queens,1.0
+PARKSIDE AVE DEPARTURE FROM OCEAN AVE,Brooklyn,1.0
+CONEY ISL AVE &CHURCH AVE BET TURNER PL &CHURCH AVE,Brooklyn,1.0
+N/B KNAPP ST @ HARKNESS AVE,Brooklyn,1.0
+E/B ROCKAWAY BEACH BLVD @ B 102 ST,Queens,1.0
+S/B GRAND CONCORS (S/R)@VAN CORTLANDT AV,Bronx,1.0
+68 STREET,Queens,1.0
+E/B MASPETH AVE @ KINGSLAND AVE,Brooklyn,1.0
+CORTELYOU ROAD,Brooklyn,1.0
+KESSEL ST,Queens,1.0
+E/B PARK LANE SOUTH @ 105 ST,Queens,1.0
+W/B PARK LANE SOUTH @ 104 ST,Queens,1.0
+BROADWAY BET W 252ND ST & LAKEVIEW PL,Bronx,1.0
+EMPIRE BOULEVARD,Brooklyn,1.0
+LINCOLN ROAD,Brooklyn,1.0
+PROSPECT PARK ENT FROM OCEAN AVE,Brooklyn,1.0
+METROPOLITAN AVENUE BRG,Brooklyn,1.0
+B 77 ST,Queens,1.0
+BUCKINGHAM ROAD,Brooklyn,1.0
+ROCKAWAY FRWY,Queens,1.0
+PARKSIDE AVE WB DEPARTURE FROM OCEAN AVE,Brooklyn,1.0
+E/B E 23 ST @ 2ND AVE,Manhattan,1.0
+26 AV,Brooklyn,1.0
+ROCKAWAY BLVD NB APPROACH TO 110TH STREET,Queens,1.0
+WASHINGTON AVE SB APPROACH TO EMPIRE BLVD,Brooklyn,1.0
+WASHINGTON AVE NB APPROACH TO EMPIRE BLVD,Brooklyn,1.0
+GLEN ST,Staten Island,1.0
+AVENUE I,Brooklyn,1.0
+ALDERTON STREET,Queens,1.0
+PARKSIDE AVE APPROACH TO FLATBUSH AVE,Brooklyn,1.0
+MORLEY AVENUE,Staten Island,1.0
+S/B FLATBUSH AVE (S LEG) @ RUTLAND RD,Brooklyn,1.0
+HIMROD STREET,Queens,1.0
+FAIRVIEW AVENUE,Queens,1.0
+7TH AVE APPROACHING 78TH ST,Brooklyn,1.0
+HAMPTON STREET,Queens,1.0
+BROOKLYN QUEENS EXPWY ET 33 EB,Brooklyn,1.0
+DIVISION AVENUE,Brooklyn,1.0
+ST JAMES PLACE,Manhattan,1.0
+WB BAY RIDGE PKWY APPROAC HING FT HAMILTON PKWY,Brooklyn,1.0
+BAY RIDGE PKWY WB APPR FT HAMILTON PKWY,Brooklyn,1.0
+WORTH STREET,Manhattan,1.0
+EAST BROADWAY,Manhattan,1.0
+BOWERY BET DIVISION & PELL STS,Manhattan,1.0
+S/B MOTHER GASTON BLVD @ BERGEN ST,Brooklyn,1.0
+COURT ST APPROACH TO BERGEN ST,Brooklyn,1.0
+S/B E 7 ST @ AVE C,Brooklyn,1.0
+NEW YORK AVE @ EMPIRE BLVD,Brooklyn,1.0
+RIKERS ISLAND BRIDGE,Queens,1.0
+WEST 17 STREET,Manhattan,1.0
+WEST 34 STREET,Manhattan,1.0
+52 ST,Brooklyn,1.0
+AVE V-EB APPROACHING BATCHELDER ST,Brooklyn,1.0
+W/B HYLAN BLVD (W/LEG) @ GUYON AVE,Staten Island,1.0
+E/B  HYLAND BLVD @ ALISON AVE,Staten Island,1.0
+E/B  HYLAND BLVD ( E/LEG)  @ ALISON AVE,Staten Island,1.0
+PIKE STREET,Manhattan,1.0
+E/B ONDERDONK AVE @ MENAHAN ST,Queens,1.0
+ED KOCH QUEENSBORO BRIDGE,Manhattan,1.0
+N/B 193 ST @ 47 AVE,Queens,1.0
+WESTCHESTER AVENUE BRIDGE,Bronx,1.0
+EAST 140 STREET,Bronx,1.0
+EAST 141 STREET,Bronx,1.0
+W/B LIBERTY AVE @ POWELL ST,Brooklyn,1.0
+BQE WB ENTRANCE OLD FULTON ST,Brooklyn,1.0
+EDGEWATER ROAD,Bronx,1.0
+N/B E 43 ST @ FOSTER AVE,Brooklyn,1.0
+76 AV,Queens,1.0
+189 STREET,Queens,1.0
+W/B JAMAICA AVE @ 202 ST,Queens,1.0
+BQE EB EXIT 29 A,Brooklyn,1.0
+E 17 ST BET AVE Z & JEROME AVE,Brooklyn,1.0
+S/B 90 ST @ 56 AVE,Queens,1.0
+BQE EASTBOUND ENTRANCE SANDS ST,Brooklyn,1.0
+HOLLIS COURT BOULEVARD,Queens,1.0
+E/B LIBERTY AVE @ POWELL ST,Brooklyn,1.0
+W/B AVE V @ E 3 ST,Brooklyn,1.0
+W/B GARNET ST @ HAMILTON AVE,Brooklyn,1.0
+COURT ST APPROACH TO HAMILTON AVE,Brooklyn,1.0
+W/B NELSON ST @ HAMILTON AVE,Brooklyn,1.0
+N/B 16 ST SLP RD@PROSPECT PK S/W(E LEG),Brooklyn,1.0
+HUNTS PT AVE APPROACH TO BRUCKNER BLVD SB,Bronx,1.0
+WEST 6th ST N.OF AVE U,Brooklyn,1.0
+N/B PEARSON ST @ AVE T,Brooklyn,1.0
+SPOFFORD AVENUE,Bronx,1.0
+BUSHWICK AV,Brooklyn,1.0
+South Conduit Ave EB Between Ramp from,Queens,1.0
+W 6TH ST NB APPROACH TO KINGS HWY,Brooklyn,1.0
+WEST 6th ST S.OF KINGS HIGHWAY,Brooklyn,1.0
+WEST 6th ST N. OF KINGS HIGHWAY.,Brooklyn,1.0
+HORACE HARDING EXPRESSWAY SR N,Queens,1.0
+S/B 203 ST @ 32 AVE,Queens,1.0
+W/B 32 AVE @ 203 ST,Queens,1.0
+E 172ND ST BET LONGFELLOW & BRYANT AVES,Bronx,1.0
+E173RD ST&BRYANT AVE WB AP BT LONGFELLOW & BRYANT,Bronx,1.0
+WEST ST,Brooklyn,1.0
+HOE AVE BET E 172nd ST & JENNINGS STs,Bronx,1.0
+BRYANT AVE&JENNINGS ST SB AP BT E172ND ST&JENNINGS,Bronx,1.0
+LONGFELLOW AVE&JENNINGS S NB AP BT FREEMAN&JENNINGS,Bronx,1.0
+WEST 1 STREET,Brooklyn,1.0
+CITY ISLAND AVENUE,Bronx,1.0
+EAST 180 STREET,Bronx,1.0
+E 170 ST,Bronx,1.0
+WHITESTONE EXWY NB EXIT 14,Queens,1.0
+E/B LIBERTY AVE @ 94 ST,Queens,1.0
+TRINITY AVE APPROACHING WESTCHESTER AVE,Bronx,1.0
+W/B 9 STREET BRIDGE @ SMITH ST - 2 AVE,Brooklyn,1.0
+N/B WASHINGTON AVE @ LINCOLN PLACE,Brooklyn,1.0
+S/B WASHINGTON AVE @ EASTERN PKWY,Brooklyn,1.0
+OCEAN VIEW AVENUE,Brooklyn,1.0
+CONEY ISLAND AVENUE,Brooklyn,1.0
+GUIDER AV,Brooklyn,1.0
+JENNINGS ST BET VYSE AVE & HOE ST,Bronx,1.0
+E167TH ST WB APPR BET VYSE AVE & HOE AVE,Bronx,1.0
+LONG ISLAND EXPWY ET 19 WB,Queens,1.0
+BEACH CHANNEL DR APPROACH TO BEACH 136TH ST,Queens,1.0
+UTICA AVE NB APPROACH TO CHURCH AVE,Brooklyn,1.0
+UTICA AVE SB APPROACH TO CHURCH AVE,Brooklyn,1.0
+E/B CORTELYOU RD @ CONEY ISLAND AVE,Brooklyn,1.0
+E/B CORTELYOU RD(E LEG)@CONEY ISLAND AVE,Brooklyn,1.0
+WILLIAMSBURG BR EXIT S 5 ST,Brooklyn,1.0
+SOUTHERN BOULEVARD,Bronx,1.0
+AV M,Brooklyn,1.0
+W/B EMMONS AVE @ E 15 ST,Brooklyn,1.0
+RIVERSIDE DRIVE EAST,Manhattan,1.0
+SHEEPSHEAD BAY RD BET E 16 ST & JEROME AVE,Brooklyn,1.0
+STEWART ST,Brooklyn,1.0
+Lirr Atlantic Line,Brooklyn,1.0
+Beach 117 Street,Queens,1.0
+Beach 115 Street,Queens,1.0
+Cross Bay Blvd and Cohancy St Overpass,Queens,1.0
+East 38 Street,Manhattan,1.0
+Caton Ave and Albemarle Rd,Brooklyn,1.0
+Drake Street,Bronx,1.0
+LAFAYETTE AV,Bronx,1.0
+Stryker Street,Brooklyn,1.0
+Lawrence Street,Queens,1.0
+CLE NB EXIT 7,Queens,1.0
+29 AV,Queens,1.0
+203 ST,Queens,1.0
+ROE PL,Queens,1.0
+W 1 ST,Brooklyn,1.0
+CHESNUT ST,Brooklyn,1.0
+MURDOCK CT,Brooklyn,1.0
+LIBERTY AV/EUCLID AV/WELLS ST,Brooklyn,1.0
+East 175 Street,Bronx,1.0
+East 179 St Footbridge,Bronx,1.0
+Stryker Court,Brooklyn,1.0
+Beach Street,Bronx,1.0
+Tiebout Avenue,Bronx,1.0
+CHARLOTTE ST,Bronx,1.0
+WHITESTONE EXPRESSWAY SR E/STRATTON ST,Queens,1.0
+Stebbins Avenue,Bronx,1.0
+94 ST,Queens,1.0
+QNSBO BR UP RY APPR/DUTCH KILLS ST,Queens,1.0
+Weirfield Street,Queens,1.0
+Asser Levy Place,Manhattan,1.0
+W 9 ST/SMITH ST,Brooklyn,1.0
+Sackett Street,Brooklyn,1.0
+COOPER ST/IRVING AV,Queens,1.0
+Brighton 8 Place,Brooklyn,1.0
+Brighton 10 Lane,Brooklyn,1.0
+SHORE PKWY/BANNER AV,Brooklyn,1.0
+BRIGHTON 8 CT,Brooklyn,1.0
+LELAND AV,Bronx,1.0
+Cooper Street,Queens,1.0
+Ireland Street,Queens,1.0
+S 5 ST/HAVEMEYER ST,Brooklyn,1.0
+Jennings Street,Bronx,1.0
+52 Avenue,Queens,1.0
+Little Neck Parkway,Queens,1.0
+268 Street,Queens,1.0
+Riverside Drive West,Manhattan,1.0
+Seabury Place,Bronx,1.0
+East 16 Street,Brooklyn,1.0
+W 177 ST,Manhattan,1.0
+Avenue U,Brooklyn,1.0
+Braddock Avenue,Queens,1.0
+BEACH 137 ST,Queens,1.0
+Chestnut Avenue,Brooklyn,1.0
+BEACH 136 ST,Queens,1.0
+Clarendon Road,Brooklyn,1.0
+RALPH AV,Brooklyn,1.0
+Canarsie Lane,Brooklyn,1.0
+BEACH 130 ST,Queens,1.0
+BEACH 117 ST,Queens,1.0
+East 15 Street,Brooklyn,1.0
+W 172 ST,Manhattan,1.0
+East 88 Street,Brooklyn,1.0
+AUTUMN AV,Brooklyn,1.0
+Avenue O,Brooklyn,1.0
+MORRIS ST/GREENWICH ST,Manhattan,1.0
+OLEAN ST,Brooklyn,1.0
+Avenue M,Brooklyn,1.0
+E 26 ST,Brooklyn,1.0
+Stanley Avenue,Brooklyn,1.0
+DUTCH ST,Manhattan,1.0
+Drew Street,Brooklyn,1.0
+6 ST,Brooklyn,1.0
+Putnam Avenue,Brooklyn,1.0
+Longfellow Avenue,Bronx,1.0
+Vanderbilt Street,Brooklyn,1.0
+Mohegan Avenue,Bronx,1.0
+Bronx Street,Bronx,1.0
+ALLISON AVENUE,Staten Island,1.0
+SOUTHERN BLVD/BRONX RIVER GREENWAY,Bronx,1.0
+Cortelyou Road,Brooklyn,1.0
+EXTERIOR ST,Bronx,1.0
+Avenue C,Manhattan,1.0
+CROSS BX EXWY SB EXIT 6 A/HUTCHINSON RIVER PKWY N*,Queens,1.0
+W 179 ST,Manhattan,1.0
+Allison Avenue,Staten Island,1.0
+Sutter Avenue,Queens,1.0
+PARK PL,Brooklyn,1.0
+Willow Street,Brooklyn,1.0
+ELIZABETH PL,Brooklyn,1.0
+HOOK CREEK BR,Queens,1.0
+VANDERBILT ST,Brooklyn,1.0
+DITMARS BLVD,Queens,1.0
+PROSPECT PL,Brooklyn,1.0
+181 Street,Queens,1.0
+SEELEY ST,Brooklyn,1.0
+BAINBRIDGE ST,Brooklyn,1.0
+103 AV,Queens,1.0
+BELKNAP STREET,Queens,1.0
+TAHOE ST,Queens,1.0
+ALBEMARLE RD,Brooklyn,1.0
+Lott Place,Brooklyn,1.0
+S/B BOSTON ROAD @ MCOWEN AVE - ROPES AVE,Bronx,1.0
+W/B BRUCKNER EXPWY MAIN @ EDGEWATER ROAD,Bronx,1.0
+CORTELYOU AVENUE,Staten Island,1.0
+N/B CLASSON AVE @ DEKALB AVE,Brooklyn,1.0
+W/B N CONDUIT AVE @ BROOKVILLE BLVD,Queens,1.0
+ASHFORD STREET,Brooklyn,1.0
+MEEKER AV,Brooklyn,1.0
+N/B PARK AVE @ E 61 ST,Manhattan,1.0
+N/B 3RD AVE (2 LANES E SIDE) @ E 61 ST,Manhattan,1.0
+S/B LEXINGTON AVE @ E 60 ST,Manhattan,1.0
+W/B E HOUSTON ST @ ALLEN ST,Manhattan,1.0
+W/B FLUSHING BRIDGE @ VAN WYCK EXPWY RMP,Queens,1.0
+E/B FLUSHING BRIDGE @ PRINCE ST,Queens,1.0
+FLUSHING BR,Queens,1.0
+78TH ST BET NORTHERN BLVD & 34TH AVE,Queens,1.0
+E/B HAMPTON GREEN @ ARDEN AVE,Staten Island,1.0
+2ND EXIT FROM MALL TO BAYCHESTER AVE,Bronx,1.0
+BAY PLAZA MALL APPROACH TO BAYCHESTER AVE,Bronx,1.0
+BAY PLAZA ROAD EXIT-WB,Bronx,1.0
+COURTLANDT AVENUE,Bronx,1.0
+N/B HUTCHINSON RIVER PKWY BRIDGE,Bronx,1.0
+S/B HUTCHINSON RIVER PKWY BRIDGE,Bronx,1.0
+HUT RIVR PKY ON RMP FRM WB PELHM PKY,Bronx,1.0
+HUT RIVR PKY OF RMP TO WB PELHM PKY,Bronx,1.0
+W/B JEWEL AVE (W LEG) @ 164 ST,Queens,1.0
+W/B JEWEL AVE (W LWG) @ 164 ST,Queens,1.0
+N/B PULASKI BRIDGE @ EAGLE ST - 49 AVE,Queens,1.0
+W 97TH ST APPROACH TO RIVERSIDE RD SR,Manhattan,1.0
+SLOSSON AVE SB APPROACH TO SCHMIDTS LN,Staten Island,1.0
+SLOSSON AVE NB APPROACH TO SCHMIDTS LN,Staten Island,1.0
+N/B E 10 ST @ FOSTER AVE,Brooklyn,1.0
+UTICS AVE NB APPROACH TO KINGS HIGHWAY,Brooklyn,1.0
+UTICA AVE SB APPROACH TO KINGS HIGHWAY,Brooklyn,1.0
+BAYCHESTER AV NB SOUTH OF BAY PLAZA ROAD-RIGHT ONLY,Bronx,1.0
+EAST 60 STREET,Manhattan,1.0
+GOWANUS EXPWY WB EN HAMILTON AVE,Brooklyn,1.0
+S/B GRAND CONCOURSE(S/R)@VAN CORTLANDT A,Bronx,1.0
+W/B 69 RD @ MEADOW LAKE RD W,Queens,1.0
+N/B NEW ENGLAND THRUWAY @ CITY LINE,Bronx,1.0
+S/B NEW ENGLAND THRUWAY @ CITY LINE,Bronx,1.0
+N/B GRAND CONCORS ENT RMP @ E 206 ST,Bronx,1.0
+GRAND CONCOURSE MAIN RD APPROACH TO MT EDEN AVE,Bronx,1.0
+RIKERS IS BR,Queens,1.0
+E/B JEWEL AVE @ VAN WYCK EXPWY,Queens,1.0
+E/B 32 AVE @ 203 ST,Queens,1.0
+115 RD,Queens,1.0
+E/B EAST 14TH ST@ BROADWAY,Manhattan,1.0
+W/B EAST 14TH ST@ UNION SQUARE SOUTH,Manhattan,1.0
+E/B W 178TH ST @ WADSWORTH AVE,Manhattan,1.0
+SUYDAM ST,Brooklyn,1.0
+HART ST,Brooklyn,1.0
+NB EXTERIOR ST RIGHT SLIP RAMP TO BROADWAY,Bronx,1.0
+EB W 230th ST APPR TO BROADWAY,Bronx,1.0
+WB W 230th ST APPROACH TO BROADWAY,Bronx,1.0
+59 ST,Queens,1.0
+EASTCHESTER BR,Bronx,1.0
+N/B EASTCHESTER BRIDGE @ ROPES AVE,Bronx,1.0
+S/B EASTCHESTER BRIDGE @ NOELL AVE,Bronx,1.0
+WEST 57 STREET,Manhattan,1.0
+WEST 219 STREET,Manhattan,1.0
+BEACH 22 STREET,Queens,1.0
+W/B UNION TPKE@ LAKEVILLE RD (CITY LINE),Queens,1.0
+E/B UNION TPKE@ LAKEVILLE RD (CITY LINE),Queens,1.0
+N/B READS LANE @ EMPIRE AVE,Queens,1.0
+N/B B 102 ST @ ROCKAWAY BEACH BLVD,Queens,1.0
+BEACH 77 ST,Queens,1.0
+S/B B 102 ST @ ROCKAWAY BEACH BLVD,Queens,1.0
+FOUNTAIN AVENUE,Brooklyn,1.0
+PUGSLEY AVENUE,Bronx,1.0
+E/B WILLIAMSBRIDGE RD @ E TREMONT AVE,Bronx,1.0
+QUINTARD ST,Staten Island,1.0
+N/B 164 ST @ JEWEL AVE,Queens,1.0
+E/B 116 AVE @ 223 ST,Queens,1.0
+W/B 116 AVE @ 223 ST,Queens,1.0
+Ocean Pkwy SB SRD Between,Brooklyn,1.0
+CONCOURSE LINE,Bronx,1.0
+NARROWS RD N,Staten Island,1.0
+N/B 18 AVE @ 56 ST,Brooklyn,1.0
+105 STREET,Queens,1.0
+WHITESTONE EXWY NB EXIT 15,Queens,1.0
+N/B WHITESTONE EXPWY BRIDGE,Queens,1.0
+WHE SB EN ULMER ST,Queens,1.0
+S/B 141 ST @ BOOTH MEMORIAL AVE,Queens,1.0
+S/B 164 ST @ 59 AVE,Queens,1.0
+S/B 2ND AVE (3 LANES E SIDE) @ E 60 ST,Manhattan,1.0
+FDR DR,Manhattan,1.0
+VYSE AVENUE,Bronx,1.0
+76 STREET,Queens,1.0
+ROOSEVELT AVENUE BRIDGE,Queens,1.0
+WILLIAMSBURG BRIDGE,Manhattan,1.0
+BRUCKNER BLVD SR APPROACH TO HUNTS POINT AVE,Bronx,1.0
+GOWANUS EXPRESSWAY,Brooklyn,1.0
+STATE RD,Queens,1.0
+43RD AVE BET 50TH ST & ISLAND AT 51ST ST,Queens,1.0
+W/B NASSAU AVE @ ECKFORD ST,Brooklyn,1.0
+S/B STEUBEN ST @ WINDERMERE RD,Staten Island,1.0
+N/B STEUBEN ST @ WINDERMERE RD,Staten Island,1.0
+ROCKAWAY AV,Brooklyn,1.0
+HUT RIVR PKWY ON RMP S OF PELHAM PKY,Bronx,1.0
+W/B Pelham Pkwy@270' E/O Ent Ramp to 95N,Bronx,1.0
+BAYCHESTER AVE SOUTH OF BARTOW AVE,Bronx,1.0
+CO OP CITY APPROACH TO BARTOW AVE,Bronx,1.0
+ASCH LOOP APPROACH TO BARTOW AVE,Bronx,1.0
+CO OP CITY BLVD APPROACH TO BAYCHESTER AVE,Bronx,1.0
+Manor Road,Staten Island,1.0
+Coughlan Avenue,Staten Island,1.0
+Morrison Avenue,Staten Island,1.0
+67 Street,Brooklyn,1.0
+54 RD,Queens,1.0
+86 Street,Brooklyn,1.0
+CHEVY CHASE ST,Queens,1.0
+105 Avenue,Queens,1.0
+Rosewood Street,Bronx,1.0
+Glenwood Avenue,Staten Island,1.0
+Beverly Avenue,Staten Island,1.0
+E HOUSTON ST/FDR DR NB EXIT 5/E HOUSTON STREET PE*,Manhattan,1.0
+W 12 RD,Queens,1.0
+N 8 ST,Brooklyn,1.0
+Franklin Street,Brooklyn,1.0
+E 163 ST,Bronx,1.0
+59 Street,Brooklyn,1.0
+KENT AV/N 14 ST,Brooklyn,1.0
+East 3 Road,Queens,1.0
+Mace Avenue,Bronx,1.0
+HONE AV,Bronx,1.0
+NASSAU ST/FLATBUSH AV EX,Brooklyn,1.0
+East 85 Street,Manhattan,1.0
+E 95 ST,Manhattan,1.0
+E 78 ST,Brooklyn,1.0
+5 AVE,Manhattan,1.0
+E 82 ST,Manhattan,1.0
+East 90 Street,Manhattan,1.0
+Between 2nd Ave and Hamilton Pl,Brooklyn,1.0
+West 177 Street,Manhattan,1.0
+125 AV,Queens,1.0
+Elizabeth Place,Brooklyn,1.0
+TOMLINSON AV,Bronx,1.0
+Oxford Place,Staten Island,1.0
+104 Avenue,Queens,1.0
+Victory Boulevard,Staten Island,1.0
+BEDFORD AV/LORIMER ST,Brooklyn,1.0
+242 ST,Queens,1.0
+E 90 ST,Manhattan,1.0
+West 151 Street,Manhattan,1.0
+SHARROTTS RD,Staten Island,1.0
+SURF AV,Brooklyn,1.0
+Schroeders Avenue,Brooklyn,1.0
+114 Drive,Queens,1.0
+W 105 ST,Manhattan,1.0
+Bay 22 Street,Brooklyn,1.0
+West 16 Street,Brooklyn,1.0
+W 109 ST,Manhattan,1.0
+Bruner Avenue,Bronx,1.0
+East 161 Street,Bronx,1.0
+Bay 28 Street,Brooklyn,1.0
+Hart Place,Brooklyn,1.0
+West 113 Street,Manhattan,1.0
+W 117 ST,Manhattan,1.0
+Mc Donald Street,Bronx,1.0
+Mc Farland Avenue,Staten Island,1.0
+ST CLAIRE PL/HHP NB EXIT 12,Manhattan,1.0
+KINGSLAND AV,Brooklyn,1.0
+Mt Judah Cemetery Boundary,Queens,1.0
+Manhattan Avenue,Manhattan,1.0
+Seneca Avenue,Queens,1.0
+28 RD,Queens,1.0
+JACKIE ROBINSON PKWY EB ET 2,Queens,1.0
+49 AV,Queens,1.0
+Martha Avenue,Bronx,1.0
+West 172 Street,Manhattan,1.0
+Yukon Avenue,Staten Island,1.0
+5 AV/E 120 ST,Manhattan,1.0
+5 AV/W 120 ST,Manhattan,1.0
+MILLER AV,Brooklyn,1.0
+Grand Central Parkway,Queens,1.0
+EDGECOMBE AV,Manhattan,1.0
+Beach Channel Drive,Queens,1.0
+Division Place,Brooklyn,1.0
+Morgan Avenue,Brooklyn,1.0
+Georgia Avenue,Brooklyn,1.0
+Porter Avenue,Brooklyn,1.0
+VERMONT PL,Queens,1.0
+CARPENTER AV,Bronx,1.0
+Gun Hill Houses Pedestrian Path,Bronx,1.0
+West 19 Street,Brooklyn,1.0
+W 16 ST,Brooklyn,1.0
+BATCHELDER ST,Brooklyn,1.0
+BRAGG ST,Brooklyn,1.0
+87 Street,Queens,1.0
+West 13 Street,Brooklyn,1.0
+Flatlands Avenue,Brooklyn,1.0
+Bushwick Avenue,Brooklyn,1.0
+DOUGLAS AV,Bronx,1.0
+W 236 ST,Bronx,1.0
+Vandalia Avenue,Brooklyn,1.0
+Madison Avenue,Manhattan,1.0
+East 71 Street,Manhattan,1.0
+Einstein Loop South,Bronx,1.0
+52 AV / 62 ST,Queens,1.0
+Carlton Avenue,Brooklyn,1.0
+Gansevoort Street,Manhattan,1.0
+CO-OP CITY BLVD,Bronx,1.0
+30 Avenue,Queens,1.0
+BRIDGE ST,Manhattan,1.0
+Caldwell Avenue,Queens,1.0
+87 DR,Queens,1.0
+71 STREET,Brooklyn,1.0
+Clawson St and Hylan Blvd,Staten Island,1.0
+Colonial Court,Staten Island,1.0
+WATER ST/HANOVER SQ,Manhattan,1.0
+EAST 101 STREET,Brooklyn,1.0
+Viele Avenue,Bronx,1.0
+Melrose Avenue,Bronx,1.0
+Gouverneur Lane,Manhattan,1.0
+71 Street,Queens,1.0
+E 173 ST,Bronx,1.0
+W 251 ST,Bronx,1.0
+Liberty Place,Manhattan,1.0
+E 238 St,Bronx,1.0
+MACOMBS DAM BR,Manhattan,1.0
+54 STREET,Queens,1.0
+Hewlett Street,Queens,1.0
+43 ST/SOUND ST,Queens,1.0
+HRD SB EN E 142 ST,Manhattan,1.0
+Major Deegan Expwy Et 6 Sb,Bronx,1.0
+Chambers Street,Manhattan,1.0
+ROMBOUTS AV,Bronx,1.0
+BROADWAY/69 ST,Queens,1.0
+65 Street,Brooklyn,1.0
+Linden St and Gates Ave,Brooklyn,1.0
+Clove Lakes Park Path,Staten Island,1.0
+Rae Street,Bronx,1.0
+Christopher Avenue,Brooklyn,1.0
+HIMROD ST,Queens,1.0
+Woodward Avenue,Queens,1.0
+Asch Loop,Bronx,1.0
+Linden Hill Cemetery Boundary,Queens,1.0
+Boody Street,Queens,1.0
+Britton Avenue,Queens,1.0
+32 AV,Queens,1.0
+Bolton Street,Bronx,1.0
+Bay 40 St,Brooklyn,1.0
+E 16 St,Brooklyn,1.0
+E 120 ST,Manhattan,1.0
+Madison Street,Manhattan,1.0
+Mulberry Street,Manhattan,1.0
+Catherine Street,Manhattan,1.0
+DOYERS ST/CATHERINE ST/CHATHAM SQ/DIVISION ST,Manhattan,1.0
+42 Street,Brooklyn,1.0
+AV C,Brooklyn,1.0
+MALBONE ST,Brooklyn,1.0
+Rikers Is Bridge,Queens,1.0
+18 AVENUE,Brooklyn,1.0
+66 ST/GOE EB EXIT 20,Brooklyn,1.0
+FDR DR ENTRY RP,Manhattan,1.0
+ISABELLA AV,Staten Island,1.0
+BQE WB EXIT 27,Brooklyn,1.0
+Bqe Eb Entrance Atlantic Ave,Brooklyn,1.0
+VINE ST / BQE ENT,Brooklyn,1.0
+Henry Street,Brooklyn,1.0
+PAERDEGAT 1 ST/E 77 ST,Brooklyn,1.0
+BLEECKER ST,Queens,1.0
+East River West Channel Shl,Manhattan,1.0
+47 AV,Queens,1.0
+Silver Lake Park Road,Staten Island,1.0
+Theresa Place,Staten Island,1.0
+West 122 Street,Manhattan,1.0
+Middagh Street,Brooklyn,1.0
+Cauldwell Avenue,Bronx,1.0
+E BROADWAY,Manhattan,1.0
+E 43 ST,Brooklyn,1.0
+46 Avenue,Queens,1.0
+DOCK ST,Brooklyn,1.0
+Pike Slip,Manhattan,1.0
+Gallatin Place,Brooklyn,1.0
+East 92 Street,Brooklyn,1.0
+Kelly Street,Bronx,1.0
+Simpson Street,Bronx,1.0
+E 101 ST,Brooklyn,1.0
+Barry Street,Bronx,1.0
+Barretto Street,Bronx,1.0
+East 102 Street,Brooklyn,1.0
+Manida Street,Bronx,1.0
+W 121 ST,Manhattan,1.0
+Brooklyn Queens Ep Et 29 A Eb,Brooklyn,1.0
+Rapelye Street,Brooklyn,1.0
+Edgecombe Avenue,Manhattan,1.0
+Williams Avenue,Brooklyn,1.0
+GOLD ST,Brooklyn,1.0
+SACKMAN ST,Brooklyn,1.0
+SOUTHERN BLVD/E 163 ST,Bronx,1.0
+Jamaica Line,Brooklyn,1.0
+Faile Street,Bronx,1.0
+51 ST,Queens,1.0
+GCP EB EN 94 ST,Queens,1.0
+LINDEN PL,Queens,1.0
+CROSS ISLAND PKWY,Queens,1.0
+Gothic Drive,Queens,1.0
+169 Street,Queens,1.0
+West 23 Street,Manhattan,1.0
+39 AV,Queens,1.0
+MADISON AV BR/HRD NB EXIT 21/HARLEM RIVER DRIVE G*,Manhattan,1.0
+Qn-ny Cnty Shoreline,Manhattan,1.0
+30 AV,Queens,1.0
+55 Street,Queens,1.0
+42 AV,Queens,1.0
+Coyle Street,Brooklyn,1.0
+Neptune Ave and Ocean View Ave,Brooklyn,1.0
+168 Place,Queens,1.0
+164 PL,Queens,1.0
+East 34 Street,Manhattan,1.0
+Midland Avenue,Staten Island,1.0
+Colfax Avenue,Staten Island,1.0
+43 ST,Queens,1.0
+210 ST,Queens,1.0
+East 52 Street,Brooklyn,1.0
+110 Street,Queens,1.0
+ARCADE AV,Queens,1.0
+West 41 Street,Manhattan,1.0
+BRP NB EXIT 8 E/BRONX RIVER GREENWAY,Bronx,1.0
+Riverton Street,Queens,1.0
+MEXICO ST,Queens,1.0
+W 23 ST,Manhattan,1.0
+Frawley Circle,Manhattan,1.0
+218 Street,Queens,1.0
+BERMUDA PL,Staten Island,1.0
+HOLLY CT,Staten Island,1.0
+WHITAKERS PL,Staten Island,1.0
+Urbana Street,Staten Island,1.0
+FRED DOUGLASS CIR,Manhattan,1.0
+220 Street,Queens,1.0
+Beach 3 Street,Queens,1.0
+38 Avenue,Queens,1.0
+UTTER AV,Staten Island,1.0
+Queens Midtown Tunnel Approach,Manhattan,1.0
+PINSON ST,Queens,1.0
+West 35 Street,Manhattan,1.0
+NAMEOKE AV,Queens,1.0
+ESTATES LA,Queens,1.0
+Lenox Avenue,Manhattan,1.0
+FAIRVIEW AV,Staten Island,1.0
+Main Avenue,Queens,1.0
+POTTER AV,Staten Island,1.0
+East 37 Street,Manhattan,1.0
+HASSOCK ST/HORTON AV,Queens,1.0
+East River Shoreline,Manhattan,1.0
+RIVERSIDE DR/EDWARD M MORGAN PL,Manhattan,1.0
+Oriental Boulevard,Brooklyn,1.0
+KNAPP ST,Brooklyn,1.0
+Hicks Street,Brooklyn,1.0
+112 Street,Queens,1.0
+East 41 Street,Manhattan,1.0
+Ford Place,Staten Island,1.0
+W 44 ST,Manhattan,1.0
+SLOSSON AV,Staten Island,1.0
+Glenwood Place,Staten Island,1.0
+Amtrak-connecting Rail Line,Queens,1.0
+193 Street,Queens,1.0
+Hassock Street,Queens,1.0
+Nugent Street,Staten Island,1.0
+Livingston Avenue,Staten Island,1.0
+SUFFOLK AVENUE,Staten Island,1.0
+Gansevoort Boulevard,Staten Island,1.0
+Gowanus Expwy Wb En Prospect Ave,Brooklyn,1.0
+Renwick Avenue,Staten Island,1.0
+Ditmars Boulevard,Queens,1.0
+42 Avenue,Queens,1.0
+Hillside Avenue,Queens,1.0
+234 ST,Queens,1.0
+Little Clove Road,Staten Island,1.0
+250 Street,Queens,1.0
+221 Street,Queens,1.0
+Oneida Avenue,Staten Island,1.0
+VAN DUZER ST,Staten Island,1.0
+COLUMBIA AV,Staten Island,1.0
+PROSPECT PARK SW/BIKE PATH,Brooklyn,1.0
+Collfield Avenue,Staten Island,1.0
+Lacombe Avenue,Bronx,1.0
+E 124 ST/W 124 ST,Manhattan,1.0
+HAVEN ESPLN,Staten Island,1.0
+DUER LA,Staten Island,1.0
+BEACH 9 ST,Queens,1.0
+CROSBY AV,Brooklyn,1.0
+5 Street,Queens,1.0
+E 123 ST,Manhattan,1.0
+East Mt Eden Avenue,Bronx,1.0
+E MOUNT EDEN AV,Bronx,1.0
+East 178 Street,Bronx,1.0
+West 187 Street,Manhattan,1.0
+Rockaway Parkway,Brooklyn,1.0
+Queens Boulevard Line,Queens,1.0
+E RD/W RD,Queens,1.0
+HENSHAW ST,Manhattan,1.0
+MANGIN ST,Manhattan,1.0
+Bowery,Manhattan,1.0
+HUTCHINSON RVR PKWY SB ET 4 B,Bronx,1.0
+Bedell Lane,Brooklyn,1.0
+East 95 Street,Brooklyn,1.0
+KINGSTON AV,Brooklyn,1.0
+DYCKMAN ST/HUDSON RIVER GREENWAY,Manhattan,1.0
+Court Square,Queens,1.0
+VILLAGE RD,Queens,1.0
+12 Street,Queens,1.0
+30 Drive,Queens,1.0
+5 AV/E 72 ST,Manhattan,1.0
+64 AV,Queens,1.0
+Kildare Road,Queens,1.0
+ACADEMY ST,Manhattan,1.0
+32 PL,Queens,1.0
+SKILLMAN AV/35 ST,Queens,1.0
+145 RD,Queens,1.0
+39 AV/NORTHERN BLVD,Queens,1.0
+Between 56th St and 57th St,Brooklyn,1.0
+W 204 ST,Manhattan,1.0
+40 Street,Brooklyn,1.0
+EUCLID AV,Brooklyn,1.0
+Union Street,Brooklyn,1.0
+PENELOPE AV,Queens,1.0
+Between Bills Pl and Chester Ave,Brooklyn,1.0
+E 76 ST,Brooklyn,1.0
+45 ROAD,Queens,1.0
+44 RD,Queens,1.0
+44 AV,Queens,1.0
+189 ST/46 RD,Queens,1.0
+Euclid Avenue,Brooklyn,1.0
+COLUMBUS CIRCLE,Manhattan,1.0
+137 ST,Queens,1.0
+Vermilyea Avenue,Manhattan,1.0
+CROSS IS PKWY SER. RD,Queens,1.0
+Dwight Street,Brooklyn,1.0
+Sumpter Street,Brooklyn,1.0
+UNIVERSITY HEIGHTS BRIDGE APPR,Manhattan,1.0
+Baychester Avenue,Bronx,1.0
+130 Street,Queens,1.0
+BEAVER STREET,Brooklyn,1.0
+HUNTINGTON ST/CLINTON ST,Brooklyn,1.0
+KEEGANS LA,Staten Island,1.0
+ENT RMP TO EB GCP,Queens,1.0
+WOODHULL ST,Brooklyn,1.0
+40 Road,Queens,1.0
+Franklin Avenue Shuttle Line,Brooklyn,1.0
+SUMMIT ST,Brooklyn,1.0
+Bowne Street,Queens,1.0
+COLDEN ST,Queens,1.0
+Sheridan Ep Nb En Hunts Pt Av,Bronx,1.0
+VANDERVOORT AV,Brooklyn,1.0
+West 119 Street,Manhattan,1.0
+COOK ST,Brooklyn,1.0
+Patchen Avenue,Brooklyn,1.0
+Mill Street,Brooklyn,1.0
+HOLLY AV,Queens,1.0
+ROBINSON ST,Queens,1.0
+30TH AV/33RD ST,Queens,1.0
+West 9 Street,Brooklyn,1.0
+W 98 ST,Manhattan,1.0
+Woodside Avenue,Queens,1.0
+West 44 Street,Manhattan,1.0
+WASHINGTON STREET,Manhattan,1.0
+Grattan Street,Brooklyn,1.0
+Vandervoort Place,Brooklyn,1.0
+English Kills Shoreline,Brooklyn,1.0
+Burling Street,Queens,1.0
+57 Street,Queens,1.0
+149 Street,Queens,1.0
+1 Place,Brooklyn,1.0
+MANHATTAN,Manhattan,1.0
+Butler Street,Brooklyn,1.0
+Forsyth Street,Manhattan,1.0
+RIDGE ST,Manhattan,1.0
+158 Street,Queens,1.0
+Co-op City Boulevard,Bronx,1.0
+West End/sea Beach Line,Brooklyn,1.0
+WEST 117 STREET,Manhattan,1.0
+Rfk Bridge Exit Ramp,Manhattan,1.0
+56 Street,Queens,1.0
+GRAND ARMY PLZ,Brooklyn,1.0
+Harrison Avenue,Bronx,1.0
+East 47 Street,Manhattan,1.0
+DRUMGOOLE RD W,Staten Island,1.0
+E 47 ST,Manhattan,1.0
+East 45 Street,Brooklyn,1.0
+MT MORRIS PARK W BET W 124TH ST & W 123RD ST,Manhattan,1.0
+W/B SACKETT ST @ SMITH ST,Brooklyn,1.0
+W/B 37 AVE @ 34 ST,Queens,1.0
+E/B 37 AVE @ 34 ST,Queens,1.0
+E/B BATTERY PLACE @ WASHINGTON ST,Manhattan,1.0
+THORNHILL AVENUE,Queens,1.0
+MARATHON PARKWAY,Queens,1.0
+149 PLACE,Queens,1.0
+E/B FARRAGUT RD @ E 38 ST,Brooklyn,1.0
+W/B BROADWAY @ ELMHURST AVE,Queens,1.0
+S/B BROADWAY @ JUSTICE AVE,Queens,1.0
+N/B BROADWAY @ JUSTICE AVE,Queens,1.0
+HUBBARD ST,Brooklyn,1.0
+W/B POWERS ST @ GRAHAM ST,Brooklyn,1.0
+W/B POWERS ST @ GRAHAM AVE,Brooklyn,1.0
+1 AV W RDWY,Manhattan,1.0
+UTICA AVE NB APPROACH TO FLATLANDS AVE,Brooklyn,1.0
+Winthrop St,Brooklyn,1.0
+N/B 7 AVENUE @ 86 STREET,Brooklyn,1.0
+MILES AV,Staten Island,1.0
+N/B GREAVES AVE @ DEWY AVE,Staten Island,1.0
+E/B 56 ST @ 18 AVE,Brooklyn,1.0
+EMPIRE BLVD EB APPROACH TO WASHINGTON AVE,Brooklyn,1.0
+AVE V-EB APPROACHING NOSTRAND AVE,Brooklyn,1.0
+UTICA AVE SB APPROACH TO EMPIRE BLVD,Brooklyn,1.0
+S/B FORT WASHINGTON AVE @ W 179TH ST,Manhattan,1.0
+N/B 89 ST @ PARK LANE SOUTH,Queens,1.0
+AVE Z BET HOMECREST AVE & E 13TH ST,Brooklyn,1.0
+S/B 5TH AVE @ E 60TH ST,Manhattan,1.0
+PAGE AVENUE,Staten Island,1.0
+Richmond Rd,Staten Island,1.0
+PARK AVE @ RYERSON ST,Brooklyn,1.0
+ROCKAWAY B BLVD,Queens,1.0
+58 ROAD,Queens,1.0
+S/B 5 AVENUE @ EAST 65 ST - EAST 64 ST,Manhattan,1.0
+CONTINENTAL AVE APPROACH PELHAM PKWY SO,Bronx,1.0
+N/B GERRITSEN AVE @ CHANNEL AVE,Brooklyn,1.0
+YORK AVE BET E 88TH ST & E 89TH ST,Manhattan,1.0
+YORK AVE BET E 88TH ST & 89TH ST,Manhattan,1.0
+E/B AVE T @ PEARSON ST,Brooklyn,1.0
+3RD AVE APPROACH TO 57TH ST,Manhattan,1.0
+PARK AVE APPROACH TO 57TH ST,Manhattan,1.0
+PROVOST STREET,Brooklyn,1.0
+S/B CROSS BAY BLVD @ VAN WICKLEN RD,Queens,1.0
+NEILL AV,Bronx,1.0
+W 17TH STREET BET NEPTUNE & MERMAID AVES,Brooklyn,1.0
+SB STILLWELL AVE APPROACH MERMAID AVE,Brooklyn,1.0
+Victory Blvd EB Between,Staten Island,1.0
+Victory Blvd WB Between,Staten Island,1.0
+218 PLACE,Queens,1.0
+LOUIS STREET,Staten Island,1.0
+E/B NASSAU AVE @ MANHATTAN AVE,Brooklyn,1.0
+W/B MERRICK BLVD @ 243 ST (CITY LINE),Queens,1.0
+FRESH KILLS BR,Staten Island,1.0
+S/B 3 AVE BRIDGE @ 3 STREET - 6 STREET,Brooklyn,1.0
+N/B 3 AVE BRIDGE @ 3 STREET - 6 STREET,Brooklyn,1.0
+3 ST BR,Brooklyn,1.0
+YORK AVE BET E 90TH ST & E 91ST ST,Manhattan,1.0
+FREDERICK DOUGLASS BOULEVARD,Manhattan,1.0
+E/B ARTHUR KILL RD @ SHARROTTS RD,Staten Island,1.0
+NB STILLWELL AVE APPROACH MERMAID AVE,Brooklyn,1.0
+223 STREET,Queens,1.0
+CROSS ISLAND PARKWAY SR SOUTH,Queens,1.0
+SOUTHERN BLVD APPROACH TO LONGWOOD AVE,Bronx,1.0
+65TH ST WB APPROACH TO BAY PARKWAY,Brooklyn,1.0
+75TH ST EB APPROACH TO BAY PARKWAY,Brooklyn,1.0
+86TH ST WB APPROACH TO BAY PARKWAY,Brooklyn,1.0
+65TH ST EB APPROACH TO BAY PARKWAY,Brooklyn,1.0
+N/B AMSTERDAM AVE @ W 110 ST,Manhattan,1.0
+EDGECOMBE AVENUE,Manhattan,1.0
+ANDERSON AVENUE,Bronx,1.0
+E/B 60 ST( E/LEG) @ 5TH AVE,Brooklyn,1.0
+60TH ST APPROACHING 4TH AVE,Brooklyn,1.0
+4th AVE & 86th ST,Brooklyn,1.0
+UNION ST APPROACHING 4TH AVE,Brooklyn,1.0
+PROSPECT AVE APPROACHING 4TH AVE,Brooklyn,1.0
+S/B BROADWAY @ E 23RD ST,Manhattan,1.0
+UTICA AVE SB APPROACH TO AVE N,Brooklyn,1.0
+W/B EAST 174 STREET BRIDGE @ BOONE AVE,Bronx,1.0
+WEST FARMS RD&JENNINGS ST NB AP BT BOONE AVE&JENNIN,Bronx,1.0
+S/B AMSTERDAM AVE @ W 110 ST,Manhattan,1.0
+E/B EAST 14TH ST@ IRVING PL.,Manhattan,1.0
+SENATOR ST,Brooklyn,1.0
+BAY 29 STREET,Brooklyn,1.0
+WEST 177 STREET,Manhattan,1.0
+MORNINGSIDE AV,Manhattan,1.0
+SAND LANE,Staten Island,1.0
+PARK LANE SOUTH,Queens,1.0
+E/B AVE W @ WEST 6 ST,Brooklyn,1.0
+BAY PKWY NB BET 86th ST & 85th ST,Brooklyn,1.0
+BAY PARKWAY SB APPROACH TO 86TH ST,Brooklyn,1.0
+N/B WEST 6 ST @ AVE W,Brooklyn,1.0
+WEST 6th ST S.OF AVE W,Brooklyn,1.0
+Grand Central Parkway Sr North,Queens,0.0
+E 124 ST/5 AV,Manhattan,0.0
+LUTEN AV,Staten Island,0.0
+SETH CT,Staten Island,0.0
+HILLBROOK DR,Staten Island,0.0
+Pierrepont Street,Brooklyn,0.0
+S LAKE DR,Brooklyn,0.0
+Crystal Avenue,Staten Island,0.0
+Randall Avenue,Bronx,0.0
+Hegeman Avenue,Brooklyn,0.0
+W 125 ST/E 125 ST,Manhattan,0.0
+GLEN AV,Staten Island,0.0
+HIGHLAND BLVD,Brooklyn,0.0
+E 124 ST,Manhattan,0.0
+W 46 ST,Manhattan,0.0
+CARY AV,Staten Island,0.0
+W 148 ST,Manhattan,0.0
+PELTON AV,Staten Island,0.0
+5 AV/E 135 ST,Manhattan,0.0
+E 126 ST/RFK BRIDGE PED AND BIKE PATH,Manhattan,0.0
+Pugsley Avenue,Bronx,0.0
+BRADY AV,Bronx,0.0
+Virginia Street,Queens,0.0
+E 39 ST/5 AV,Manhattan,0.0
+5 AV/E 40 ST,Manhattan,0.0
+Grand Avenue,Brooklyn,0.0
+108 Drive,Queens,0.0
+WOODSTOCK AV/GLEN AV,Staten Island,0.0
+20 AV/MC DONALD AV,Brooklyn,0.0
+E 75 ST,Manhattan,0.0
+Sand Lane,Staten Island,0.0
+MC CLEAN AV,Staten Island,0.0
+71 RD,Queens,0.0
+E 43 ST/W 43 ST,Manhattan,0.0
+PARK PEDESTRIAN PATH,Queens,0.0
+Targee Street,Staten Island,0.0
+W 62 ST,Manhattan,0.0
+AMBER ST,Brooklyn,0.0
+RFK BRIDGE ENTRANCE RAMP,Manhattan,0.0
+E 125 ST/WILLIS AV BR APPR/WILLIS AVENUE BRIDGE B*,Manhattan,0.0
+Merrick Boulevard,Queens,0.0
+HUDSON ST/HOLLAND TUN APPR,Manhattan,0.0
+West 72 Street,Manhattan,0.0
+Colonial Road,Brooklyn,0.0
+VERRAZANO BR APPR,Brooklyn,0.0
+WEST HOUSTON STREET,Manhattan,0.0
+W 87 ST,Manhattan,0.0
+W 73 ST,Manhattan,0.0
+MELROSE AV/E 149 ST/WILLIS AV,Bronx,0.0
+WEST DR,Manhattan,0.0
+Muliner Avenue,Bronx,0.0
+MATTHEWS AV,Bronx,0.0
+BROOKVILLE PARK GREENWAY,Queens,0.0
+E TREMONT AV/BRONXDALE AV,Bronx,0.0
+Plainview Avenue,Queens,0.0
+Pierce Avenue,Bronx,0.0
+E 25 ST BR,Manhattan,0.0
+TYSENS LN,Staten Island,0.0
+JORALEMON STREET,Brooklyn,0.0
+Rhinelander Avenue,Bronx,0.0
+146 AV,Queens,0.0
+St Anns Avenue,Bronx,0.0
+W 61 DR,Manhattan,0.0
+ROSELLE ST,Bronx,0.0
+W 100 ST,Manhattan,0.0
+West 98 Street,Manhattan,0.0
+BLONDELL AV,Bronx,0.0
+W 66 ST,Manhattan,0.0
+LISBON PL,Staten Island,0.0
+74 ST,Brooklyn,0.0
+NORTH RAILROAD AVENUE,Staten Island,0.0
+Waters Place,Bronx,0.0
+Neptune Avenue,Brooklyn,0.0
+WAKEMAN PL,Brooklyn,0.0
+West 71 Street,Manhattan,0.0
+Stillwell Avenue,Brooklyn,0.0
+CANEY RD,Queens,0.0
+East 163 Street,Bronx,0.0
+St Marys Street,Bronx,0.0
+58 Street,Queens,0.0
+Thwaites Place,Bronx,0.0
+West 74 Street,Manhattan,0.0
+E 63 STREET PEDESTRIAN OPAS,Manhattan,0.0
+Concord Avenue,Bronx,0.0
+3 AV/GOE WB EN 61 ST,Brooklyn,0.0
+LUDWIG ST,Staten Island,0.0
+Royal Oak Road,Staten Island,0.0
+BARKER AV,Bronx,0.0
+BRITTON ST,Bronx,0.0
+TRINITY AV,Bronx,0.0
+97 ST TRANSVERSE/W 97 ST,Manhattan,0.0
+Frederick Douglass Boulevard,Manhattan,0.0
+Senator Street,Brooklyn,0.0
+VAN WYCK EXWY NB EXIT 11/72 AV,Queens,0.0
+Mc Donald Avenue,Brooklyn,0.0
+Raymond Avenue,Staten Island,0.0
+ANDERSON ST,Staten Island,0.0
+Purcell Street,Staten Island,0.0
+Burke Avenue,Bronx,0.0
+BQE EB EXIT 35 E-W,Queens,0.0
+271 ST,Queens,0.0
+220 ST,Queens,0.0
+218 Place,Queens,0.0
+F D R DR/E 5 WALK PEDESTRIAN OPAS,Manhattan,0.0
+W 13 RD,Queens,0.0
+N 9 ST,Brooklyn,0.0
+Wythe Avenue,Brooklyn,0.0
+HOOK CREEK BLVD,Queens,0.0
+N 15 ST,Brooklyn,0.0
+East 4 Road,Queens,0.0
+107 AV,Queens,0.0
+Allerton Avenue,Bronx,0.0
+PAULDING AV,Bronx,0.0
+SANDS ST,Brooklyn,0.0
+East 86 Street,Manhattan,0.0
+E 83 ST,Manhattan,0.0
+East 91 Street,Manhattan,0.0
+15 ST,Brooklyn,0.0
+E 89 ST,Manhattan,0.0
+East 149 Street,Bronx,0.0
+CALYER ST,Brooklyn,0.0
+E 57 ST,Manhattan,0.0
+Broad Channel Island Shoreline,Queens,0.0
+Kent Street,Brooklyn,0.0
+VAN WICKLEN RD,Queens,0.0
+EDDY ST,Staten Island,0.0
+Hollis Avenue,Queens,0.0
+LYDIG AV,Bronx,0.0
+ZION ST,Queens,0.0
+MORENCI LA,Queens,0.0
+HARRISON AV,Brooklyn,0.0
+179 ST,Queens,0.0
+S PORTLAND AV,Brooklyn,0.0
+WALTON ST,Brooklyn,0.0
+WEST 77 STREET,Manhattan,0.0
+RAYMOND AV,Staten Island,0.0
+Wright Ave,Staten Island,0.0
+Van Cortlandt Avenue West,Bronx,0.0
+JEROME AV/E GUN HILL RD,Bronx,0.0
+UNIONPORT RD,Bronx,0.0
+JJ BYRNE MEMORIAL BRG,Brooklyn,0.0
+SHUBERT AL,Manhattan,0.0
+W 52 ST,Manhattan,0.0
+West 55 Street,Manhattan,0.0
+BENNETT ST,Staten Island,0.0
+E 97 ST,Manhattan,0.0
+DEKALB AV,Bronx,0.0
+BAINBRIDGE AV,Bronx,0.0
+E 15 St,Brooklyn,0.0
+CENTRAL PK,Manhattan,0.0
+Prospect Park Southwest,Brooklyn,0.0
+PARKSIDE AV/S LAKE DR,Brooklyn,0.0
+Manor Avenue,Bronx,0.0
+53 RD,Queens,0.0
+Underhill Avenue,Brooklyn,0.0
+COOPER AV/IRVING AV,Brooklyn,0.0
+JAMES ST,Manhattan,0.0
+Onslow Place,Queens,0.0
+Inwood Street,Queens,0.0
+10 Street,Staten Island,0.0
+JEFFERSON AV,Queens,0.0
+111 Avenue,Queens,0.0
+HOYT ST,Brooklyn,0.0
+Rose Avenue,Queens,0.0
+Gerard Avenue,Bronx,0.0
+PAERDEGAT 9 ST,Brooklyn,0.0
+E 39 ST,Brooklyn,0.0
+WHITNEY AV,Queens,0.0
+51 AV,Queens,0.0
+CROPSEY AV/NEPTUNE AV,Brooklyn,0.0
+PALMETTO ST/MYRTLE AV,Brooklyn,0.0
+Albany Ave,Brooklyn,0.0
+BARLOW AV,Staten Island,0.0
+DEWEY AV,Staten Island,0.0
+East Fordham Road,Bronx,0.0
+NEW DORP LA/N RAILROAD AV,Staten Island,0.0
+West 86 Street,Manhattan,0.0
+Mackenzie Street,Brooklyn,0.0
+CLAWSON ST,Staten Island,0.0
+ELY AV/STRANG AV,Bronx,0.0
+SHEEPSHEAD BAY RD,Brooklyn,0.0
+C P E 60 APPR/E 60 ST,Manhattan,0.0
+MURIEL ST,Staten Island,0.0
+63 DR,Queens,0.0
+Hylan Boulevard,Staten Island,0.0
+W 57 ST,Manhattan,0.0
+Roosevelt St,Staten Island,0.0
+COYLE ST,Brooklyn,0.0
+Bragg Street,Brooklyn,0.0
+GRAND AV/BQE,Brooklyn,0.0
+71 PL,Queens,0.0
+WATERBURY ST,Brooklyn,0.0
+Boerum Street,Brooklyn,0.0
+MAUJER ST,Brooklyn,0.0
+E 65 ST/65 ST TRANSVERSE,Manhattan,0.0
+Revere Avenue,Bronx,0.0
+E 197 ST,Bronx,0.0
+PELHAM PKWY S/PELHAM PKWY EN WB/PELHAM PARKWAY GR*,Bronx,0.0
+BURNETT ST/AV P,Brooklyn,0.0
+CHANNEL AV,Brooklyn,0.0
+Ocean Pkwy SB Mainline,null,0.0
+Ocean Pkwy NB Mailline Between,null,0.0
+Sutphin Boulevard,Queens,0.0
+MOSHOLU PKWY,Bronx,0.0
+Black Bank Marsh Shoreline,Queens,0.0
+Junction Boulevard,Queens,0.0
+Greenwich Street,Manhattan,0.0
+MDE NB EXIT 14,Bronx,0.0
+74 Place,Queens,0.0
+97 PL,Queens,0.0
+King Street,Manhattan,0.0
+GREENWICH ST/9 AV,Manhattan,0.0
+GANSEVOORT ST,Manhattan,0.0
+99 STREET,Queens,0.0
+90 AVENUE,Queens,0.0
+62 ROAD,Queens,0.0
+110 STREET,Queens,0.0
+COURT PL,Staten Island,0.0
+West 117 Street,Manhattan,0.0
+West 4 Street,Manhattan,0.0
+CHRISTOPHER ST/W 9 ST,Manhattan,0.0
+Simonson Ave,Staten Island,0.0
+South Railroad Avenue,Staten Island,0.0
+Bishop Street,Staten Island,0.0
+Penrod Street,Queens,0.0
+67 DR,Queens,0.0
+JERSEY ST,Manhattan,0.0
+Simonson Avenue,Staten Island,0.0
+Walker Street,Staten Island,0.0
+STANTON ST,Manhattan,0.0
+LAFAYETTE ST/E 10 ST,Manhattan,0.0
+E 14 ST/UNION SQ S,Manhattan,0.0
+UNION SQ W,Manhattan,0.0
+26 Avenue,Queens,0.0
+Harvey Avenue,Staten Island,0.0
+Rombouts Avenue,Bronx,0.0
+Mc Guinness Blvd South,Brooklyn,0.0
+34 AV,Queens,0.0
+DECKER AV,Staten Island,0.0
+BAISLEY BLVD S,Queens,0.0
+136 Avenue,Queens,0.0
+184 Street,Queens,0.0
+WEXFORD TER/87 DR,Queens,0.0
+POST AV,Staten Island,0.0
+Henley Road,Queens,0.0
+Leonard Street,Brooklyn,0.0
+De Groot Place,Staten Island,0.0
+W 24 ST,Manhattan,0.0
+118 Avenue,Queens,0.0
+Rivington Street,Manhattan,0.0
+155 ST,Queens,0.0
+DIAMOND ST,Brooklyn,0.0
+Pidgeon Meadow Road,Queens,0.0
+33 Avenue,Queens,0.0
+76 AVENUE,Queens,0.0
+Hutchinson River Parkway,Bronx,0.0
+Baisley Boulevard,Queens,0.0
+Bqe Wb Entrance Meeker Ave,Brooklyn,0.0
+189 Street,Queens,0.0
+Riverside Drive,Manhattan,0.0
+Archer Avenue,Queens,0.0
+155 Street,Queens,0.0
+North Henry Street,Brooklyn,0.0
+195 ST,Queens,0.0
+CODDINGTON AV,Staten Island,0.0
+Enfield Place,Staten Island,0.0
+170 ST,Queens,0.0
+Freeborn Street,Staten Island,0.0
+Richardson Street,Brooklyn,0.0
+Russell Street,Brooklyn,0.0
+52 Street,Queens,0.0
+GCP EB EXIT 6,Queens,0.0
+Mother Gaston Boulevard,Brooklyn,0.0
+LAURELTON PKWY,Queens,0.0
+Highland Avenue,Queens,0.0
+BK BR EXIT RP/ROSE ST,Manhattan,0.0
+GOWANUS EXWY EB EXIT 18,Brooklyn,0.0
+West 24 Street,Manhattan,0.0
+East 233 Street,Bronx,0.0
+COLONY AV,Staten Island,0.0
+28 AV,Queens,0.0
+NEPTUNE AV,Brooklyn,0.0
+Ramp,Manhattan,0.0
+168 Street,Queens,0.0
+167 ST/VINE ST,Queens,0.0
+Beach 73 Street,Queens,0.0
+Steinway Street,Queens,0.0
+44 ST,Queens,0.0
+GRANT PL,Staten Island,0.0
+West 42 Street,Manhattan,0.0
+BRP NB EN DR KAZIMIROFF BLVD,Bronx,0.0
+Lovingham Place,Queens,0.0
+Beach 9 Street,Queens,0.0
+Central Park Lenox Avenue Appr,Manhattan,0.0
+SEAVER AV,Staten Island,0.0
+Old Town Road,Staten Island,0.0
+LIGHTNER AV,Staten Island,0.0
+Beach 4 Street,Queens,0.0
+Brielle Avenue,Staten Island,0.0
+East 211 Street,Bronx,0.0
+STATEN ISL EXWY WB EXIT 12/REON AV,Staten Island,0.0
+RICE AV,Staten Island,0.0
+AVE OF THE AMERICAS/CENTRAL PARK S,Manhattan,0.0
+West 34 Street,Manhattan,0.0
+REDFERN AV,Queens,0.0
+208 PL,Queens,0.0
+E 34 ST,Manhattan,0.0
+LENOX AVENUE,Manhattan,0.0
+16 AV,Brooklyn,0.0
+Nassau Expressway,Queens,0.0
+Shore Boulevard,Brooklyn,0.0
+PURCELL ST,Staten Island,0.0
+Pleasant Avenue,Manhattan,0.0
+Long Island Sound Shoreline,Bronx,0.0
+41 Road,Queens,0.0
+69 Lane,Queens,0.0
+Bronx River Avenue,Bronx,0.0
+Berkeley Place,Brooklyn,0.0
+ROYAL OAK RD,Staten Island,0.0
+Tonking Road,Staten Island,0.0
+Suffolk Avenue,Staten Island,0.0
+LIVINGSTON AVENUE,Staten Island,0.0
+Ocean Terrace,Staten Island,0.0
+22 Road,Queens,0.0
+223 Street,Queens,0.0
+Milford Drive,Staten Island,0.0
+Bruckner Boulevard,Bronx,0.0
+WHITESTONE EXPRESSWAY SR W/ULMER ST,Queens,0.0
+CAYUGA AV/SIE WB EN CLOVE RD,Staten Island,0.0
+Marathon Parkway,Queens,0.0
+Stratton Street,Queens,0.0
+E NEW YORK AV/REMSEN AV,Brooklyn,0.0
+EAST DR,Manhattan,0.0
+Troutman Street,Brooklyn,0.0
+13 Avenue,Brooklyn,0.0
+W 207 ST,Manhattan,0.0
+39 Street,Brooklyn,0.0
+EVERTON ST,Queens,0.0
+WINDERMERE ROAD,Staten Island,0.0
+BILLS PL,Brooklyn,0.0
+E 77 ST,Manhattan,0.0
+CRANE ST,Queens,0.0
+Pennsylvania Avenue,Brooklyn,0.0
+43 RD,Queens,0.0
+UTOPIA PKWY,Queens,0.0
+Bainbridge Street,Brooklyn,0.0
+36 Street,Brooklyn,0.0
+Saratoga Avenue,Brooklyn,0.0
+Barclay Avenue,Queens,0.0
+Richards Street,Brooklyn,0.0
+Hall Of Fame Terrace,Bronx,0.0
+Mac Dougal Street,Brooklyn,0.0
+UNIVERSITY HEIGHTS BR,Manhattan,0.0
+HARKNESS AV,Brooklyn,0.0
+CROSS BAY BLVD/WOODHAVEN BLVD,Queens,0.0
+NELSON ST,Brooklyn,0.0
+EDENWALD AV,Bronx,0.0
+LAKEVILLE RD,Queens,0.0
+Halleck Street,Bronx,0.0
+Franklin Avenue,Brooklyn,0.0
+Varick Avenue,Brooklyn,0.0
+Cherry Avenue,Queens,0.0
+Parsons Boulevard,Queens,0.0
+MONTROSE AV,Brooklyn,0.0
+Bruckner Expressway Exit 49 Eb,Bronx,0.0
+VANDERVOORT AVENUE,Brooklyn,0.0
+Parade Place,Brooklyn,0.0
+FORREST ST,Brooklyn,0.0
+Van Buren Street,Brooklyn,0.0
+Malcolm X Boulevard,Brooklyn,0.0
+GERANIUM AV,Queens,0.0
+SMART ST,Queens,0.0
+Brooklyn Waterfront Greenway,Brooklyn,0.0
+32ND ST,Queens,0.0
+Garnet Street,Brooklyn,0.0
+KANE ST,Brooklyn,0.0
+STEINWAY ST,Queens,0.0
+West 45 Street,Manhattan,0.0
+BROOKLYN BATTERY TUNNEL,Manhattan,0.0
+Thames Street,Brooklyn,0.0
+STEWART AV,Brooklyn,0.0
+W 69 ST,Manhattan,0.0
+2 Place,Brooklyn,0.0
+BRONX,Manhattan,0.0
+Douglass Street,Brooklyn,0.0
+ATTORNEY ST,Manhattan,0.0
+29 RD,Queens,0.0
+SACKETT ST,Brooklyn,0.0
+Bay Plaza Driveway,Bronx,0.0
+WEST 118 STREET,Manhattan,0.0
+CROSBY ST,Manhattan,0.0
+Aqueduct Avenue East,Bronx,0.0
+Nevins Street,Brooklyn,0.0
+MEADOW LK BRIDGE,Queens,0.0
+BAISLEY AV,Bronx,0.0
+Evergreen Avenue,Brooklyn,0.0
+W 230 ST,Bronx,0.0
+INDEPENDENCE AV,Bronx,0.0
+OXFORD AV,Bronx,0.0
+KENT ST,Brooklyn,0.0
+East 72 Street,Manhattan,0.0
+MOUNT OLIVET CR,Queens,0.0
+Pearl Street,Brooklyn,0.0
+Adelphi Street,Brooklyn,0.0
+8 ST,Brooklyn,0.0
+Bleecker Street,Brooklyn,0.0
+State Street,Brooklyn,0.0
+BATTERY PL,Manhattan,0.0
+MELROSE AVENUE,Bronx,0.0
+Mazeau Street,Queens,0.0
+Wall Street,Manhattan,0.0
+East 172 Street,Bronx,0.0
+E 174 ST,Bronx,0.0
+HENRY HUDSON PARKWAY NB EN BDWY,Bronx,0.0
+CHURCH ST,Manhattan,0.0
+NEW ENGLAND THRWY SB EXIT 14,Bronx,0.0
+BQE EXIT NB/45 ST,Queens,0.0
+5 AV/PEDESTRIAN OPAS,Manhattan,0.0
+CASEY STENGEL PLAZA,Queens,0.0
+BQE WB EXIT 37/69 ST,Queens,0.0
+Duane Street,Manhattan,0.0
+DREISER LOOP,Bronx,0.0
+WORTH ST,Manhattan,0.0
+PALMETTO ST/WYCKOFF AV,Brooklyn,0.0
+23 Avenue,Brooklyn,0.0
+HARMAN ST,Queens,0.0
+Fairview Avenue,Queens,0.0
+Bartow Avenue,Bronx,0.0
+HENRY ST,Brooklyn,0.0
+Himrod Street,Queens,0.0
+76 Street,Queens,0.0
+77 Street,Queens,0.0
+Astoria Boulevard Ramp,Queens,0.0
+Baxter Avenue,Queens,0.0
+25 Ave,Brooklyn,0.0
+Sheepshead Bay Rd,Brooklyn,0.0
+E 121 ST,Manhattan,0.0
+James Street,Manhattan,0.0
+Chatham Square,Manhattan,0.0
+PELL ST,Manhattan,0.0
+AMITY ST,Brooklyn,0.0
+BEVERLY RD,Brooklyn,0.0
+MONTGOMERY ST,Brooklyn,0.0
+BATCHELDER STREET,Brooklyn,0.0
+BOERUM PL,Brooklyn,0.0
+ONDERDONK AV,Queens,0.0
+GUYON AV,Staten Island,0.0
+YUKON AV,Staten Island,0.0
+PRINCETON AV,Staten Island,0.0
+BQE WESTBOUND EXIT 27,Brooklyn,0.0
+BQE EXT,Brooklyn,0.0
+MENAHAN ST,Queens,0.0
+Trinity Avenue,Bronx,0.0
+CANAL ST/ESSEX ST,Manhattan,0.0
+FARRAGUT RD,Brooklyn,0.0
+TROY AVE,Brooklyn,0.0
+LONGWOOD AV,Bronx,0.0
+46 Road,Queens,0.0
+West 6 Street,Brooklyn,0.0
+WEST 141 STREET,Manhattan,0.0
+Slosson Terrace,Staten Island,0.0
+East 234 Street,Bronx,0.0
+THIRD AVENUE BRIDGE BIKE PATH,Bronx,0.0
+DELANCEY ST,Manhattan,0.0
+Albion Avenue,Queens,0.0
+162 Avenue,Queens,0.0
+Cadman Plaza West,Brooklyn,0.0
+RICHMOND TERR,Staten Island,0.0
+107 Street,Queens,0.0
+PAGE AV,Staten Island,0.0
+COVENTRY RD,Brooklyn,0.0
+E 80 ST,Brooklyn,0.0
+Nelson Street,Brooklyn,0.0
+219 ST,Queens,0.0
+VAN SICKLEN ST,Brooklyn,0.0
+135 AV,Queens,0.0
+56 DR,Queens,0.0
+Myrtle Avenue,Brooklyn,0.0
+***ATR was moved s/o 83rd Rd because it was impossible to install on approach to Clarendon (block is too short),Brooklyn,0.0
+N 12 ST,Brooklyn,0.0
+149 ST,Queens,0.0
+WATERBURY AV,Bronx,0.0
+PELHAM PKWY S,Bronx,0.0
+BOLLER AV,Bronx,0.0
+215 ST,Queens,0.0
+AMHERST ST,Brooklyn,0.0
+14 ST/HAMILTON PL,Brooklyn,0.0
+ARMSTRONG AV,Staten Island,0.0
+OCEAN CT,Brooklyn,0.0
+AINSWORTH AV/S RAILROAD AV,Staten Island,0.0
+Ainsworth Avenue,Staten Island,0.0
+AMBOY RD/S RAILROAD AV,Staten Island,0.0
+East 79 Street,Manhattan,0.0
+Grants Tomb Boundary,Manhattan,0.0
+TURIN DR,Queens,0.0
+PALMER AVENUE,Bronx,0.0
+E 62 ST,Manhattan,0.0
+DE REIMER AV,Bronx,0.0
+HILL AV,Bronx,0.0
+E TREMONT AV/CASTLE HILL AV,Bronx,0.0
+LYVERE ST,Bronx,0.0
+Tomlinson Avenue,Bronx,0.0
+High Bridge,Bronx,0.0
+PARK PEDESTRIAN  CROSSING,Queens,0.0
+Bx State Hospital Entrance,Bronx,0.0
+44 DRIVE,Queens,0.0
+White Street,Brooklyn,0.0
+47 Street,Queens,0.0
+S 3 ST,Brooklyn,0.0
+TOWNLEY AV/NORWALK AV,Staten Island,0.0
+RECTOR ST,Staten Island,0.0
+BOWERY/MN BR APPR,Manhattan,0.0
+CARLTON CT/DRUMGOOLE RD W,Staten Island,0.0
+WILLIAMS AVENUE,Brooklyn,0.0
+CUMMING ST,Manhattan,0.0
+188 Street,Queens,0.0
+Wood Street,Queens,0.0
+Dunkirk Street,Queens,0.0
+20 Road,Queens,0.0
+E 47 ST/W 47 ST,Manhattan,0.0
+Cleveland Place,Manhattan,0.0
+HODGES PL,Staten Island,0.0
+FRIEL PL,Brooklyn,0.0
+PROSPECT PARK W,Brooklyn,0.0
+PROSPECT PARK W/WEST DR,Brooklyn,0.0
+WALLABOUT ST/FRANKLIN AV,Brooklyn,0.0
+West 181 Street,Manhattan,0.0
+SILVER ST,Bronx,0.0
+Union Square West,Manhattan,0.0
+W 86 ST/86 ST TRANSVERSE,Manhattan,0.0
+139 ST,Queens,0.0
+57 RD,Queens,0.0
+CENTER DR/CENTRAL PARK S,Manhattan,0.0
+Castleton Avenue,Staten Island,0.0
+Marion Street,Brooklyn,0.0
+FARMERS BLVD,Queens,0.0
+SULLIVAN PL,Brooklyn,0.0
+SUMPTER ST,Brooklyn,0.0
+CLAVER PL,Brooklyn,0.0
+Caffrey Avenue,Queens,0.0
+114 ST,Queens,0.0
+UNION SQ S,Manhattan,0.0
+COLON STREET,Staten Island,0.0
+ELDER AV,Queens,0.0
+DUER AV,Staten Island,0.0
+96 ST,Queens,0.0
+HEWES ST,Brooklyn,0.0
+LEE AV/NOSTRAND AV,Brooklyn,0.0
+LINCOLN ST/131 ST,Queens,0.0
+Van Wyck Expressway Sr East,Queens,0.0
+61 Street,Queens,0.0
+Van Siclen Avenue,Brooklyn,0.0
+W 126 ST,Manhattan,0.0
+61 AV,Queens,0.0
+Bamberger Lane,Staten Island,0.0
+159 ST,Queens,0.0
+HAMILTON ST,Brooklyn,0.0
+GARNET ST,Brooklyn,0.0
+BEEKMAN PL,Brooklyn,0.0
+Convent Avenue,Manhattan,0.0
+W 163 ST,Manhattan,0.0
+Lexington Avenue Line,Manhattan,0.0
+GOULDEN AV,Bronx,0.0
+FLUSHING AV/NOSTRAND AV,Brooklyn,0.0
+LEE AVENUE,Brooklyn,0.0
+132 Street,Queens,0.0
+14 Avenue,Queens,0.0
+142 RD,Queens,0.0
+HAMPDEN PLACE,Bronx,0.0
+Shelterview Drive,Staten Island,0.0
+211 Street,Queens,0.0
+RUGBY RD,Brooklyn,0.0
+KENILWORTH AV,Staten Island,0.0
+Drumgoole Road East,Staten Island,0.0
+MACON STREET,Brooklyn,0.0
+Osborn Street,Brooklyn,0.0
+Mokom Sholom Cemetery Bdy,Queens,0.0
+Bay Street,Staten Island,0.0
+Brook Street,Staten Island,0.0
+BAY ST/PEDESTRIAN PATH,Staten Island,0.0
+Cross Island Parkway Sr North,Queens,0.0
+Hoyt Avenue North,Queens,0.0
+YATES AV,Bronx,0.0
+DEAN ST,Brooklyn,0.0
+East 1 Street,Brooklyn,0.0
+Congress Street,Brooklyn,0.0
+Rutgers Slip,Manhattan,0.0
+Hoyt Street,Brooklyn,0.0
+TRUCKELMANS LA,Brooklyn,0.0
+WILLOUGHBY ST,Brooklyn,0.0
+East 93 Street,Brooklyn,0.0
+Tiffany Street,Bronx,0.0
+E 103 ST,Brooklyn,0.0
+East 103 Street,Brooklyn,0.0
+Belknap Street,Queens,0.0
+W 122 ST,Manhattan,0.0
+Coles Street,Brooklyn,0.0
+Columbia Street,Brooklyn,0.0
+HUDSON AV,Brooklyn,0.0
+AV W,Brooklyn,0.0
+GLENMORE AV,Brooklyn,0.0
+Centre Mall,Brooklyn,0.0
+AV T,Brooklyn,0.0
+Conway Street,Brooklyn,0.0
+Edgewater Road,Bronx,0.0
+CONWAY ST,Brooklyn,0.0
+Chestnut Street,Brooklyn,0.0
+Beach 116 Street,Queens,0.0
+West 1 Street,Brooklyn,0.0
+Wilson Street,Staten Island,0.0
+N CONDUIT BLVD,Brooklyn,0.0
+PINE ST,Brooklyn,0.0
+E 1 ST,Brooklyn,0.0
+East 180 Street,Bronx,0.0
+Avenue W,Brooklyn,0.0
+CRESCENT ST,Brooklyn,0.0
+Autumn Avenue,Brooklyn,0.0
+CITY ISLAND AV,Bronx,0.0
+WHITESTONE EXPRESSWAY SR E/22 AV,Queens,0.0
+LUIS NINE BLVD,Bronx,0.0
+Louis Nine Boulevard,Bronx,0.0
+QUEENS ST,Queens,0.0
+E 4 ST,Brooklyn,0.0
+Coney Island Avenue,Brooklyn,0.0
+VYSE AV/W FARMS RD,Bronx,0.0
+SNYDER AV,Brooklyn,0.0
+Williamsburg Place,Brooklyn,0.0
+Division Avenue,Brooklyn,0.0
+East 13 Street,Brooklyn,0.0
+WILLIAMSBURG BR/BQE EB EN WILLIAMSBURG BR,Brooklyn,0.0
+62 ST,Queens,0.0
+62 RD,Queens,0.0
+Thornhill Avenue,Queens,0.0
+Westmoreland Street,Queens,0.0
+East Houston Street,Manhattan,0.0
+80 Avenue,Queens,0.0
+RIVERSIDE DR/W 79 ST/HHP NB EXIT 10 E,Manhattan,0.0
+CROSS ISLAND PARKWAY,Queens,0.0
+Bay Court,Brooklyn,0.0
+Palmetto Street,Queens,0.0
+Ocean Avenue,Brooklyn,0.0
+W 178 ST/CBE NB ET 1A UPPERDECK,Manhattan,0.0
+Emmons Avenue,Brooklyn,0.0
+QUENTIN RD,Brooklyn,0.0
+East 2 Street,Brooklyn,0.0
+91 Avenue,Queens,0.0
+AV I,Brooklyn,0.0
+2 ST,Brooklyn,0.0
+East 4 Street,Brooklyn,0.0
+LONGFELLOW AV,Bronx,0.0
+BEACH 135 ST,Queens,0.0
+Avenue D,Brooklyn,0.0
+BEACH 129 ST,Queens,0.0
+80 Street,Queens,0.0
+Rugby Road,Brooklyn,0.0
+PITKIN AV/LINCOLN AV,Brooklyn,0.0
+Avenue N,Brooklyn,0.0
+BELMONT AV,Brooklyn,0.0
+BK BATTERY TUN EXIT,Manhattan,0.0
+E 27 ST,Brooklyn,0.0
+Forbell Street,Brooklyn,0.0
+Loring Avenue,Brooklyn,0.0
+NASSAU ST,Manhattan,0.0
+RUBY ST,Brooklyn,0.0
+Seeley Street,Brooklyn,0.0
+Honeywell Avenue,Bronx,0.0
+PRINCETON AVENUE,Staten Island,0.0
+Bridge Street,Brooklyn,0.0
+BQE WB EN COLUMBIA ST,Brooklyn,0.0
+Father Zeiser Place,Bronx,0.0
+Kane Street,Brooklyn,0.0
+W 180 ST,Manhattan,0.0
+Princeton Avenue,Staten Island,0.0
+HARLEM RIVER DR SR W,Manhattan,0.0
+Pitkin Avenue,Queens,0.0
+WINDSOR PL/TERRACE PL,Brooklyn,0.0
+DORCHESTER RD,Brooklyn,0.0
+LENOX AV,Manhattan,0.0
+180 STREET,Queens,0.0
+74 PL,Queens,0.0
+TURNER PL,Brooklyn,0.0
+Hawtree Street,Queens,0.0
+Carpenter Avenue,Queens,0.0
+E 10 ST,Brooklyn,0.0
+99 Street,Queens,0.0
+99 ST,Queens,0.0
+Hughes Avenue,Bronx,0.0
+SELFRIDGE ST,Queens,0.0
+Westminster Road,Brooklyn,0.0
+PRE WB EXIT 2 B,Brooklyn,0.0
+HENRY HUDSON PKWY NB EN BROADWAY/LAKEVIEW PL,Bronx,0.0
+Pulaski Bridge Bike Path,Queens,0.0
+106 ST,Queens,0.0
+East 17 Street,Brooklyn,0.0
+77 Avenue,Queens,0.0
+EMPIRE BLVD/FLATBUSH AV,Brooklyn,0.0
+Thornton Street,Brooklyn,0.0
+METROPOLITAN AVE,Brooklyn,0.0

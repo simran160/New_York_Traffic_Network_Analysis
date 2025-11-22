@@ -1,0 +1,101 @@
+name,description,query,id,parentId,isFolder
+BDV_Project,,,0,,true
+c1,,"LOAD CSV WITH HEADERS FROM 'file:///Automated_Traffic_Volume_Counts_with_latlon.csv' AS row
+WITH row.fromSt AS fromSt,
+     row.toSt AS toSt,
+     row.street AS street,
+     toInteger(row.Vol) AS vol,
+     row.Boro AS boro
+
+// Filter out null or empty key fields to avoid merge errors
+WHERE fromSt IS NOT NULL AND fromSt <> '' 
+  AND toSt IS NOT NULL AND toSt <> '' 
+  AND street IS NOT NULL AND street <> ''
+
+WITH fromSt, toSt, street, boro, vol
+
+WITH fromSt, toSt, street, boro, avg(vol) AS avg_vol
+
+MERGE (fromNode:Street {name: fromSt})
+SET fromNode.avg_volume = coalesce(fromNode.avg_volume, 0) + avg_vol,
+    fromNode.boro = boro
+
+MERGE (streetNode:Street {name: street})
+SET streetNode.avg_volume = coalesce(streetNode.avg_volume, 0) + avg_vol,
+    streetNode.boro = boro
+
+MERGE (toNode:Street {name: toSt})
+SET toNode.avg_volume = coalesce(toNode.avg_volume, 0) + avg_vol,
+    toNode.boro = boro
+
+MERGE (fromNode)-[:ROAD_TO]->(streetNode)
+MERGE (streetNode)-[:ROAD_TO]->(toNode);
+
+",1,0,false
+c3,,"CALL gds.graph.project(
+  'trafficGraph',
+  'Street',
+  {
+    ROAD_TO: {
+      properties: 'avg_volume'
+    }
+  }
+);
+",2,0,false
+"intersections with most connections, often hubs or busy junctions.",,"//intersections with most connections, often hubs or busy junctions.
+CALL gds.degree.stream('trafficGraph')
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+WHERE NOT (
+  toLower(node.name) CONTAINS 'dead end'
+  OR toLower(node.name) CONTAINS 'alley'
+  OR toLower(node.name) CONTAINS 'connector'
+  OR toLower(node.name) CONTAINS 'bend'
+)
+RETURN node.name AS Intersection, node.boro AS Borough, score
+ORDER BY score DESC
+",3,0,false
+nodes acting as bridges or bottlenecks in the network.,,"//nodes acting as bridges or bottlenecks in the network.
+CALL gds.betweenness.stream('trafficGraph')
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+WHERE NOT (
+  toLower(node.name) CONTAINS 'dead end'
+  OR toLower(node.name) CONTAINS 'alley'
+  OR toLower(node.name) CONTAINS 'connector'
+  OR toLower(node.name) CONTAINS 'bend'
+)
+RETURN node.name AS Intersection, node.boro AS Borough, score
+ORDER BY score DESC
+",4,0,false
+c7,,"CALL gds.closeness.stream('trafficGraph')
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+WHERE NOT (
+  toLower(node.name) CONTAINS 'dead end'
+  OR toLower(node.name) CONTAINS 'alley'
+  OR toLower(node.name) CONTAINS 'connector'
+  OR toLower(node.name) CONTAINS 'bend'
+)
+RETURN node.name AS Intersection, node.boro AS Borough, score
+ORDER BY score DESC",5,0,false
+c8,,"MATCH (s1:Street)-[r:ROAD_TO]->(s2:Street)
+WHERE toLower(s1.boro) = 'brooklyn' 
+      AND toLower(s2.boro) = 'brooklyn'
+      AND NOT toLower(s1.name) CONTAINS 'dead end'
+      AND NOT toLower(s2.name) CONTAINS 'dead end'
+      AND NOT toLower(s1.name) CONTAINS 'alley'
+      AND NOT toLower(s2.name) CONTAINS 'connector'
+      AND NOT toLower(s1.name) CONTAINS 'bend'
+RETURN s1, r, s2
+
+",6,0,false
+c9,,"MATCH (s1:Street)-[r:ROAD_TO]->(s2:Street)
+WHERE
+      NOT toLower(s1.name) CONTAINS 'dead end'
+      AND NOT toLower(s2.name) CONTAINS 'dead end'
+      AND NOT toLower(s1.name) CONTAINS 'alley'
+      AND NOT toLower(s2.name) CONTAINS 'connector'
+      AND NOT toLower(s1.name) CONTAINS 'bend'
+RETURN s1, r, s2
+",7,0,false
